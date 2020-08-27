@@ -2,7 +2,7 @@
     {
         "id": "0",
         "data": {
-            "lastUpdate": "2020-08-27T07:26:57.270Z"
+            "lastUpdate": "2020-08-27T04:08:48.710Z"
         }
     },
     {
@@ -866,7 +866,7 @@
             {
                 "date": "2020-08-01T00:00:00.000Z",
                 "amount": 628,
-                "recovered": 591
+                "recovered": 592
             },
             {
                 "date": "2020-08-02T00:00:00.000Z",
@@ -906,7 +906,7 @@
             {
                 "date": "2020-08-09T00:00:00.000Z",
                 "amount": 923,
-                "recovered": 2423
+                "recovered": 2424
             },
             {
                 "date": "2020-08-10T00:00:00.000Z",
@@ -975,7 +975,7 @@
             },
             {
                 "date": "2020-08-23T00:00:00.000Z",
-                "amount": 963,
+                "amount": 964,
                 "recovered": 2267
             },
             {
@@ -990,13 +990,13 @@
             },
             {
                 "date": "2020-08-26T00:00:00.000Z",
-                "amount": 1937,
-                "recovered": 752
+                "amount": 1936,
+                "recovered": 751
             },
             {
                 "date": "2020-08-27T00:00:00.000Z",
-                "amount": 263,
-                "recovered": 155
+                "amount": 188,
+                "recovered": 148
             }
         ]
     },
@@ -1005,11 +1005,11 @@
         "data": [
             {
                 "name": "hard",
-                "amount": 428
+                "amount": 399
             },
             {
                 "name": "moderate",
-                "amount": 173
+                "amount": 168
             }
         ]
     },
@@ -1017,12 +1017,12 @@
         "id": "3",
         "data": [
             {
-                "date": "2020-08-26T08:01:58.499Z",
-                "amount": 21039
+                "date": "2020-08-26T05:01:43.958Z",
+                "amount": 21038
             },
             {
-                "date": "2020-08-27T08:01:58.499Z",
-                "amount": 106
+                "date": "2020-08-27T05:01:43.958Z",
+                "amount": 40
             }
         ]
     },
@@ -1031,11 +1031,11 @@
         "data": [
             {
                 "name": "home",
-                "amount": 20287
+                "amount": 20248
             },
             {
                 "name": "hospital",
-                "amount": 858
+                "amount": 830
             }
         ]
     },
@@ -1464,8 +1464,8 @@
                 "Counthospitalized": 513,
                 "Counthospitalized_without_release": 485,
                 "CountHardStatus": 69,
-                "CountMediumStatus": 81,
-                "CountEasyStatus": 363,
+                "CountMediumStatus": 82,
+                "CountEasyStatus": 362,
                 "CountBreath": 41,
                 "CountDeath": 1,
                 "total_beds": 1304,
@@ -1495,10 +1495,10 @@
                 "new_hospitalized": 121,
                 "Counthospitalized": 619,
                 "Counthospitalized_without_release": 570,
-                "CountHardStatus": 88,
+                "CountHardStatus": 87,
                 "CountMediumStatus": 104,
-                "CountEasyStatus": 427,
-                "CountBreath": 55,
+                "CountEasyStatus": 428,
+                "CountBreath": 54,
                 "CountDeath": 1,
                 "total_beds": 1304,
                 "StandardOccupancy": 0.4746932515337423,
@@ -1511,9 +1511,9 @@
                 "new_hospitalized": 111,
                 "Counthospitalized": 668,
                 "Counthospitalized_without_release": 628,
-                "CountHardStatus": 97,
-                "CountMediumStatus": 115,
-                "CountEasyStatus": 456,
+                "CountHardStatus": 98,
+                "CountMediumStatus": 113,
+                "CountEasyStatus": 457,
                 "CountBreath": 64,
                 "CountDeath": 4,
                 "total_beds": 1304,
@@ -3254,16 +3254,16 @@
                 "date": "2020-07-18T00:00:00.000Z",
                 "new_hospitalized": 103,
                 "Counthospitalized": 698,
-                "Counthospitalized_without_release": 666,
-                "CountHardStatus": 235,
-                "CountMediumStatus": 148,
+                "Counthospitalized_without_release": 665,
+                "CountHardStatus": 234,
+                "CountMediumStatus": 149,
                 "CountEasyStatus": 315,
                 "CountBreath": 57,
                 "CountDeath": 7,
                 "total_beds": 1304,
                 "StandardOccupancy": 0.5352760736196319,
                 "num_visits": 4978,
-                "patients_home": 23224,
+                "patients_home": 23225,
                 "patients_hotel": 3431
             },
             {
@@ -3487,7 +3487,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6526073619631901,
                 "num_visits": 4722,
-                "patients_home": 19920,
+                "patients_home": 19919,
                 "patients_hotel": 3416
             },
             {
@@ -3503,7 +3503,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7101226993865031,
                 "num_visits": 6983,
-                "patients_home": 17759,
+                "patients_home": 17758,
                 "patients_hotel": 3597
             },
             {
@@ -3512,37 +3512,37 @@
                 "Counthospitalized": 905,
                 "Counthospitalized_without_release": 773,
                 "CountHardStatus": 330,
-                "CountMediumStatus": 145,
-                "CountEasyStatus": 430,
+                "CountMediumStatus": 146,
+                "CountEasyStatus": 429,
                 "CountBreath": 95,
                 "CountDeath": 15,
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6940184049079755,
                 "num_visits": 6364,
-                "patients_home": 17868,
+                "patients_home": 17867,
                 "patients_hotel": 3360
             },
             {
                 "date": "2020-08-04T00:00:00.000Z",
                 "new_hospitalized": 108,
-                "Counthospitalized": 867,
-                "Counthospitalized_without_release": 753,
-                "CountHardStatus": 342,
+                "Counthospitalized": 868,
+                "Counthospitalized_without_release": 754,
+                "CountHardStatus": 343,
                 "CountMediumStatus": 163,
                 "CountEasyStatus": 362,
                 "CountBreath": 99,
                 "CountDeath": 11,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.6648773006134969,
+                "StandardOccupancy": 0.6656441717791411,
                 "num_visits": 6490,
-                "patients_home": 17857,
+                "patients_home": 17855,
                 "patients_hotel": 3261
             },
             {
                 "date": "2020-08-05T00:00:00.000Z",
                 "new_hospitalized": 143,
                 "Counthospitalized": 884,
-                "Counthospitalized_without_release": 767,
+                "Counthospitalized_without_release": 766,
                 "CountHardStatus": 356,
                 "CountMediumStatus": 164,
                 "CountEasyStatus": 364,
@@ -3567,14 +3567,14 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6648773006134969,
                 "num_visits": 6210,
-                "patients_home": 17540,
+                "patients_home": 17539,
                 "patients_hotel": 3333
             },
             {
                 "date": "2020-08-07T00:00:00.000Z",
                 "new_hospitalized": 122,
                 "Counthospitalized": 870,
-                "Counthospitalized_without_release": 799,
+                "Counthospitalized_without_release": 798,
                 "CountHardStatus": 369,
                 "CountMediumStatus": 159,
                 "CountEasyStatus": 342,
@@ -3599,7 +3599,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6779141104294478,
                 "num_visits": 4508,
-                "patients_home": 17861,
+                "patients_home": 17860,
                 "patients_hotel": 3346
             },
             {
@@ -3615,14 +3615,14 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7584355828220859,
                 "num_visits": 7030,
-                "patients_home": 16273,
+                "patients_home": 16271,
                 "patients_hotel": 3441
             },
             {
                 "date": "2020-08-10T00:00:00.000Z",
                 "new_hospitalized": 107,
                 "Counthospitalized": 924,
-                "Counthospitalized_without_release": 798,
+                "Counthospitalized_without_release": 797,
                 "CountHardStatus": 393,
                 "CountMediumStatus": 185,
                 "CountEasyStatus": 346,
@@ -3631,7 +3631,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7085889570552147,
                 "num_visits": 6185,
-                "patients_home": 16769,
+                "patients_home": 16768,
                 "patients_hotel": 3230
             },
             {
@@ -3647,7 +3647,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6817484662576687,
                 "num_visits": 6532,
-                "patients_home": 17564,
+                "patients_home": 17562,
                 "patients_hotel": 3206
             },
             {
@@ -3663,7 +3663,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6625766871165644,
                 "num_visits": 5994,
-                "patients_home": 17849,
+                "patients_home": 17847,
                 "patients_hotel": 3343
             },
             {
@@ -3679,7 +3679,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6679447852760736,
                 "num_visits": 5693,
-                "patients_home": 17993,
+                "patients_home": 17991,
                 "patients_hotel": 3387
             },
             {
@@ -3695,7 +3695,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6679447852760736,
                 "num_visits": 4773,
-                "patients_home": 18310,
+                "patients_home": 18308,
                 "patients_hotel": 3350
             },
             {
@@ -3711,7 +3711,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6894171779141104,
                 "num_visits": 4165,
-                "patients_home": 18209,
+                "patients_home": 18207,
                 "patients_hotel": 3491
             },
             {
@@ -3727,7 +3727,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7446319018404908,
                 "num_visits": 6484,
-                "patients_home": 17085,
+                "patients_home": 17083,
                 "patients_hotel": 3435
             },
             {
@@ -3743,7 +3743,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7062883435582822,
                 "num_visits": 5392,
-                "patients_home": 17819,
+                "patients_home": 17817,
                 "patients_hotel": 3179
             },
             {
@@ -3759,7 +3759,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7116564417177914,
                 "num_visits": 5581,
-                "patients_home": 18133,
+                "patients_home": 18131,
                 "patients_hotel": 3115
             },
             {
@@ -3775,7 +3775,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6886503067484663,
                 "num_visits": 5374,
-                "patients_home": 18205,
+                "patients_home": 18203,
                 "patients_hotel": 3100
             },
             {
@@ -3791,7 +3791,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6924846625766872,
                 "num_visits": 5606,
-                "patients_home": 18369,
+                "patients_home": 18367,
                 "patients_hotel": 2979
             },
             {
@@ -3807,7 +3807,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6855828220858896,
                 "num_visits": 4763,
-                "patients_home": 18186,
+                "patients_home": 18184,
                 "patients_hotel": 2935
             },
             {
@@ -3823,21 +3823,21 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6909509202453987,
                 "num_visits": 4180,
-                "patients_home": 18116,
+                "patients_home": 18114,
                 "patients_hotel": 2835
             },
             {
                 "date": "2020-08-23T00:00:00.000Z",
-                "new_hospitalized": 119,
-                "Counthospitalized": 989,
-                "Counthospitalized_without_release": 758,
+                "new_hospitalized": 118,
+                "Counthospitalized": 988,
+                "Counthospitalized_without_release": 757,
                 "CountHardStatus": 412,
                 "CountMediumStatus": 215,
-                "CountEasyStatus": 362,
+                "CountEasyStatus": 361,
                 "CountBreath": 116,
                 "CountDeath": 13,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.7584355828220859,
+                "StandardOccupancy": 0.7576687116564417,
                 "num_visits": 6235,
                 "patients_home": 16862,
                 "patients_hotel": 2762
@@ -3845,65 +3845,65 @@
             {
                 "date": "2020-08-24T00:00:00.000Z",
                 "new_hospitalized": 122,
-                "Counthospitalized": 1001,
-                "Counthospitalized_without_release": 747,
+                "Counthospitalized": 1000,
+                "Counthospitalized_without_release": 746,
                 "CountHardStatus": 433,
                 "CountMediumStatus": 212,
-                "CountEasyStatus": 356,
+                "CountEasyStatus": 355,
                 "CountBreath": 119,
                 "CountDeath": 14,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.7676380368098159,
+                "StandardOccupancy": 0.7668711656441718,
                 "num_visits": 5466,
                 "patients_home": 17586,
                 "patients_hotel": 2372
             },
             {
                 "date": "2020-08-25T00:00:00.000Z",
-                "new_hospitalized": 104,
-                "Counthospitalized": 963,
-                "Counthospitalized_without_release": 715,
-                "CountHardStatus": 429,
+                "new_hospitalized": 101,
+                "Counthospitalized": 959,
+                "Counthospitalized_without_release": 713,
+                "CountHardStatus": 428,
                 "CountMediumStatus": 190,
-                "CountEasyStatus": 344,
+                "CountEasyStatus": 341,
                 "CountBreath": 119,
                 "CountDeath": 16,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.7384969325153374,
+                "StandardOccupancy": 0.7354294478527608,
                 "num_visits": 5517,
-                "patients_home": 16945,
+                "patients_home": 16946,
                 "patients_hotel": 2202
             },
             {
                 "date": "2020-08-26T00:00:00.000Z",
-                "new_hospitalized": 116,
-                "Counthospitalized": 953,
-                "Counthospitalized_without_release": 713,
-                "CountHardStatus": 421,
-                "CountMediumStatus": 192,
-                "CountEasyStatus": 340,
-                "CountBreath": 119,
+                "new_hospitalized": 40,
+                "Counthospitalized": 872,
+                "Counthospitalized_without_release": 694,
+                "CountHardStatus": 402,
+                "CountMediumStatus": 180,
+                "CountEasyStatus": 290,
+                "CountBreath": 115,
                 "CountDeath": 8,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.7308282208588958,
+                "StandardOccupancy": 0.6687116564417178,
                 "num_visits": 5421,
-                "patients_home": 18078,
+                "patients_home": 18096,
                 "patients_hotel": 2248
             },
             {
                 "date": "2020-08-27T00:00:00.000Z",
-                "new_hospitalized": 17,
-                "Counthospitalized": 858,
-                "Counthospitalized_without_release": 858,
-                "CountHardStatus": 428,
-                "CountMediumStatus": 173,
-                "CountEasyStatus": 257,
-                "CountBreath": 124,
-                "CountDeath": 2,
+                "new_hospitalized": 0,
+                "Counthospitalized": 820,
+                "Counthospitalized_without_release": 820,
+                "CountHardStatus": 399,
+                "CountMediumStatus": 168,
+                "CountEasyStatus": 253,
+                "CountBreath": 115,
+                "CountDeath": 0,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.6579754601226994,
+                "StandardOccupancy": 0.6288343558282209,
                 "num_visits": 389,
-                "patients_home": 20287,
+                "patients_home": 20258,
                 "patients_hotel": 0
             }
         ]
@@ -4625,7 +4625,7 @@
             },
             {
                 "date": "2020-08-27T00:00:00.000Z",
-                "amount": 2
+                "amount": 0
             }
         ]
     },
@@ -5322,7 +5322,7 @@
             },
             {
                 "date": "2020-08-01T00:00:00.000Z",
-                "amount": 591
+                "amount": 592
             },
             {
                 "date": "2020-08-02T00:00:00.000Z",
@@ -5354,7 +5354,7 @@
             },
             {
                 "date": "2020-08-09T00:00:00.000Z",
-                "amount": 2423
+                "amount": 2424
             },
             {
                 "date": "2020-08-10T00:00:00.000Z",
@@ -5422,11 +5422,11 @@
             },
             {
                 "date": "2020-08-26T00:00:00.000Z",
-                "amount": 752
+                "amount": 751
             },
             {
                 "date": "2020-08-27T00:00:00.000Z",
-                "amount": 155
+                "amount": 148
             }
         ]
     },
@@ -6661,7 +6661,7 @@
                 "date": "2020-08-23T00:00:00.000Z",
                 "amount": 13329,
                 "amountVirusDiagnosis": 12636,
-                "positiveAmount": 963
+                "positiveAmount": 964
             },
             {
                 "date": "2020-08-24T00:00:00.000Z",
@@ -6677,15 +6677,15 @@
             },
             {
                 "date": "2020-08-26T00:00:00.000Z",
-                "amount": 33382,
-                "amountVirusDiagnosis": 32214,
-                "positiveAmount": 1937
+                "amount": 33328,
+                "amountVirusDiagnosis": 32161,
+                "positiveAmount": 1936
             },
             {
                 "date": "2020-08-27T00:00:00.000Z",
-                "amount": 9822,
-                "amountVirusDiagnosis": 9557,
-                "positiveAmount": 263
+                "amount": 6464,
+                "amountVirusDiagnosis": 6298,
+                "positiveAmount": 188
             }
         ]
     },
@@ -7550,7 +7550,7 @@
             {
                 "date": "2020-08-01T00:00:00.000Z",
                 "amount": 628,
-                "recovered": 591
+                "recovered": 592
             },
             {
                 "date": "2020-08-02T00:00:00.000Z",
@@ -7590,7 +7590,7 @@
             {
                 "date": "2020-08-09T00:00:00.000Z",
                 "amount": 923,
-                "recovered": 2423
+                "recovered": 2424
             },
             {
                 "date": "2020-08-10T00:00:00.000Z",
@@ -7659,7 +7659,7 @@
             },
             {
                 "date": "2020-08-23T00:00:00.000Z",
-                "amount": 963,
+                "amount": 964,
                 "recovered": 2267
             },
             {
@@ -7674,13 +7674,13 @@
             },
             {
                 "date": "2020-08-26T00:00:00.000Z",
-                "amount": 1937,
-                "recovered": 752
+                "amount": 1936,
+                "recovered": 751
             },
             {
                 "date": "2020-08-27T00:00:00.000Z",
-                "amount": 263,
-                "recovered": 155
+                "amount": 188,
+                "recovered": 148
             }
         ]
     },
@@ -8109,8 +8109,8 @@
                 "Counthospitalized": 513,
                 "Counthospitalized_without_release": 485,
                 "CountHardStatus": 69,
-                "CountMediumStatus": 81,
-                "CountEasyStatus": 363,
+                "CountMediumStatus": 82,
+                "CountEasyStatus": 362,
                 "CountBreath": 41,
                 "CountDeath": 1,
                 "total_beds": 1304,
@@ -8140,10 +8140,10 @@
                 "new_hospitalized": 121,
                 "Counthospitalized": 619,
                 "Counthospitalized_without_release": 570,
-                "CountHardStatus": 88,
+                "CountHardStatus": 87,
                 "CountMediumStatus": 104,
-                "CountEasyStatus": 427,
-                "CountBreath": 55,
+                "CountEasyStatus": 428,
+                "CountBreath": 54,
                 "CountDeath": 1,
                 "total_beds": 1304,
                 "StandardOccupancy": 0.4746932515337423,
@@ -8156,9 +8156,9 @@
                 "new_hospitalized": 111,
                 "Counthospitalized": 668,
                 "Counthospitalized_without_release": 628,
-                "CountHardStatus": 97,
-                "CountMediumStatus": 115,
-                "CountEasyStatus": 456,
+                "CountHardStatus": 98,
+                "CountMediumStatus": 113,
+                "CountEasyStatus": 457,
                 "CountBreath": 64,
                 "CountDeath": 4,
                 "total_beds": 1304,
@@ -9899,16 +9899,16 @@
                 "date": "2020-07-18T00:00:00.000Z",
                 "new_hospitalized": 103,
                 "Counthospitalized": 698,
-                "Counthospitalized_without_release": 666,
-                "CountHardStatus": 235,
-                "CountMediumStatus": 148,
+                "Counthospitalized_without_release": 665,
+                "CountHardStatus": 234,
+                "CountMediumStatus": 149,
                 "CountEasyStatus": 315,
                 "CountBreath": 57,
                 "CountDeath": 7,
                 "total_beds": 1304,
                 "StandardOccupancy": 0.5352760736196319,
                 "num_visits": 4978,
-                "patients_home": 23224,
+                "patients_home": 23225,
                 "patients_hotel": 3431
             },
             {
@@ -10132,7 +10132,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6526073619631901,
                 "num_visits": 4722,
-                "patients_home": 19920,
+                "patients_home": 19919,
                 "patients_hotel": 3416
             },
             {
@@ -10148,7 +10148,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7101226993865031,
                 "num_visits": 6983,
-                "patients_home": 17759,
+                "patients_home": 17758,
                 "patients_hotel": 3597
             },
             {
@@ -10157,37 +10157,37 @@
                 "Counthospitalized": 905,
                 "Counthospitalized_without_release": 773,
                 "CountHardStatus": 330,
-                "CountMediumStatus": 145,
-                "CountEasyStatus": 430,
+                "CountMediumStatus": 146,
+                "CountEasyStatus": 429,
                 "CountBreath": 95,
                 "CountDeath": 15,
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6940184049079755,
                 "num_visits": 6364,
-                "patients_home": 17868,
+                "patients_home": 17867,
                 "patients_hotel": 3360
             },
             {
                 "date": "2020-08-04T00:00:00.000Z",
                 "new_hospitalized": 108,
-                "Counthospitalized": 867,
-                "Counthospitalized_without_release": 753,
-                "CountHardStatus": 342,
+                "Counthospitalized": 868,
+                "Counthospitalized_without_release": 754,
+                "CountHardStatus": 343,
                 "CountMediumStatus": 163,
                 "CountEasyStatus": 362,
                 "CountBreath": 99,
                 "CountDeath": 11,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.6648773006134969,
+                "StandardOccupancy": 0.6656441717791411,
                 "num_visits": 6490,
-                "patients_home": 17857,
+                "patients_home": 17855,
                 "patients_hotel": 3261
             },
             {
                 "date": "2020-08-05T00:00:00.000Z",
                 "new_hospitalized": 143,
                 "Counthospitalized": 884,
-                "Counthospitalized_without_release": 767,
+                "Counthospitalized_without_release": 766,
                 "CountHardStatus": 356,
                 "CountMediumStatus": 164,
                 "CountEasyStatus": 364,
@@ -10212,14 +10212,14 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6648773006134969,
                 "num_visits": 6210,
-                "patients_home": 17540,
+                "patients_home": 17539,
                 "patients_hotel": 3333
             },
             {
                 "date": "2020-08-07T00:00:00.000Z",
                 "new_hospitalized": 122,
                 "Counthospitalized": 870,
-                "Counthospitalized_without_release": 799,
+                "Counthospitalized_without_release": 798,
                 "CountHardStatus": 369,
                 "CountMediumStatus": 159,
                 "CountEasyStatus": 342,
@@ -10244,7 +10244,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6779141104294478,
                 "num_visits": 4508,
-                "patients_home": 17861,
+                "patients_home": 17860,
                 "patients_hotel": 3346
             },
             {
@@ -10260,14 +10260,14 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7584355828220859,
                 "num_visits": 7030,
-                "patients_home": 16273,
+                "patients_home": 16271,
                 "patients_hotel": 3441
             },
             {
                 "date": "2020-08-10T00:00:00.000Z",
                 "new_hospitalized": 107,
                 "Counthospitalized": 924,
-                "Counthospitalized_without_release": 798,
+                "Counthospitalized_without_release": 797,
                 "CountHardStatus": 393,
                 "CountMediumStatus": 185,
                 "CountEasyStatus": 346,
@@ -10276,7 +10276,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7085889570552147,
                 "num_visits": 6185,
-                "patients_home": 16769,
+                "patients_home": 16768,
                 "patients_hotel": 3230
             },
             {
@@ -10292,7 +10292,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6817484662576687,
                 "num_visits": 6532,
-                "patients_home": 17564,
+                "patients_home": 17562,
                 "patients_hotel": 3206
             },
             {
@@ -10308,7 +10308,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6625766871165644,
                 "num_visits": 5994,
-                "patients_home": 17849,
+                "patients_home": 17847,
                 "patients_hotel": 3343
             },
             {
@@ -10324,7 +10324,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6679447852760736,
                 "num_visits": 5693,
-                "patients_home": 17993,
+                "patients_home": 17991,
                 "patients_hotel": 3387
             },
             {
@@ -10340,7 +10340,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6679447852760736,
                 "num_visits": 4773,
-                "patients_home": 18310,
+                "patients_home": 18308,
                 "patients_hotel": 3350
             },
             {
@@ -10356,7 +10356,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6894171779141104,
                 "num_visits": 4165,
-                "patients_home": 18209,
+                "patients_home": 18207,
                 "patients_hotel": 3491
             },
             {
@@ -10372,7 +10372,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7446319018404908,
                 "num_visits": 6484,
-                "patients_home": 17085,
+                "patients_home": 17083,
                 "patients_hotel": 3435
             },
             {
@@ -10388,7 +10388,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7062883435582822,
                 "num_visits": 5392,
-                "patients_home": 17819,
+                "patients_home": 17817,
                 "patients_hotel": 3179
             },
             {
@@ -10404,7 +10404,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7116564417177914,
                 "num_visits": 5581,
-                "patients_home": 18133,
+                "patients_home": 18131,
                 "patients_hotel": 3115
             },
             {
@@ -10420,7 +10420,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6886503067484663,
                 "num_visits": 5374,
-                "patients_home": 18205,
+                "patients_home": 18203,
                 "patients_hotel": 3100
             },
             {
@@ -10436,7 +10436,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6924846625766872,
                 "num_visits": 5606,
-                "patients_home": 18369,
+                "patients_home": 18367,
                 "patients_hotel": 2979
             },
             {
@@ -10452,7 +10452,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6855828220858896,
                 "num_visits": 4763,
-                "patients_home": 18186,
+                "patients_home": 18184,
                 "patients_hotel": 2935
             },
             {
@@ -10468,21 +10468,21 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6909509202453987,
                 "num_visits": 4180,
-                "patients_home": 18116,
+                "patients_home": 18114,
                 "patients_hotel": 2835
             },
             {
                 "date": "2020-08-23T00:00:00.000Z",
-                "new_hospitalized": 119,
-                "Counthospitalized": 989,
-                "Counthospitalized_without_release": 758,
+                "new_hospitalized": 118,
+                "Counthospitalized": 988,
+                "Counthospitalized_without_release": 757,
                 "CountHardStatus": 412,
                 "CountMediumStatus": 215,
-                "CountEasyStatus": 362,
+                "CountEasyStatus": 361,
                 "CountBreath": 116,
                 "CountDeath": 13,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.7584355828220859,
+                "StandardOccupancy": 0.7576687116564417,
                 "num_visits": 6235,
                 "patients_home": 16862,
                 "patients_hotel": 2762
@@ -10490,65 +10490,65 @@
             {
                 "date": "2020-08-24T00:00:00.000Z",
                 "new_hospitalized": 122,
-                "Counthospitalized": 1001,
-                "Counthospitalized_without_release": 747,
+                "Counthospitalized": 1000,
+                "Counthospitalized_without_release": 746,
                 "CountHardStatus": 433,
                 "CountMediumStatus": 212,
-                "CountEasyStatus": 356,
+                "CountEasyStatus": 355,
                 "CountBreath": 119,
                 "CountDeath": 14,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.7676380368098159,
+                "StandardOccupancy": 0.7668711656441718,
                 "num_visits": 5466,
                 "patients_home": 17586,
                 "patients_hotel": 2372
             },
             {
                 "date": "2020-08-25T00:00:00.000Z",
-                "new_hospitalized": 104,
-                "Counthospitalized": 963,
-                "Counthospitalized_without_release": 715,
-                "CountHardStatus": 429,
+                "new_hospitalized": 101,
+                "Counthospitalized": 959,
+                "Counthospitalized_without_release": 713,
+                "CountHardStatus": 428,
                 "CountMediumStatus": 190,
-                "CountEasyStatus": 344,
+                "CountEasyStatus": 341,
                 "CountBreath": 119,
                 "CountDeath": 16,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.7384969325153374,
+                "StandardOccupancy": 0.7354294478527608,
                 "num_visits": 5517,
-                "patients_home": 16945,
+                "patients_home": 16946,
                 "patients_hotel": 2202
             },
             {
                 "date": "2020-08-26T00:00:00.000Z",
-                "new_hospitalized": 116,
-                "Counthospitalized": 953,
-                "Counthospitalized_without_release": 713,
-                "CountHardStatus": 421,
-                "CountMediumStatus": 192,
-                "CountEasyStatus": 340,
-                "CountBreath": 119,
+                "new_hospitalized": 40,
+                "Counthospitalized": 872,
+                "Counthospitalized_without_release": 694,
+                "CountHardStatus": 402,
+                "CountMediumStatus": 180,
+                "CountEasyStatus": 290,
+                "CountBreath": 115,
                 "CountDeath": 8,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.7308282208588958,
+                "StandardOccupancy": 0.6687116564417178,
                 "num_visits": 5421,
-                "patients_home": 18078,
+                "patients_home": 18096,
                 "patients_hotel": 2248
             },
             {
                 "date": "2020-08-27T00:00:00.000Z",
-                "new_hospitalized": 17,
-                "Counthospitalized": 858,
-                "Counthospitalized_without_release": 858,
-                "CountHardStatus": 428,
-                "CountMediumStatus": 173,
-                "CountEasyStatus": 257,
-                "CountBreath": 124,
-                "CountDeath": 2,
+                "new_hospitalized": 0,
+                "Counthospitalized": 820,
+                "Counthospitalized_without_release": 820,
+                "CountHardStatus": 399,
+                "CountMediumStatus": 168,
+                "CountEasyStatus": 253,
+                "CountBreath": 115,
+                "CountDeath": 0,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.6579754601226994,
+                "StandardOccupancy": 0.6288343558282209,
                 "num_visits": 389,
-                "patients_home": 20287,
+                "patients_home": 20258,
                 "patients_hotel": 0
             }
         ]
@@ -10558,53 +10558,53 @@
         "data": [
             {
                 "section": 0,
-                "male": 5823,
-                "female": 5586
+                "male": 5794,
+                "female": 5554
             },
             {
                 "section": 10,
-                "male": 11104,
-                "female": 9238
+                "male": 11029,
+                "female": 9189
             },
             {
                 "section": 20,
-                "male": 11307,
-                "female": 11133
+                "male": 11262,
+                "female": 11062
             },
             {
                 "section": 30,
-                "male": 7784,
-                "female": 7494
+                "male": 7750,
+                "female": 7461
             },
             {
                 "section": 40,
-                "male": 6658,
-                "female": 7010
+                "male": 6635,
+                "female": 6960
             },
             {
                 "section": 50,
-                "male": 5303,
-                "female": 5449
+                "male": 5276,
+                "female": 5415
             },
             {
                 "section": 60,
-                "male": 3733,
-                "female": 3422
+                "male": 3713,
+                "female": 3410
             },
             {
                 "section": 70,
-                "male": 1888,
-                "female": 1685
+                "male": 1880,
+                "female": 1676
             },
             {
                 "section": 80,
-                "male": 794,
-                "female": 1080
+                "male": 792,
+                "female": 1077
             },
             {
                 "section": 90,
-                "male": 208,
-                "female": 497
+                "male": 207,
+                "female": 496
             }
         ]
     },
@@ -11849,7 +11849,7 @@
                 "date": "2020-08-23T00:00:00.000Z",
                 "amount": 13329,
                 "amountVirusDiagnosis": 12636,
-                "positiveAmount": 963
+                "positiveAmount": 964
             },
             {
                 "date": "2020-08-24T00:00:00.000Z",
@@ -11865,15 +11865,15 @@
             },
             {
                 "date": "2020-08-26T00:00:00.000Z",
-                "amount": 33382,
-                "amountVirusDiagnosis": 32214,
-                "positiveAmount": 1937
+                "amount": 33328,
+                "amountVirusDiagnosis": 32161,
+                "positiveAmount": 1936
             },
             {
                 "date": "2020-08-27T00:00:00.000Z",
-                "amount": 9822,
-                "amountVirusDiagnosis": 9557,
-                "positiveAmount": 263
+                "amount": 6464,
+                "amountVirusDiagnosis": 6298,
+                "positiveAmount": 188
             }
         ]
     },
@@ -11882,28 +11882,28 @@
         "data": [
             {
                 "city": "בני ברק",
-                "sickCount": 9713,
-                "actualSick": 927,
-                "verifiedLast7Days": "421",
-                "testLast7Days": 4235,
+                "sickCount": 9710,
+                "actualSick": 923,
+                "verifiedLast7Days": "417",
+                "testLast7Days": 4160,
                 "patientDiffPopulationForTenThousands": 46,
                 "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
             },
             {
                 "city": "טירה",
-                "sickCount": 699,
-                "actualSick": 411,
-                "verifiedLast7Days": "295",
-                "testLast7Days": 1767,
-                "patientDiffPopulationForTenThousands": 155,
+                "sickCount": 698,
+                "actualSick": 410,
+                "verifiedLast7Days": "294",
+                "testLast7Days": 1754,
+                "patientDiffPopulationForTenThousands": 154,
                 "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
             },
             {
                 "city": "כפר קאסם",
                 "sickCount": 679,
-                "actualSick": 303,
+                "actualSick": 304,
                 "verifiedLast7Days": "182",
-                "testLast7Days": 864,
+                "testLast7Days": 859,
                 "patientDiffPopulationForTenThousands": 126,
                 "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
             },
@@ -11912,7 +11912,7 @@
                 "sickCount": 164,
                 "actualSick": 145,
                 "verifiedLast7Days": "113",
-                "testLast7Days": 1540,
+                "testLast7Days": 1515,
                 "patientDiffPopulationForTenThousands": 84,
                 "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
             },
@@ -11921,7 +11921,7 @@
                 "sickCount": 186,
                 "actualSick": 133,
                 "verifiedLast7Days": "87",
-                "testLast7Days": 714,
+                "testLast7Days": 711,
                 "patientDiffPopulationForTenThousands": 112,
                 "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
             },
@@ -11930,17 +11930,17 @@
                 "sickCount": 133,
                 "actualSick": 86,
                 "verifiedLast7Days": "78",
-                "testLast7Days": 284,
+                "testLast7Days": 283,
                 "patientDiffPopulationForTenThousands": 56,
                 "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
             },
             {
                 "city": "כפר ברא",
-                "sickCount": 127,
-                "actualSick": 81,
-                "verifiedLast7Days": "32",
-                "testLast7Days": 168,
-                "patientDiffPopulationForTenThousands": 214,
+                "sickCount": 126,
+                "actualSick": 80,
+                "verifiedLast7Days": "31",
+                "testLast7Days": 166,
+                "patientDiffPopulationForTenThousands": 211,
                 "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
             },
             {
@@ -11948,7 +11948,7 @@
                 "sickCount": 44,
                 "actualSick": 43,
                 "verifiedLast7Days": "27",
-                "testLast7Days": 205,
+                "testLast7Days": 204,
                 "patientDiffPopulationForTenThousands": 131,
                 "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
             },
@@ -11957,7 +11957,7 @@
                 "sickCount": 180,
                 "actualSick": 40,
                 "verifiedLast7Days": "25",
-                "testLast7Days": 121,
+                "testLast7Days": 120,
                 "patientDiffPopulationForTenThousands": 45,
                 "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
             },
@@ -11975,7 +11975,7 @@
                 "sickCount": 63,
                 "actualSick": 33,
                 "verifiedLast7Days": "25",
-                "testLast7Days": 216,
+                "testLast7Days": 204,
                 "patientDiffPopulationForTenThousands": 25,
                 "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
             },
@@ -11993,7 +11993,7 @@
                 "sickCount": 30,
                 "actualSick": 26,
                 "verifiedLast7Days": "20",
-                "testLast7Days": 127,
+                "testLast7Days": 119,
                 "patientDiffPopulationForTenThousands": 44,
                 "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
             },
@@ -12002,8 +12002,17 @@
                 "sickCount": 27,
                 "actualSick": 20,
                 "verifiedLast7Days": "15",
-                "testLast7Days": 80,
+                "testLast7Days": 76,
                 "patientDiffPopulationForTenThousands": 69,
+                "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
+            },
+            {
+                "city": "משהד",
+                "sickCount": 15,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "6-10",
+                "testLast7Days": 86,
+                "patientDiffPopulationForTenThousands": 15,
                 "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
             },
             {
@@ -12016,24 +12025,6 @@
                 "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
             },
             {
-                "city": "נאעורה",
-                "sickCount": 18,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "6-10",
-                "testLast7Days": 42,
-                "patientDiffPopulationForTenThousands": 50,
-                "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
-            },
-            {
-                "city": "משהד",
-                "sickCount": 15,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "6-10",
-                "testLast7Days": 87,
-                "patientDiffPopulationForTenThousands": 15,
-                "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
-            },
-            {
                 "city": "יד בנימין",
                 "sickCount": 60,
                 "actualSick": " קטן מ-15 ",
@@ -12043,29 +12034,38 @@
                 "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
             },
             {
+                "city": "נאעורה",
+                "sickCount": 18,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "6-10",
+                "testLast7Days": 42,
+                "patientDiffPopulationForTenThousands": 50,
+                "status": "נדרשים הסברה, בדיקות ואכיפת בידוד"
+            },
+            {
                 "city": "ירושלים",
-                "sickCount": 17892,
-                "actualSick": 2985,
-                "verifiedLast7Days": "1273",
-                "testLast7Days": 17570,
+                "sickCount": 17887,
+                "actualSick": 2982,
+                "verifiedLast7Days": "1269",
+                "testLast7Days": 17426,
                 "patientDiffPopulationForTenThousands": 32,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
             {
                 "city": "תל אביב - יפו",
-                "sickCount": 4825,
-                "actualSick": 803,
-                "verifiedLast7Days": "251",
-                "testLast7Days": 6270,
+                "sickCount": 4823,
+                "actualSick": 801,
+                "verifiedLast7Days": "249",
+                "testLast7Days": 6105,
                 "patientDiffPopulationForTenThousands": 18,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
             {
                 "city": "אשדוד",
-                "sickCount": 3725,
-                "actualSick": 718,
-                "verifiedLast7Days": "388",
-                "testLast7Days": 5365,
+                "sickCount": 3723,
+                "actualSick": 716,
+                "verifiedLast7Days": "386",
+                "testLast7Days": 5334,
                 "patientDiffPopulationForTenThousands": 32,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
@@ -12074,25 +12074,25 @@
                 "sickCount": 3475,
                 "actualSick": 585,
                 "verifiedLast7Days": "246",
-                "testLast7Days": 6385,
+                "testLast7Days": 6372,
                 "patientDiffPopulationForTenThousands": 76,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
             {
                 "city": "נתניה",
-                "sickCount": 1957,
-                "actualSick": 479,
-                "verifiedLast7Days": "195",
-                "testLast7Days": 3299,
+                "sickCount": 1949,
+                "actualSick": 472,
+                "verifiedLast7Days": "187",
+                "testLast7Days": 3200,
                 "patientDiffPopulationForTenThousands": 22,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
             {
                 "city": "רהט",
-                "sickCount": 990,
-                "actualSick": 360,
-                "verifiedLast7Days": "160",
-                "testLast7Days": 1630,
+                "sickCount": 989,
+                "actualSick": 359,
+                "verifiedLast7Days": "159",
+                "testLast7Days": 1627,
                 "patientDiffPopulationForTenThousands": 54,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
@@ -12101,7 +12101,7 @@
                 "sickCount": 720,
                 "actualSick": 270,
                 "verifiedLast7Days": "162",
-                "testLast7Days": 1378,
+                "testLast7Days": 1354,
                 "patientDiffPopulationForTenThousands": 48,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
@@ -12110,17 +12110,26 @@
                 "sickCount": 916,
                 "actualSick": 202,
                 "verifiedLast7Days": "108",
-                "testLast7Days": 937,
+                "testLast7Days": 827,
                 "patientDiffPopulationForTenThousands": 46,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
             {
+                "city": "טבריה",
+                "sickCount": 861,
+                "actualSick": 194,
+                "verifiedLast7Days": "96",
+                "testLast7Days": 866,
+                "patientDiffPopulationForTenThousands": 43,
+                "status": "נדרשת הגדלה של מספר הבדיקות"
+            },
+            {
                 "city": "ג'דיידה-מכר",
-                "sickCount": 236,
-                "actualSick": 175,
-                "verifiedLast7Days": "97",
-                "testLast7Days": 983,
-                "patientDiffPopulationForTenThousands": 84,
+                "sickCount": 233,
+                "actualSick": 172,
+                "verifiedLast7Days": "94",
+                "testLast7Days": 941,
+                "patientDiffPopulationForTenThousands": 83,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
             {
@@ -12128,7 +12137,7 @@
                 "sickCount": 211,
                 "actualSick": 120,
                 "verifiedLast7Days": "62",
-                "testLast7Days": 427,
+                "testLast7Days": 420,
                 "patientDiffPopulationForTenThousands": 80,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
@@ -12137,7 +12146,7 @@
                 "sickCount": 301,
                 "actualSick": 103,
                 "verifiedLast7Days": "48",
-                "testLast7Days": 185,
+                "testLast7Days": 186,
                 "patientDiffPopulationForTenThousands": 76,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
@@ -12146,7 +12155,7 @@
                 "sickCount": 233,
                 "actualSick": 91,
                 "verifiedLast7Days": "26",
-                "testLast7Days": 168,
+                "testLast7Days": 166,
                 "patientDiffPopulationForTenThousands": 108,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
@@ -12155,7 +12164,7 @@
                 "sickCount": 161,
                 "actualSick": 84,
                 "verifiedLast7Days": "46",
-                "testLast7Days": 393,
+                "testLast7Days": 385,
                 "patientDiffPopulationForTenThousands": 54,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
@@ -12164,17 +12173,17 @@
                 "sickCount": 86,
                 "actualSick": 60,
                 "verifiedLast7Days": "48",
-                "testLast7Days": 668,
+                "testLast7Days": 643,
                 "patientDiffPopulationForTenThousands": 49,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
             {
                 "city": "אבו סנאן",
-                "sickCount": 84,
-                "actualSick": 52,
-                "verifiedLast7Days": "32",
-                "testLast7Days": 272,
-                "patientDiffPopulationForTenThousands": 39,
+                "sickCount": 82,
+                "actualSick": 50,
+                "verifiedLast7Days": "30",
+                "testLast7Days": 267,
+                "patientDiffPopulationForTenThousands": 38,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
             {
@@ -12182,7 +12191,7 @@
                 "sickCount": 124,
                 "actualSick": 47,
                 "verifiedLast7Days": "19",
-                "testLast7Days": 113,
+                "testLast7Days": 106,
                 "patientDiffPopulationForTenThousands": 66,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
@@ -12191,8 +12200,17 @@
                 "sickCount": 70,
                 "actualSick": 36,
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 81,
+                "testLast7Days": 78,
                 "patientDiffPopulationForTenThousands": 166,
+                "status": "נדרשת הגדלה של מספר הבדיקות"
+            },
+            {
+                "city": "קרני שומרון",
+                "sickCount": 74,
+                "actualSick": 27,
+                "verifiedLast7Days": "11-14",
+                "testLast7Days": 116,
+                "patientDiffPopulationForTenThousands": 32,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
             {
@@ -12200,17 +12218,17 @@
                 "sickCount": 59,
                 "actualSick": 27,
                 "verifiedLast7Days": "19",
-                "testLast7Days": 183,
+                "testLast7Days": 182,
                 "patientDiffPopulationForTenThousands": 19,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
             {
                 "city": "כסרא-סמיע",
-                "sickCount": 39,
-                "actualSick": 24,
-                "verifiedLast7Days": "16",
-                "testLast7Days": 144,
-                "patientDiffPopulationForTenThousands": 28,
+                "sickCount": 38,
+                "actualSick": 23,
+                "verifiedLast7Days": "15",
+                "testLast7Days": 140,
+                "patientDiffPopulationForTenThousands": 26,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
             {
@@ -12232,47 +12250,56 @@
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
             {
-                "city": "מעיליא",
-                "sickCount": 26,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "6-10",
-                "testLast7Days": 61,
-                "patientDiffPopulationForTenThousands": 38,
-                "status": "נדרשת הגדלה של מספר הבדיקות"
-            },
-            {
                 "city": "בועיינה-נוג'ידאת",
                 "sickCount": 19,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 82,
+                "testLast7Days": 79,
                 "patientDiffPopulationForTenThousands": 13,
                 "status": "נדרשת הגדלה של מספר הבדיקות"
             },
             {
+                "city": "מעיליא",
+                "sickCount": 26,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "6-10",
+                "testLast7Days": 60,
+                "patientDiffPopulationForTenThousands": 38,
+                "status": "נדרשת הגדלה של מספר הבדיקות"
+            },
+            {
+                "city": "אורנית",
+                "sickCount": 36,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "6-10",
+                "testLast7Days": 85,
+                "patientDiffPopulationForTenThousands": 11,
+                "status": "נדרשת הגדלה של מספר הבדיקות"
+            },
+            {
                 "city": "פתח תקווה",
-                "sickCount": 2578,
-                "actualSick": 403,
-                "verifiedLast7Days": "186",
-                "testLast7Days": 3884,
+                "sickCount": 2575,
+                "actualSick": 399,
+                "verifiedLast7Days": "182",
+                "testLast7Days": 3759,
                 "patientDiffPopulationForTenThousands": 16,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "באר שבע",
-                "sickCount": 1778,
-                "actualSick": 354,
+                "sickCount": 1777,
+                "actualSick": 353,
                 "verifiedLast7Days": "135",
-                "testLast7Days": 3383,
+                "testLast7Days": 3367,
                 "patientDiffPopulationForTenThousands": 18,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "חיפה",
-                "sickCount": 1659,
+                "sickCount": 1657,
                 "actualSick": 338,
-                "verifiedLast7Days": "176",
-                "testLast7Days": 4551,
+                "verifiedLast7Days": "175",
+                "testLast7Days": 4451,
                 "patientDiffPopulationForTenThousands": 12,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12281,25 +12308,25 @@
                 "sickCount": 1853,
                 "actualSick": 288,
                 "verifiedLast7Days": "124",
-                "testLast7Days": 2297,
+                "testLast7Days": 2221,
                 "patientDiffPopulationForTenThousands": 15,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "ראשון לציון",
-                "sickCount": 1726,
-                "actualSick": 268,
-                "verifiedLast7Days": "113",
-                "testLast7Days": 3299,
+                "sickCount": 1725,
+                "actualSick": 267,
+                "verifiedLast7Days": "112",
+                "testLast7Days": 3189,
                 "patientDiffPopulationForTenThousands": 11,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "רמלה",
-                "sickCount": 1225,
-                "actualSick": 267,
-                "verifiedLast7Days": "117",
-                "testLast7Days": 1198,
+                "sickCount": 1221,
+                "actualSick": 263,
+                "verifiedLast7Days": "113",
+                "testLast7Days": 1114,
                 "patientDiffPopulationForTenThousands": 35,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12308,17 +12335,17 @@
                 "sickCount": 2771,
                 "actualSick": 246,
                 "verifiedLast7Days": "119",
-                "testLast7Days": 1733,
+                "testLast7Days": 1717,
                 "patientDiffPopulationForTenThousands": 19,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "נצרת",
-                "sickCount": 624,
-                "actualSick": 241,
-                "verifiedLast7Days": "73",
-                "testLast7Days": 825,
-                "patientDiffPopulationForTenThousands": 31,
+                "sickCount": 622,
+                "actualSick": 239,
+                "verifiedLast7Days": "71",
+                "testLast7Days": 809,
+                "patientDiffPopulationForTenThousands": 30,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12326,34 +12353,34 @@
                 "sickCount": 1355,
                 "actualSick": 220,
                 "verifiedLast7Days": "86",
-                "testLast7Days": 2083,
+                "testLast7Days": 2071,
                 "patientDiffPopulationForTenThousands": 16,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "רחובות",
-                "sickCount": 1308,
+                "sickCount": 1307,
                 "actualSick": 213,
                 "verifiedLast7Days": "86",
-                "testLast7Days": 1565,
+                "testLast7Days": 1452,
                 "patientDiffPopulationForTenThousands": 15,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "סח'נין",
-                "sickCount": 364,
-                "actualSick": 207,
-                "verifiedLast7Days": "108",
-                "testLast7Days": 1210,
-                "patientDiffPopulationForTenThousands": 63,
+                "sickCount": 359,
+                "actualSick": 202,
+                "verifiedLast7Days": "103",
+                "testLast7Days": 1148,
+                "patientDiffPopulationForTenThousands": 62,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "בת ים",
-                "sickCount": 1405,
+                "sickCount": 1403,
                 "actualSick": 195,
-                "verifiedLast7Days": "84",
-                "testLast7Days": 2179,
+                "verifiedLast7Days": "83",
+                "testLast7Days": 2049,
                 "patientDiffPopulationForTenThousands": 15,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12362,25 +12389,16 @@
                 "sickCount": 1246,
                 "actualSick": 195,
                 "verifiedLast7Days": "82",
-                "testLast7Days": 2219,
+                "testLast7Days": 2080,
                 "patientDiffPopulationForTenThousands": 13,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
-                "city": "טבריה",
-                "sickCount": 862,
-                "actualSick": 195,
-                "verifiedLast7Days": "97",
-                "testLast7Days": 886,
-                "patientDiffPopulationForTenThousands": 43,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
                 "city": "לוד",
-                "sickCount": 1354,
-                "actualSick": 194,
-                "verifiedLast7Days": "70",
-                "testLast7Days": 1177,
+                "sickCount": 1353,
+                "actualSick": 193,
+                "verifiedLast7Days": "68",
+                "testLast7Days": 1144,
                 "patientDiffPopulationForTenThousands": 25,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12389,7 +12407,7 @@
                 "sickCount": 744,
                 "actualSick": 181,
                 "verifiedLast7Days": "77",
-                "testLast7Days": 910,
+                "testLast7Days": 907,
                 "patientDiffPopulationForTenThousands": 47,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12398,7 +12416,7 @@
                 "sickCount": 688,
                 "actualSick": 174,
                 "verifiedLast7Days": "69",
-                "testLast7Days": 782,
+                "testLast7Days": 770,
                 "patientDiffPopulationForTenThousands": 29,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12407,25 +12425,25 @@
                 "sickCount": 1796,
                 "actualSick": 172,
                 "verifiedLast7Days": "82",
-                "testLast7Days": 833,
+                "testLast7Days": 818,
                 "patientDiffPopulationForTenThousands": 36,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "חדרה",
-                "sickCount": 694,
-                "actualSick": 169,
-                "verifiedLast7Days": "52",
-                "testLast7Days": 1560,
+                "sickCount": 693,
+                "actualSick": 168,
+                "verifiedLast7Days": "51",
+                "testLast7Days": 1530,
                 "patientDiffPopulationForTenThousands": 18,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "אור יהודה",
-                "sickCount": 774,
+                "sickCount": 773,
                 "actualSick": 153,
-                "verifiedLast7Days": "46",
-                "testLast7Days": 619,
+                "verifiedLast7Days": "45",
+                "testLast7Days": 607,
                 "patientDiffPopulationForTenThousands": 44,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12434,17 +12452,8 @@
                 "sickCount": 888,
                 "actualSick": 151,
                 "verifiedLast7Days": "69",
-                "testLast7Days": 975,
+                "testLast7Days": 969,
                 "patientDiffPopulationForTenThousands": 26,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "ירכא",
-                "sickCount": 417,
-                "actualSick": 138,
-                "verifiedLast7Days": "34",
-                "testLast7Days": 363,
-                "patientDiffPopulationForTenThousands": 89,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12452,8 +12461,17 @@
                 "sickCount": 2292,
                 "actualSick": 137,
                 "verifiedLast7Days": "98",
-                "testLast7Days": 933,
+                "testLast7Days": 924,
                 "patientDiffPopulationForTenThousands": 22,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "ירכא",
+                "sickCount": 416,
+                "actualSick": 137,
+                "verifiedLast7Days": "33",
+                "testLast7Days": 356,
+                "patientDiffPopulationForTenThousands": 88,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12461,16 +12479,16 @@
                 "sickCount": 745,
                 "actualSick": 136,
                 "verifiedLast7Days": "64",
-                "testLast7Days": 1109,
+                "testLast7Days": 1084,
                 "patientDiffPopulationForTenThousands": 16,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "עכו",
-                "sickCount": 303,
+                "sickCount": 302,
                 "actualSick": 118,
                 "verifiedLast7Days": "56",
-                "testLast7Days": 1145,
+                "testLast7Days": 1133,
                 "patientDiffPopulationForTenThousands": 23,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12479,17 +12497,8 @@
                 "sickCount": 712,
                 "actualSick": 117,
                 "verifiedLast7Days": "51",
-                "testLast7Days": 1178,
+                "testLast7Days": 1162,
                 "patientDiffPopulationForTenThousands": 16,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "קלנסווה",
-                "sickCount": 885,
-                "actualSick": 105,
-                "verifiedLast7Days": "51",
-                "testLast7Days": 481,
-                "patientDiffPopulationForTenThousands": 45,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12497,8 +12506,17 @@
                 "sickCount": 454,
                 "actualSick": 104,
                 "verifiedLast7Days": "30",
-                "testLast7Days": 1142,
+                "testLast7Days": 1121,
                 "patientDiffPopulationForTenThousands": 18,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "קלנסווה",
+                "sickCount": 882,
+                "actualSick": 102,
+                "verifiedLast7Days": "49",
+                "testLast7Days": 461,
+                "patientDiffPopulationForTenThousands": 44,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12506,17 +12524,17 @@
                 "sickCount": 544,
                 "actualSick": 94,
                 "verifiedLast7Days": "36",
-                "testLast7Days": 2089,
+                "testLast7Days": 2074,
                 "patientDiffPopulationForTenThousands": 10,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "קרית מלאכי",
-                "sickCount": 653,
-                "actualSick": 92,
-                "verifiedLast7Days": "36",
-                "testLast7Days": 275,
-                "patientDiffPopulationForTenThousands": 38,
+                "sickCount": 652,
+                "actualSick": 91,
+                "verifiedLast7Days": "35",
+                "testLast7Days": 265,
+                "patientDiffPopulationForTenThousands": 37,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12524,7 +12542,7 @@
                 "sickCount": 689,
                 "actualSick": 88,
                 "verifiedLast7Days": "41",
-                "testLast7Days": 1662,
+                "testLast7Days": 1504,
                 "patientDiffPopulationForTenThousands": 9,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12533,26 +12551,17 @@
                 "sickCount": 449,
                 "actualSick": 85,
                 "verifiedLast7Days": "35",
-                "testLast7Days": 485,
+                "testLast7Days": 478,
                 "patientDiffPopulationForTenThousands": 18,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "מעלה אדומים",
-                "sickCount": 369,
-                "actualSick": 82,
-                "verifiedLast7Days": "36",
-                "testLast7Days": 671,
-                "patientDiffPopulationForTenThousands": 22,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "נהריה",
-                "sickCount": 448,
-                "actualSick": 79,
+                "sickCount": 370,
+                "actualSick": 83,
                 "verifiedLast7Days": "37",
-                "testLast7Days": 957,
-                "patientDiffPopulationForTenThousands": 13,
+                "testLast7Days": 668,
+                "patientDiffPopulationForTenThousands": 22,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12560,17 +12569,26 @@
                 "sickCount": 402,
                 "actualSick": 78,
                 "verifiedLast7Days": "28",
-                "testLast7Days": 473,
+                "testLast7Days": 469,
                 "patientDiffPopulationForTenThousands": 22,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "ג'ת",
-                "sickCount": 238,
-                "actualSick": 77,
+                "sickCount": 239,
+                "actualSick": 78,
                 "verifiedLast7Days": "33",
-                "testLast7Days": 293,
-                "patientDiffPopulationForTenThousands": 63,
+                "testLast7Days": 291,
+                "patientDiffPopulationForTenThousands": 64,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "נהריה",
+                "sickCount": 444,
+                "actualSick": 76,
+                "verifiedLast7Days": "33",
+                "testLast7Days": 928,
+                "patientDiffPopulationForTenThousands": 13,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12578,7 +12596,7 @@
                 "sickCount": 355,
                 "actualSick": 75,
                 "verifiedLast7Days": "41",
-                "testLast7Days": 442,
+                "testLast7Days": 441,
                 "patientDiffPopulationForTenThousands": 24,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12587,7 +12605,7 @@
                 "sickCount": 253,
                 "actualSick": 74,
                 "verifiedLast7Days": "27",
-                "testLast7Days": 585,
+                "testLast7Days": 571,
                 "patientDiffPopulationForTenThousands": 14,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12596,7 +12614,7 @@
                 "sickCount": 172,
                 "actualSick": 72,
                 "verifiedLast7Days": "26",
-                "testLast7Days": 589,
+                "testLast7Days": 573,
                 "patientDiffPopulationForTenThousands": 17,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12605,7 +12623,7 @@
                 "sickCount": 145,
                 "actualSick": 69,
                 "verifiedLast7Days": "41",
-                "testLast7Days": 476,
+                "testLast7Days": 472,
                 "patientDiffPopulationForTenThousands": 30,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12614,26 +12632,26 @@
                 "sickCount": 510,
                 "actualSick": 66,
                 "verifiedLast7Days": "30",
-                "testLast7Days": 374,
+                "testLast7Days": 365,
                 "patientDiffPopulationForTenThousands": 22,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
-                "city": "כרמיאל",
-                "sickCount": 215,
+                "city": "הוד השרון",
+                "sickCount": 356,
                 "actualSick": 64,
-                "verifiedLast7Days": "25",
-                "testLast7Days": 939,
-                "patientDiffPopulationForTenThousands": 14,
+                "verifiedLast7Days": "32",
+                "testLast7Days": 924,
+                "patientDiffPopulationForTenThousands": 11,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
-                "city": "הוד השרון",
-                "sickCount": 355,
+                "city": "כרמיאל",
+                "sickCount": 214,
                 "actualSick": 63,
-                "verifiedLast7Days": "31",
-                "testLast7Days": 946,
-                "patientDiffPopulationForTenThousands": 11,
+                "verifiedLast7Days": "24",
+                "testLast7Days": 936,
+                "patientDiffPopulationForTenThousands": 14,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12641,17 +12659,8 @@
                 "sickCount": 150,
                 "actualSick": 61,
                 "verifiedLast7Days": "18",
-                "testLast7Days": 231,
+                "testLast7Days": 229,
                 "patientDiffPopulationForTenThousands": 42,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "כפר מנדא",
-                "sickCount": 210,
-                "actualSick": 60,
-                "verifiedLast7Days": "17",
-                "testLast7Days": 148,
-                "patientDiffPopulationForTenThousands": 29,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12659,8 +12668,17 @@
                 "sickCount": 189,
                 "actualSick": 60,
                 "verifiedLast7Days": "29",
-                "testLast7Days": 344,
+                "testLast7Days": 327,
                 "patientDiffPopulationForTenThousands": 30,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "כפר מנדא",
+                "sickCount": 209,
+                "actualSick": 59,
+                "verifiedLast7Days": "16",
+                "testLast7Days": 142,
+                "patientDiffPopulationForTenThousands": 29,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12668,7 +12686,7 @@
                 "sickCount": 247,
                 "actualSick": 57,
                 "verifiedLast7Days": "29",
-                "testLast7Days": 290,
+                "testLast7Days": 283,
                 "patientDiffPopulationForTenThousands": 22,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12677,16 +12695,16 @@
                 "sickCount": 194,
                 "actualSick": 56,
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 168,
+                "testLast7Days": 164,
                 "patientDiffPopulationForTenThousands": 29,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "רכסים",
-                "sickCount": 356,
-                "actualSick": 55,
-                "verifiedLast7Days": "28",
-                "testLast7Days": 307,
+                "sickCount": 355,
+                "actualSick": 54,
+                "verifiedLast7Days": "27",
+                "testLast7Days": 297,
                 "patientDiffPopulationForTenThousands": 44,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12695,7 +12713,7 @@
                 "sickCount": 301,
                 "actualSick": 54,
                 "verifiedLast7Days": "17",
-                "testLast7Days": 350,
+                "testLast7Days": 347,
                 "patientDiffPopulationForTenThousands": 28,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12704,7 +12722,7 @@
                 "sickCount": 178,
                 "actualSick": 53,
                 "verifiedLast7Days": "16",
-                "testLast7Days": 574,
+                "testLast7Days": 567,
                 "patientDiffPopulationForTenThousands": 12,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12713,7 +12731,7 @@
                 "sickCount": 369,
                 "actualSick": 52,
                 "verifiedLast7Days": "15",
-                "testLast7Days": 388,
+                "testLast7Days": 381,
                 "patientDiffPopulationForTenThousands": 11,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12722,7 +12740,7 @@
                 "sickCount": 115,
                 "actualSick": 51,
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 57,
+                "testLast7Days": 58,
                 "patientDiffPopulationForTenThousands": 146,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12731,7 +12749,7 @@
                 "sickCount": 174,
                 "actualSick": 50,
                 "verifiedLast7Days": "23",
-                "testLast7Days": 496,
+                "testLast7Days": 492,
                 "patientDiffPopulationForTenThousands": 33,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12740,26 +12758,17 @@
                 "sickCount": 86,
                 "actualSick": 50,
                 "verifiedLast7Days": "22",
-                "testLast7Days": 390,
+                "testLast7Days": 387,
                 "patientDiffPopulationForTenThousands": 22,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "בית שאן",
-                "sickCount": 236,
-                "actualSick": 48,
-                "verifiedLast7Days": "18",
-                "testLast7Days": 211,
-                "patientDiffPopulationForTenThousands": 25,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "קרית אונו",
-                "sickCount": 304,
+                "sickCount": 235,
                 "actualSick": 47,
-                "verifiedLast7Days": "23",
-                "testLast7Days": 456,
-                "patientDiffPopulationForTenThousands": 13,
+                "verifiedLast7Days": "17",
+                "testLast7Days": 208,
+                "patientDiffPopulationForTenThousands": 24,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12767,8 +12776,17 @@
                 "sickCount": 171,
                 "actualSick": 47,
                 "verifiedLast7Days": "29",
-                "testLast7Days": 264,
+                "testLast7Days": 262,
                 "patientDiffPopulationForTenThousands": 46,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "קרית אונו",
+                "sickCount": 304,
+                "actualSick": 47,
+                "verifiedLast7Days": "23",
+                "testLast7Days": 449,
+                "patientDiffPopulationForTenThousands": 13,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12776,17 +12794,8 @@
                 "sickCount": 266,
                 "actualSick": 46,
                 "verifiedLast7Days": "17",
-                "testLast7Days": 458,
+                "testLast7Days": 454,
                 "patientDiffPopulationForTenThousands": 11,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "רמת השרון",
-                "sickCount": 312,
-                "actualSick": 46,
-                "verifiedLast7Days": "18",
-                "testLast7Days": 735,
-                "patientDiffPopulationForTenThousands": 10,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12794,17 +12803,8 @@
                 "sickCount": 223,
                 "actualSick": 46,
                 "verifiedLast7Days": "11-14",
-                "testLast7Days": 461,
+                "testLast7Days": 430,
                 "patientDiffPopulationForTenThousands": 12,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "גבעת זאב",
-                "sickCount": 341,
-                "actualSick": 45,
-                "verifiedLast7Days": "23",
-                "testLast7Days": 317,
-                "patientDiffPopulationForTenThousands": 24,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12812,8 +12812,26 @@
                 "sickCount": 395,
                 "actualSick": 45,
                 "verifiedLast7Days": "19",
-                "testLast7Days": 540,
+                "testLast7Days": 538,
                 "patientDiffPopulationForTenThousands": 13,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "גבעת זאב",
+                "sickCount": 341,
+                "actualSick": 45,
+                "verifiedLast7Days": "23",
+                "testLast7Days": 309,
+                "patientDiffPopulationForTenThousands": 24,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "רמת השרון",
+                "sickCount": 311,
+                "actualSick": 45,
+                "verifiedLast7Days": "17",
+                "testLast7Days": 723,
+                "patientDiffPopulationForTenThousands": 10,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12821,7 +12839,7 @@
                 "sickCount": 81,
                 "actualSick": 44,
                 "verifiedLast7Days": "11-14",
-                "testLast7Days": 175,
+                "testLast7Days": 174,
                 "patientDiffPopulationForTenThousands": 55,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12830,7 +12848,7 @@
                 "sickCount": 56,
                 "actualSick": 43,
                 "verifiedLast7Days": "16",
-                "testLast7Days": 355,
+                "testLast7Days": 353,
                 "patientDiffPopulationForTenThousands": 65,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12839,8 +12857,17 @@
                 "sickCount": 89,
                 "actualSick": 40,
                 "verifiedLast7Days": "11-14",
-                "testLast7Days": 179,
+                "testLast7Days": 175,
                 "patientDiffPopulationForTenThousands": 24,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "טמרה",
+                "sickCount": 150,
+                "actualSick": 39,
+                "verifiedLast7Days": "23",
+                "testLast7Days": 438,
+                "patientDiffPopulationForTenThousands": 11,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12848,7 +12875,7 @@
                 "sickCount": 138,
                 "actualSick": 39,
                 "verifiedLast7Days": "11-14",
-                "testLast7Days": 176,
+                "testLast7Days": 172,
                 "patientDiffPopulationForTenThousands": 29,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12857,17 +12884,8 @@
                 "sickCount": 222,
                 "actualSick": 39,
                 "verifiedLast7Days": "19",
-                "testLast7Days": 394,
+                "testLast7Days": 387,
                 "patientDiffPopulationForTenThousands": 16,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "טמרה",
-                "sickCount": 150,
-                "actualSick": 39,
-                "verifiedLast7Days": "23",
-                "testLast7Days": 475,
-                "patientDiffPopulationForTenThousands": 11,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12875,7 +12893,7 @@
                 "sickCount": 307,
                 "actualSick": 38,
                 "verifiedLast7Days": "16",
-                "testLast7Days": 670,
+                "testLast7Days": 639,
                 "patientDiffPopulationForTenThousands": 7,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12884,7 +12902,7 @@
                 "sickCount": 97,
                 "actualSick": 37,
                 "verifiedLast7Days": "20",
-                "testLast7Days": 384,
+                "testLast7Days": 379,
                 "patientDiffPopulationForTenThousands": 16,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12893,7 +12911,7 @@
                 "sickCount": 256,
                 "actualSick": 36,
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 140,
+                "testLast7Days": 139,
                 "patientDiffPopulationForTenThousands": 29,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12902,7 +12920,7 @@
                 "sickCount": 132,
                 "actualSick": 36,
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 302,
+                "testLast7Days": 288,
                 "patientDiffPopulationForTenThousands": 34,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12911,7 +12929,7 @@
                 "sickCount": 284,
                 "actualSick": 36,
                 "verifiedLast7Days": "17",
-                "testLast7Days": 374,
+                "testLast7Days": 370,
                 "patientDiffPopulationForTenThousands": 12,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12920,7 +12938,7 @@
                 "sickCount": 138,
                 "actualSick": 35,
                 "verifiedLast7Days": "11-14",
-                "testLast7Days": 603,
+                "testLast7Days": 572,
                 "patientDiffPopulationForTenThousands": 9,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12934,20 +12952,11 @@
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
-                "city": "מבשרת ציון",
-                "sickCount": 139,
-                "actualSick": 34,
-                "verifiedLast7Days": "17",
-                "testLast7Days": 439,
-                "patientDiffPopulationForTenThousands": 15,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
                 "city": "קרית מוצקין",
                 "sickCount": 138,
                 "actualSick": 33,
                 "verifiedLast7Days": "16",
-                "testLast7Days": 515,
+                "testLast7Days": 425,
                 "patientDiffPopulationForTenThousands": 8,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12956,17 +12965,17 @@
                 "sickCount": 194,
                 "actualSick": 33,
                 "verifiedLast7Days": "18",
-                "testLast7Days": 215,
+                "testLast7Days": 211,
                 "patientDiffPopulationForTenThousands": 16,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
-                "city": "גבעת שמואל",
-                "sickCount": 260,
-                "actualSick": 32,
-                "verifiedLast7Days": "15",
-                "testLast7Days": 266,
-                "patientDiffPopulationForTenThousands": 13,
+                "city": "מבשרת ציון",
+                "sickCount": 138,
+                "actualSick": 33,
+                "verifiedLast7Days": "16",
+                "testLast7Days": 425,
+                "patientDiffPopulationForTenThousands": 14,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -12974,7 +12983,7 @@
                 "sickCount": 120,
                 "actualSick": 32,
                 "verifiedLast7Days": "11-14",
-                "testLast7Days": 259,
+                "testLast7Days": 249,
                 "patientDiffPopulationForTenThousands": 14,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12983,7 +12992,7 @@
                 "sickCount": 87,
                 "actualSick": 32,
                 "verifiedLast7Days": "11-14",
-                "testLast7Days": 176,
+                "testLast7Days": 173,
                 "patientDiffPopulationForTenThousands": 38,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -12992,17 +13001,8 @@
                 "sickCount": 137,
                 "actualSick": 32,
                 "verifiedLast7Days": "20",
-                "testLast7Days": 220,
+                "testLast7Days": 217,
                 "patientDiffPopulationForTenThousands": 14,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "חורפיש",
-                "sickCount": 78,
-                "actualSick": 31,
-                "verifiedLast7Days": "6-10",
-                "testLast7Days": 130,
-                "patientDiffPopulationForTenThousands": 49,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -13010,8 +13010,26 @@
                 "sickCount": 196,
                 "actualSick": 31,
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 265,
+                "testLast7Days": 263,
                 "patientDiffPopulationForTenThousands": 16,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "חורפיש",
+                "sickCount": 78,
+                "actualSick": 31,
+                "verifiedLast7Days": "6-10",
+                "testLast7Days": 126,
+                "patientDiffPopulationForTenThousands": 49,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "גבעת שמואל",
+                "sickCount": 259,
+                "actualSick": 31,
+                "verifiedLast7Days": "11-14",
+                "testLast7Days": 261,
+                "patientDiffPopulationForTenThousands": 12,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -13019,7 +13037,7 @@
                 "sickCount": 401,
                 "actualSick": 31,
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 415,
+                "testLast7Days": 414,
                 "patientDiffPopulationForTenThousands": 5,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -13028,7 +13046,7 @@
                 "sickCount": 83,
                 "actualSick": 30,
                 "verifiedLast7Days": "11-14",
-                "testLast7Days": 256,
+                "testLast7Days": 252,
                 "patientDiffPopulationForTenThousands": 11,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -13037,22 +13055,13 @@
                 "sickCount": 68,
                 "actualSick": 30,
                 "verifiedLast7Days": "11-14",
-                "testLast7Days": 143,
+                "testLast7Days": 140,
                 "patientDiffPopulationForTenThousands": 28,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
-                "city": "אור עקיבא",
-                "sickCount": 202,
-                "actualSick": 29,
-                "verifiedLast7Days": "20",
-                "testLast7Days": 237,
-                "patientDiffPopulationForTenThousands": 15,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
                 "city": "קרית שמונה",
-                "sickCount": 130,
+                "sickCount": 131,
                 "actualSick": 28,
                 "verifiedLast7Days": "15",
                 "testLast7Days": 246,
@@ -13060,21 +13069,12 @@
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
-                "city": "קרני שומרון",
-                "sickCount": 74,
-                "actualSick": 27,
-                "verifiedLast7Days": "11-14",
-                "testLast7Days": 118,
-                "patientDiffPopulationForTenThousands": 32,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "תל מונד",
-                "sickCount": 72,
-                "actualSick": 27,
-                "verifiedLast7Days": "6-10",
-                "testLast7Days": 196,
-                "patientDiffPopulationForTenThousands": 21,
+                "city": "אור עקיבא",
+                "sickCount": 201,
+                "actualSick": 28,
+                "verifiedLast7Days": "19",
+                "testLast7Days": 235,
+                "patientDiffPopulationForTenThousands": 14,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -13082,8 +13082,17 @@
                 "sickCount": 58,
                 "actualSick": 27,
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 270,
+                "testLast7Days": 260,
                 "patientDiffPopulationForTenThousands": 25,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "תל מונד",
+                "sickCount": 72,
+                "actualSick": 27,
+                "verifiedLast7Days": "6-10",
+                "testLast7Days": 171,
+                "patientDiffPopulationForTenThousands": 21,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -13091,26 +13100,26 @@
                 "sickCount": 187,
                 "actualSick": 27,
                 "verifiedLast7Days": "11-14",
-                "testLast7Days": 304,
+                "testLast7Days": 302,
+                "patientDiffPopulationForTenThousands": 10,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "מגדל העמק",
+                "sickCount": 185,
+                "actualSick": 26,
+                "verifiedLast7Days": "11-14",
+                "testLast7Days": 366,
                 "patientDiffPopulationForTenThousands": 10,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
                 "city": "שעב",
-                "sickCount": 60,
-                "actualSick": 27,
+                "sickCount": 59,
+                "actualSick": 26,
                 "verifiedLast7Days": "11-14",
-                "testLast7Days": 136,
-                "patientDiffPopulationForTenThousands": 37,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "מגדל העמק",
-                "sickCount": 186,
-                "actualSick": 27,
-                "verifiedLast7Days": "11-14",
-                "testLast7Days": 369,
-                "patientDiffPopulationForTenThousands": 10,
+                "testLast7Days": 131,
+                "patientDiffPopulationForTenThousands": 36,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -13118,17 +13127,8 @@
                 "sickCount": 80,
                 "actualSick": 26,
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 201,
+                "testLast7Days": 196,
                 "patientDiffPopulationForTenThousands": 24,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "עומר",
-                "sickCount": 81,
-                "actualSick": 25,
-                "verifiedLast7Days": "6-10",
-                "testLast7Days": 128,
-                "patientDiffPopulationForTenThousands": 32,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -13136,7 +13136,7 @@
                 "sickCount": 64,
                 "actualSick": 25,
                 "verifiedLast7Days": "11-14",
-                "testLast7Days": 331,
+                "testLast7Days": 332,
                 "patientDiffPopulationForTenThousands": 11,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -13145,7 +13145,7 @@
                 "sickCount": 103,
                 "actualSick": 24,
                 "verifiedLast7Days": "11-14",
-                "testLast7Days": 215,
+                "testLast7Days": 213,
                 "patientDiffPopulationForTenThousands": 10,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -13154,8 +13154,17 @@
                 "sickCount": 120,
                 "actualSick": 24,
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 175,
+                "testLast7Days": 170,
                 "patientDiffPopulationForTenThousands": 10,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "עומר",
+                "sickCount": 79,
+                "actualSick": 23,
+                "verifiedLast7Days": "6-10",
+                "testLast7Days": 125,
+                "patientDiffPopulationForTenThousands": 29,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -13163,7 +13172,7 @@
                 "sickCount": 177,
                 "actualSick": 23,
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 286,
+                "testLast7Days": 284,
                 "patientDiffPopulationForTenThousands": 9,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -13172,7 +13181,7 @@
                 "sickCount": 67,
                 "actualSick": 22,
                 "verifiedLast7Days": "11-14",
-                "testLast7Days": 113,
+                "testLast7Days": 112,
                 "patientDiffPopulationForTenThousands": 22,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -13181,7 +13190,7 @@
                 "sickCount": 170,
                 "actualSick": 20,
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 88,
+                "testLast7Days": 87,
                 "patientDiffPopulationForTenThousands": 29,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -13190,7 +13199,7 @@
                 "sickCount": 268,
                 "actualSick": 20,
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 166,
+                "testLast7Days": 164,
                 "patientDiffPopulationForTenThousands": 9,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -13199,7 +13208,7 @@
                 "sickCount": 35,
                 "actualSick": 19,
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 81,
+                "testLast7Days": 79,
                 "patientDiffPopulationForTenThousands": 22,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -13214,11 +13223,11 @@
             },
             {
                 "city": "ג'ולס",
-                "sickCount": 34,
-                "actualSick": 19,
+                "sickCount": 33,
+                "actualSick": 18,
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 112,
-                "patientDiffPopulationForTenThousands": 30,
+                "testLast7Days": 108,
+                "patientDiffPopulationForTenThousands": 29,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -13226,7 +13235,7 @@
                 "sickCount": 47,
                 "actualSick": 18,
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 123,
+                "testLast7Days": 118,
                 "patientDiffPopulationForTenThousands": 22,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
@@ -13235,26 +13244,8 @@
                 "sickCount": 115,
                 "actualSick": 17,
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 236,
+                "testLast7Days": 233,
                 "patientDiffPopulationForTenThousands": 8,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "אבן יהודה",
-                "sickCount": 101,
-                "actualSick": 16,
-                "verifiedLast7Days": "1-5",
-                "testLast7Days": 217,
-                "patientDiffPopulationForTenThousands": 12,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "צור הדסה",
-                "sickCount": 61,
-                "actualSick": 16,
-                "verifiedLast7Days": "1-5",
-                "testLast7Days": 154,
-                "patientDiffPopulationForTenThousands": 17,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -13267,21 +13258,30 @@
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
-                "city": "כאבול",
-                "sickCount": 57,
-                "actualSick": 16,
-                "verifiedLast7Days": "1-5",
-                "testLast7Days": 182,
-                "patientDiffPopulationForTenThousands": 13,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
                 "city": "אריאל",
                 "sickCount": 79,
                 "actualSick": 16,
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 193,
+                "testLast7Days": 187,
                 "patientDiffPopulationForTenThousands": 9,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "צור הדסה",
+                "sickCount": 61,
+                "actualSick": 16,
+                "verifiedLast7Days": "1-5",
+                "testLast7Days": 153,
+                "patientDiffPopulationForTenThousands": 17,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "כאבול",
+                "sickCount": 57,
+                "actualSick": 16,
+                "verifiedLast7Days": "1-5",
+                "testLast7Days": 173,
+                "patientDiffPopulationForTenThousands": 13,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -13289,44 +13289,17 @@
                 "sickCount": 131,
                 "actualSick": 16,
                 "verifiedLast7Days": "11-14",
-                "testLast7Days": 174,
+                "testLast7Days": 171,
                 "patientDiffPopulationForTenThousands": 13,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
-                "city": "רמת ישי",
-                "sickCount": 24,
+                "city": "אבן יהודה",
+                "sickCount": 100,
                 "actualSick": 15,
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 82,
-                "patientDiffPopulationForTenThousands": 21,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "קרית טבעון",
-                "sickCount": 58,
-                "actualSick": 15,
-                "verifiedLast7Days": "0",
-                "testLast7Days": 177,
-                "patientDiffPopulationForTenThousands": 9,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "פוריידיס",
-                "sickCount": 92,
-                "actualSick": 15,
-                "verifiedLast7Days": "6-10",
-                "testLast7Days": 96,
+                "testLast7Days": 206,
                 "patientDiffPopulationForTenThousands": 11,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "מזכרת בתיה",
-                "sickCount": 124,
-                "actualSick": 15,
-                "verifiedLast7Days": "1-5",
-                "testLast7Days": 120,
-                "patientDiffPopulationForTenThousands": 10,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -13339,57 +13312,30 @@
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
-                "city": "קרית עקרון",
-                "sickCount": 50,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "1-5",
-                "testLast7Days": 103,
+                "city": "קרית טבעון",
+                "sickCount": 58,
+                "actualSick": 15,
+                "verifiedLast7Days": "0",
+                "testLast7Days": 175,
                 "patientDiffPopulationForTenThousands": 9,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
-                "city": "שמשית",
-                "sickCount": 21,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "0",
-                "testLast7Days": 36,
-                "patientDiffPopulationForTenThousands": 56,
+                "city": "מזכרת בתיה",
+                "sickCount": 124,
+                "actualSick": 15,
+                "verifiedLast7Days": "1-5",
+                "testLast7Days": 120,
+                "patientDiffPopulationForTenThousands": 10,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
-                "city": "כפר תבור",
-                "sickCount": 27,
-                "actualSick": " קטן מ-15 ",
+                "city": "רמת ישי",
+                "sickCount": 24,
+                "actualSick": 15,
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 38,
-                "patientDiffPopulationForTenThousands": 27,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "בנימינה-גבעת עדה",
-                "sickCount": 78,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "1-5",
-                "testLast7Days": 264,
-                "patientDiffPopulationForTenThousands": 8,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "חצור הגלילית",
-                "sickCount": 47,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "1-5",
-                "testLast7Days": 97,
-                "patientDiffPopulationForTenThousands": 13,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "עתלית",
-                "sickCount": 40,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "1-5",
-                "testLast7Days": 66,
-                "patientDiffPopulationForTenThousands": 12,
+                "testLast7Days": 80,
+                "patientDiffPopulationForTenThousands": 21,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -13406,8 +13352,80 @@
                 "sickCount": 19,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "0",
-                "testLast7Days": 32,
+                "testLast7Days": 30,
                 "patientDiffPopulationForTenThousands": 47,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "קרית עקרון",
+                "sickCount": 50,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "1-5",
+                "testLast7Days": 98,
+                "patientDiffPopulationForTenThousands": 9,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "בסמת טבעון",
+                "sickCount": 20,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "1-5",
+                "testLast7Days": 71,
+                "patientDiffPopulationForTenThousands": 13,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "כפר תבור",
+                "sickCount": 27,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "1-5",
+                "testLast7Days": 38,
+                "patientDiffPopulationForTenThousands": 27,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "פוריידיס",
+                "sickCount": 91,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "6-10",
+                "testLast7Days": 93,
+                "patientDiffPopulationForTenThousands": 11,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "חצור הגלילית",
+                "sickCount": 46,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "1-5",
+                "testLast7Days": 96,
+                "patientDiffPopulationForTenThousands": 12,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "כסיפה",
+                "sickCount": 185,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "6-10",
+                "testLast7Days": 84,
+                "patientDiffPopulationForTenThousands": 8,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "עתלית",
+                "sickCount": 40,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "1-5",
+                "testLast7Days": 64,
+                "patientDiffPopulationForTenThousands": 12,
+                "status": "נדרשת הידברות, הסברה ואכיפה"
+            },
+            {
+                "city": "קרית יערים",
+                "sickCount": 149,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "6-10",
+                "testLast7Days": 146,
+                "patientDiffPopulationForTenThousands": 21,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -13420,39 +13438,21 @@
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
-                "city": "כסיפה",
-                "sickCount": 185,
+                "city": "בנימינה-גבעת עדה",
+                "sickCount": 78,
                 "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "6-10",
-                "testLast7Days": 85,
+                "verifiedLast7Days": "1-5",
+                "testLast7Days": 263,
                 "patientDiffPopulationForTenThousands": 8,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
-                "city": "בסמת טבעון",
-                "sickCount": 20,
+                "city": "שמשית",
+                "sickCount": 21,
                 "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "1-5",
-                "testLast7Days": 75,
-                "patientDiffPopulationForTenThousands": 13,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "אורנית",
-                "sickCount": 36,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "6-10",
-                "testLast7Days": 87,
-                "patientDiffPopulationForTenThousands": 11,
-                "status": "נדרשת הידברות, הסברה ואכיפה"
-            },
-            {
-                "city": "קרית יערים",
-                "sickCount": 149,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "6-10",
-                "testLast7Days": 147,
-                "patientDiffPopulationForTenThousands": 21,
+                "verifiedLast7Days": "0",
+                "testLast7Days": 36,
+                "patientDiffPopulationForTenThousands": 56,
                 "status": "נדרשת הידברות, הסברה ואכיפה"
             },
             {
@@ -13468,7 +13468,7 @@
                 "sickCount": 54,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "0",
-                "testLast7Days": 68,
+                "testLast7Days": 67,
                 "patientDiffPopulationForTenThousands": 4
             },
             {
@@ -13492,7 +13492,7 @@
                 "sickCount": 43,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "0",
-                "testLast7Days": 45,
+                "testLast7Days": 44,
                 "patientDiffPopulationForTenThousands": 2
             },
             {
@@ -13500,7 +13500,7 @@
                 "sickCount": 42,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "0",
-                "testLast7Days": 52,
+                "testLast7Days": 50,
                 "patientDiffPopulationForTenThousands": 5
             },
             {
@@ -13532,7 +13532,7 @@
                 "sickCount": 43,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "0",
-                "testLast7Days": 72,
+                "testLast7Days": 71,
                 "patientDiffPopulationForTenThousands": 6
             },
             {
@@ -13540,7 +13540,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "0",
-                "testLast7Days": 32,
+                "testLast7Days": 31,
                 "patientDiffPopulationForTenThousands": 13
             },
             {
@@ -13572,7 +13572,7 @@
                 "sickCount": 24,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 102,
+                "testLast7Days": 84,
                 "patientDiffPopulationForTenThousands": 3
             },
             {
@@ -13580,7 +13580,7 @@
                 "sickCount": 27,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "0",
-                "testLast7Days": 47,
+                "testLast7Days": 46,
                 "patientDiffPopulationForTenThousands": 2
             },
             {
@@ -13596,7 +13596,7 @@
                 "sickCount": 18,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "0",
-                "testLast7Days": 16,
+                "testLast7Days": 15,
                 "patientDiffPopulationForTenThousands": 4
             },
             {
@@ -13636,7 +13636,7 @@
                 "sickCount": 20,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 51,
+                "testLast7Days": 48,
                 "patientDiffPopulationForTenThousands": 13
             },
             {
@@ -13660,7 +13660,7 @@
                 "sickCount": 54,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 67,
+                "testLast7Days": 66,
                 "patientDiffPopulationForTenThousands": 9
             },
             {
@@ -13668,7 +13668,7 @@
                 "sickCount": 342,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 83,
+                "testLast7Days": 82,
                 "patientDiffPopulationForTenThousands": 3
             },
             {
@@ -13676,7 +13676,7 @@
                 "sickCount": 37,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 102,
+                "testLast7Days": 100,
                 "patientDiffPopulationForTenThousands": 10
             },
             {
@@ -13692,7 +13692,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "0",
-                "testLast7Days": 22,
+                "testLast7Days": 21,
                 "patientDiffPopulationForTenThousands": 9
             },
             {
@@ -13700,7 +13700,7 @@
                 "sickCount": 22,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 38,
+                "testLast7Days": 37,
                 "patientDiffPopulationForTenThousands": 14
             },
             {
@@ -13708,7 +13708,7 @@
                 "sickCount": 49,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 46,
+                "testLast7Days": 44,
                 "patientDiffPopulationForTenThousands": 3
             },
             {
@@ -13716,7 +13716,7 @@
                 "sickCount": 16,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 79,
+                "testLast7Days": 75,
                 "patientDiffPopulationForTenThousands": 23
             },
             {
@@ -13732,7 +13732,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 35,
+                "testLast7Days": 36,
                 "patientDiffPopulationForTenThousands": 1
             },
             {
@@ -13748,7 +13748,7 @@
                 "sickCount": 47,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 48,
+                "testLast7Days": 50,
                 "patientDiffPopulationForTenThousands": 14
             },
             {
@@ -13764,7 +13764,7 @@
                 "sickCount": 18,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 83,
+                "testLast7Days": 79,
                 "patientDiffPopulationForTenThousands": 8
             },
             {
@@ -13820,7 +13820,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 39,
+                "testLast7Days": 27,
                 "patientDiffPopulationForTenThousands": 32
             },
             {
@@ -13828,7 +13828,7 @@
                 "sickCount": 47,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "6-10",
-                "testLast7Days": 101,
+                "testLast7Days": 99,
                 "patientDiffPopulationForTenThousands": 11
             },
             {
@@ -13844,7 +13844,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "0",
-                "testLast7Days": 29,
+                "testLast7Days": 28,
                 "patientDiffPopulationForTenThousands": 3
             },
             {
@@ -13868,7 +13868,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 25,
+                "testLast7Days": 24,
                 "patientDiffPopulationForTenThousands": 10
             },
             {
@@ -13884,7 +13884,7 @@
                 "sickCount": 17,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 42,
+                "testLast7Days": 43,
                 "patientDiffPopulationForTenThousands": 10
             },
             {
@@ -13924,7 +13924,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 36,
+                "testLast7Days": 35,
                 "patientDiffPopulationForTenThousands": 3
             },
             {
@@ -13948,7 +13948,7 @@
                 "sickCount": 27,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 64,
+                "testLast7Days": 63,
                 "patientDiffPopulationForTenThousands": 5
             },
             {
@@ -13964,7 +13964,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 23,
+                "testLast7Days": 22,
                 "patientDiffPopulationForTenThousands": 9
             },
             {
@@ -13972,7 +13972,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 37,
+                "testLast7Days": 36,
                 "patientDiffPopulationForTenThousands": 13
             },
             {
@@ -13980,7 +13980,7 @@
                 "sickCount": 30,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 75,
+                "testLast7Days": 73,
                 "patientDiffPopulationForTenThousands": 14
             },
             {
@@ -13988,7 +13988,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 60,
+                "testLast7Days": 52,
                 "patientDiffPopulationForTenThousands": 17
             },
             {
@@ -14004,7 +14004,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 38,
+                "testLast7Days": 37,
                 "patientDiffPopulationForTenThousands": 11
             },
             {
@@ -14012,7 +14012,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 72,
+                "testLast7Days": 67,
                 "patientDiffPopulationForTenThousands": 18
             },
             {
@@ -14020,7 +14020,7 @@
                 "sickCount": 18,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 57,
+                "testLast7Days": 56,
                 "patientDiffPopulationForTenThousands": 3
             },
             {
@@ -14060,7 +14060,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 16,
+                "testLast7Days": 15,
                 "patientDiffPopulationForTenThousands": 5
             },
             {
@@ -14068,7 +14068,7 @@
                 "sickCount": 18,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 26,
+                "testLast7Days": 25,
                 "patientDiffPopulationForTenThousands": 3
             },
             {
@@ -14076,7 +14076,7 @@
                 "sickCount": 23,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 56,
+                "testLast7Days": 55,
                 "patientDiffPopulationForTenThousands": 14
             },
             {
@@ -14084,7 +14084,7 @@
                 "sickCount": 73,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "1-5",
-                "testLast7Days": 89,
+                "testLast7Days": 88,
                 "patientDiffPopulationForTenThousands": 6
             },
             {
@@ -14148,7 +14148,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": 0,
                 "verifiedLast7Days": "0",
-                "testLast7Days": 33,
+                "testLast7Days": 32,
                 "patientDiffPopulationForTenThousands": 0
             },
             {
@@ -14180,7 +14180,7 @@
                 "sickCount": 23,
                 "actualSick": 0,
                 "verifiedLast7Days": "0",
-                "testLast7Days": 57,
+                "testLast7Days": 56,
                 "patientDiffPopulationForTenThousands": 0
             },
             {
@@ -14230,158 +14230,158 @@
         "data": [
             {
                 "name": "אסותא אשדוד",
-                "coronaOccupancy": 216.66666666666669,
+                "coronaOccupancy": 250,
                 "normalOccupancy": null,
                 "isolatedTeam": 10
             },
             {
                 "name": "פוריה",
-                "coronaOccupancy": 146.6666666666667,
-                "normalOccupancy": 67.32394409179688,
+                "coronaOccupancy": 120,
+                "normalOccupancy": 65.35211181640625,
                 "isolatedTeam": 26
+            },
+            {
+                "name": "שערי צדק",
+                "coronaOccupancy": 109.6153846153846,
+                "normalOccupancy": 99.14005279541016,
+                "isolatedTeam": 47
             },
             {
                 "name": "שמיר (אסף הרופא)",
                 "coronaOccupancy": 103.92156862745101,
-                "normalOccupancy": 63.52413177490234,
+                "normalOccupancy": 63.29966354370117,
                 "isolatedTeam": 27
             },
             {
-                "name": "רמב\"ם",
-                "coronaOccupancy": 103.3333333333333,
-                "normalOccupancy": 95.46392059326172,
-                "isolatedTeam": 48
-            },
-            {
-                "name": "שערי צדק",
-                "coronaOccupancy": 101.92307692307689,
-                "normalOccupancy": 101.1056518554688,
-                "isolatedTeam": 47
-            },
-            {
                 "name": "לניאדו",
-                "coronaOccupancy": 96.66666666666667,
-                "normalOccupancy": 80.50139617919922,
+                "coronaOccupancy": 103.3333333333333,
+                "normalOccupancy": 82.72980499267578,
                 "isolatedTeam": 63
             },
             {
-                "name": "הסקוטי",
-                "coronaOccupancy": 91.66666666666666,
-                "normalOccupancy": 96.45390319824219,
-                "isolatedTeam": 2
-            },
-            {
                 "name": "הדסה עין כרם",
-                "coronaOccupancy": 91.50943396226415,
-                "normalOccupancy": 107.1524963378906,
+                "coronaOccupancy": 94.33962264150944,
+                "normalOccupancy": 106.6126861572266,
                 "isolatedTeam": 96
             },
             {
                 "name": "שיבא",
-                "coronaOccupancy": 88.33333333333333,
-                "normalOccupancy": 95.75949096679688,
+                "coronaOccupancy": 83.33333333333334,
+                "normalOccupancy": 97.02531433105469,
                 "isolatedTeam": 36
             },
             {
+                "name": "הסקוטי",
+                "coronaOccupancy": 83.33333333333334,
+                "normalOccupancy": 95.03546142578125,
+                "isolatedTeam": 2
+            },
+            {
+                "name": "רמב\"ם",
+                "coronaOccupancy": 81.66666666666667,
+                "normalOccupancy": 92.2680435180664,
+                "isolatedTeam": 48
+            },
+            {
+                "name": "בני ציון",
+                "coronaOccupancy": 76.66666666666667,
+                "normalOccupancy": 81.75519561767578,
+                "isolatedTeam": 12
+            },
+            {
                 "name": "מעייני הישועה",
-                "coronaOccupancy": 85.18518518518519,
-                "normalOccupancy": 95.52715301513672,
+                "coronaOccupancy": 74.07407407407408,
+                "normalOccupancy": 91.69329071044922,
                 "isolatedTeam": 5
             },
             {
                 "name": "סנט ג'וזף",
-                "coronaOccupancy": 85.18518518518519,
+                "coronaOccupancy": 74.07407407407408,
                 "normalOccupancy": null,
                 "isolatedTeam": 0
             },
             {
-                "name": "בני ציון",
-                "coronaOccupancy": 80,
-                "normalOccupancy": 76.90531158447266,
-                "isolatedTeam": 12
-            },
-            {
                 "name": "הלל יפה",
                 "coronaOccupancy": 70,
-                "normalOccupancy": 87.57281494140625,
+                "normalOccupancy": 84.8543701171875,
                 "isolatedTeam": 25
             },
             {
+                "name": "זיו צפת",
+                "coronaOccupancy": 61.53846153846154,
+                "normalOccupancy": 88.76080322265625,
+                "isolatedTeam": 16
+            },
+            {
                 "name": "נהריה",
-                "coronaOccupancy": 66.15384615384615,
-                "normalOccupancy": 71.2309799194336,
+                "coronaOccupancy": 58.46153846153847,
+                "normalOccupancy": 75.24205017089844,
                 "isolatedTeam": 30
             },
             {
                 "name": "ברזילי",
-                "coronaOccupancy": 58.730158730158735,
-                "normalOccupancy": 67.33333587646484,
+                "coronaOccupancy": 57.14285714285714,
+                "normalOccupancy": 74.16666412353516,
                 "isolatedTeam": 54
             },
             {
-                "name": "זיו צפת",
-                "coronaOccupancy": 57.692307692307686,
-                "normalOccupancy": 83.2853012084961,
-                "isolatedTeam": 16
+                "name": "רבין ק. בילינסון",
+                "coronaOccupancy": 52,
+                "normalOccupancy": 86.82634735107422,
+                "isolatedTeam": 52
             },
             {
                 "name": "הכרמל",
                 "coronaOccupancy": 47.22222222222222,
-                "normalOccupancy": 62.37218856811523,
+                "normalOccupancy": 63.59918212890625,
                 "isolatedTeam": 10
             },
             {
                 "name": "וולפסון",
-                "coronaOccupancy": 47.05882352941176,
-                "normalOccupancy": 65.4465560913086,
+                "coronaOccupancy": 45.58823529411765,
+                "normalOccupancy": 67.05709838867188,
                 "isolatedTeam": 28
             },
             {
-                "name": "רבין ק. בילינסון",
-                "coronaOccupancy": 44,
-                "normalOccupancy": 86.94610595703125,
-                "isolatedTeam": 52
-            },
-            {
-                "name": "סוראסקי",
-                "coronaOccupancy": 42.22222222222222,
-                "normalOccupancy": 102.6473083496094,
-                "isolatedTeam": 34
-            },
-            {
                 "name": "המרכזי בעמק",
-                "coronaOccupancy": 38.271604938271594,
-                "normalOccupancy": 70.51724243164062,
+                "coronaOccupancy": 39.50617283950617,
+                "normalOccupancy": 75,
                 "isolatedTeam": 36
             },
             {
-                "name": "מאיר",
+                "name": "סוראסקי",
+                "coronaOccupancy": 38.88888888888889,
+                "normalOccupancy": 106.1485900878906,
+                "isolatedTeam": 34
+            },
+            {
+                "name": "השרון ק. גולדה",
                 "coronaOccupancy": 36.585365853658544,
-                "normalOccupancy": 68.50899505615234,
+                "normalOccupancy": 53.52696990966797,
+                "isolatedTeam": 8
+            },
+            {
+                "name": "מאיר",
+                "coronaOccupancy": 34.14634146341464,
+                "normalOccupancy": 66.32390594482422,
                 "isolatedTeam": 89
             },
             {
                 "name": "קפלן",
-                "coronaOccupancy": 35,
-                "normalOccupancy": 84.29602813720703,
+                "coronaOccupancy": 30,
+                "normalOccupancy": 87.3646240234375,
                 "isolatedTeam": 22
             },
             {
                 "name": "סורוקה",
-                "coronaOccupancy": 32.05128205128205,
-                "normalOccupancy": 70.54734802246094,
+                "coronaOccupancy": 28.20512820512821,
+                "normalOccupancy": 71.50304412841797,
                 "isolatedTeam": 45
-            },
-            {
-                "name": "השרון ק. גולדה",
-                "coronaOccupancy": 31.70731707317073,
-                "normalOccupancy": 51.86721801757813,
-                "isolatedTeam": 8
             },
             {
                 "name": "שניידר",
                 "coronaOccupancy": 25,
-                "normalOccupancy": 76.37130737304688,
+                "normalOccupancy": 79.74683380126953,
                 "isolatedTeam": 19
             }
         ]
@@ -15356,23 +15356,23 @@
             },
             {
                 "date": "2020-08-23T00:00:00.000Z",
-                "dailyDoublingRate": -0.8557583256005752,
-                "numberOfDoublingDays": -80.65093605307618
+                "dailyDoublingRate": -0.8454479843282847,
+                "numberOfDoublingDays": -81.63872262152762
             },
             {
                 "date": "2020-08-24T00:00:00.000Z",
-                "dailyDoublingRate": 2.391846921797014,
-                "numberOfDoublingDays": 29.32478779609876
+                "dailyDoublingRate": 2.391598211500479,
+                "numberOfDoublingDays": 29.32780161979355
             },
             {
                 "date": "2020-08-25T00:00:00.000Z",
-                "dailyDoublingRate": 3.0875482429412853,
-                "numberOfDoublingDays": 22.79457748616028
+                "dailyDoublingRate": 3.087234690768748,
+                "numberOfDoublingDays": 22.7968577512525
             },
             {
                 "date": "2020-08-26T00:00:00.000Z",
-                "dailyDoublingRate": 2.876847290640394,
-                "numberOfDoublingDays": 24.43892123367462
+                "dailyDoublingRate": 2.866712639148861,
+                "numberOfDoublingDays": 24.52410607550792
             }
         ]
     },
@@ -15801,8 +15801,8 @@
                 "Counthospitalized": 513,
                 "Counthospitalized_without_release": 485,
                 "CountHardStatus": 69,
-                "CountMediumStatus": 81,
-                "CountEasyStatus": 363,
+                "CountMediumStatus": 82,
+                "CountEasyStatus": 362,
                 "CountBreath": 41,
                 "CountDeath": 1,
                 "total_beds": 1304,
@@ -15832,10 +15832,10 @@
                 "new_hospitalized": 121,
                 "Counthospitalized": 619,
                 "Counthospitalized_without_release": 570,
-                "CountHardStatus": 88,
+                "CountHardStatus": 87,
                 "CountMediumStatus": 104,
-                "CountEasyStatus": 427,
-                "CountBreath": 55,
+                "CountEasyStatus": 428,
+                "CountBreath": 54,
                 "CountDeath": 1,
                 "total_beds": 1304,
                 "StandardOccupancy": 0.4746932515337423,
@@ -15848,9 +15848,9 @@
                 "new_hospitalized": 111,
                 "Counthospitalized": 668,
                 "Counthospitalized_without_release": 628,
-                "CountHardStatus": 97,
-                "CountMediumStatus": 115,
-                "CountEasyStatus": 456,
+                "CountHardStatus": 98,
+                "CountMediumStatus": 113,
+                "CountEasyStatus": 457,
                 "CountBreath": 64,
                 "CountDeath": 4,
                 "total_beds": 1304,
@@ -17591,16 +17591,16 @@
                 "date": "2020-07-18T00:00:00.000Z",
                 "new_hospitalized": 103,
                 "Counthospitalized": 698,
-                "Counthospitalized_without_release": 666,
-                "CountHardStatus": 235,
-                "CountMediumStatus": 148,
+                "Counthospitalized_without_release": 665,
+                "CountHardStatus": 234,
+                "CountMediumStatus": 149,
                 "CountEasyStatus": 315,
                 "CountBreath": 57,
                 "CountDeath": 7,
                 "total_beds": 1304,
                 "StandardOccupancy": 0.5352760736196319,
                 "num_visits": 4978,
-                "patients_home": 23224,
+                "patients_home": 23225,
                 "patients_hotel": 3431
             },
             {
@@ -17824,7 +17824,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6526073619631901,
                 "num_visits": 4722,
-                "patients_home": 19920,
+                "patients_home": 19919,
                 "patients_hotel": 3416
             },
             {
@@ -17840,7 +17840,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7101226993865031,
                 "num_visits": 6983,
-                "patients_home": 17759,
+                "patients_home": 17758,
                 "patients_hotel": 3597
             },
             {
@@ -17849,37 +17849,37 @@
                 "Counthospitalized": 905,
                 "Counthospitalized_without_release": 773,
                 "CountHardStatus": 330,
-                "CountMediumStatus": 145,
-                "CountEasyStatus": 430,
+                "CountMediumStatus": 146,
+                "CountEasyStatus": 429,
                 "CountBreath": 95,
                 "CountDeath": 15,
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6940184049079755,
                 "num_visits": 6364,
-                "patients_home": 17868,
+                "patients_home": 17867,
                 "patients_hotel": 3360
             },
             {
                 "date": "2020-08-04T00:00:00.000Z",
                 "new_hospitalized": 108,
-                "Counthospitalized": 867,
-                "Counthospitalized_without_release": 753,
-                "CountHardStatus": 342,
+                "Counthospitalized": 868,
+                "Counthospitalized_without_release": 754,
+                "CountHardStatus": 343,
                 "CountMediumStatus": 163,
                 "CountEasyStatus": 362,
                 "CountBreath": 99,
                 "CountDeath": 11,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.6648773006134969,
+                "StandardOccupancy": 0.6656441717791411,
                 "num_visits": 6490,
-                "patients_home": 17857,
+                "patients_home": 17855,
                 "patients_hotel": 3261
             },
             {
                 "date": "2020-08-05T00:00:00.000Z",
                 "new_hospitalized": 143,
                 "Counthospitalized": 884,
-                "Counthospitalized_without_release": 767,
+                "Counthospitalized_without_release": 766,
                 "CountHardStatus": 356,
                 "CountMediumStatus": 164,
                 "CountEasyStatus": 364,
@@ -17904,14 +17904,14 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6648773006134969,
                 "num_visits": 6210,
-                "patients_home": 17540,
+                "patients_home": 17539,
                 "patients_hotel": 3333
             },
             {
                 "date": "2020-08-07T00:00:00.000Z",
                 "new_hospitalized": 122,
                 "Counthospitalized": 870,
-                "Counthospitalized_without_release": 799,
+                "Counthospitalized_without_release": 798,
                 "CountHardStatus": 369,
                 "CountMediumStatus": 159,
                 "CountEasyStatus": 342,
@@ -17936,7 +17936,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6779141104294478,
                 "num_visits": 4508,
-                "patients_home": 17861,
+                "patients_home": 17860,
                 "patients_hotel": 3346
             },
             {
@@ -17952,14 +17952,14 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7584355828220859,
                 "num_visits": 7030,
-                "patients_home": 16273,
+                "patients_home": 16271,
                 "patients_hotel": 3441
             },
             {
                 "date": "2020-08-10T00:00:00.000Z",
                 "new_hospitalized": 107,
                 "Counthospitalized": 924,
-                "Counthospitalized_without_release": 798,
+                "Counthospitalized_without_release": 797,
                 "CountHardStatus": 393,
                 "CountMediumStatus": 185,
                 "CountEasyStatus": 346,
@@ -17968,7 +17968,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7085889570552147,
                 "num_visits": 6185,
-                "patients_home": 16769,
+                "patients_home": 16768,
                 "patients_hotel": 3230
             },
             {
@@ -17984,7 +17984,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6817484662576687,
                 "num_visits": 6532,
-                "patients_home": 17564,
+                "patients_home": 17562,
                 "patients_hotel": 3206
             },
             {
@@ -18000,7 +18000,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6625766871165644,
                 "num_visits": 5994,
-                "patients_home": 17849,
+                "patients_home": 17847,
                 "patients_hotel": 3343
             },
             {
@@ -18016,7 +18016,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6679447852760736,
                 "num_visits": 5693,
-                "patients_home": 17993,
+                "patients_home": 17991,
                 "patients_hotel": 3387
             },
             {
@@ -18032,7 +18032,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6679447852760736,
                 "num_visits": 4773,
-                "patients_home": 18310,
+                "patients_home": 18308,
                 "patients_hotel": 3350
             },
             {
@@ -18048,7 +18048,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6894171779141104,
                 "num_visits": 4165,
-                "patients_home": 18209,
+                "patients_home": 18207,
                 "patients_hotel": 3491
             },
             {
@@ -18064,7 +18064,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7446319018404908,
                 "num_visits": 6484,
-                "patients_home": 17085,
+                "patients_home": 17083,
                 "patients_hotel": 3435
             },
             {
@@ -18080,7 +18080,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7062883435582822,
                 "num_visits": 5392,
-                "patients_home": 17819,
+                "patients_home": 17817,
                 "patients_hotel": 3179
             },
             {
@@ -18096,7 +18096,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.7116564417177914,
                 "num_visits": 5581,
-                "patients_home": 18133,
+                "patients_home": 18131,
                 "patients_hotel": 3115
             },
             {
@@ -18112,7 +18112,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6886503067484663,
                 "num_visits": 5374,
-                "patients_home": 18205,
+                "patients_home": 18203,
                 "patients_hotel": 3100
             },
             {
@@ -18128,7 +18128,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6924846625766872,
                 "num_visits": 5606,
-                "patients_home": 18369,
+                "patients_home": 18367,
                 "patients_hotel": 2979
             },
             {
@@ -18144,7 +18144,7 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6855828220858896,
                 "num_visits": 4763,
-                "patients_home": 18186,
+                "patients_home": 18184,
                 "patients_hotel": 2935
             },
             {
@@ -18160,21 +18160,21 @@
                 "total_beds": 1304,
                 "StandardOccupancy": 0.6909509202453987,
                 "num_visits": 4180,
-                "patients_home": 18116,
+                "patients_home": 18114,
                 "patients_hotel": 2835
             },
             {
                 "date": "2020-08-23T00:00:00.000Z",
-                "new_hospitalized": 119,
-                "Counthospitalized": 989,
-                "Counthospitalized_without_release": 758,
+                "new_hospitalized": 118,
+                "Counthospitalized": 988,
+                "Counthospitalized_without_release": 757,
                 "CountHardStatus": 412,
                 "CountMediumStatus": 215,
-                "CountEasyStatus": 362,
+                "CountEasyStatus": 361,
                 "CountBreath": 116,
                 "CountDeath": 13,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.7584355828220859,
+                "StandardOccupancy": 0.7576687116564417,
                 "num_visits": 6235,
                 "patients_home": 16862,
                 "patients_hotel": 2762
@@ -18182,65 +18182,65 @@
             {
                 "date": "2020-08-24T00:00:00.000Z",
                 "new_hospitalized": 122,
-                "Counthospitalized": 1001,
-                "Counthospitalized_without_release": 747,
+                "Counthospitalized": 1000,
+                "Counthospitalized_without_release": 746,
                 "CountHardStatus": 433,
                 "CountMediumStatus": 212,
-                "CountEasyStatus": 356,
+                "CountEasyStatus": 355,
                 "CountBreath": 119,
                 "CountDeath": 14,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.7676380368098159,
+                "StandardOccupancy": 0.7668711656441718,
                 "num_visits": 5466,
                 "patients_home": 17586,
                 "patients_hotel": 2372
             },
             {
                 "date": "2020-08-25T00:00:00.000Z",
-                "new_hospitalized": 104,
-                "Counthospitalized": 963,
-                "Counthospitalized_without_release": 715,
-                "CountHardStatus": 429,
+                "new_hospitalized": 101,
+                "Counthospitalized": 959,
+                "Counthospitalized_without_release": 713,
+                "CountHardStatus": 428,
                 "CountMediumStatus": 190,
-                "CountEasyStatus": 344,
+                "CountEasyStatus": 341,
                 "CountBreath": 119,
                 "CountDeath": 16,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.7384969325153374,
+                "StandardOccupancy": 0.7354294478527608,
                 "num_visits": 5517,
-                "patients_home": 16945,
+                "patients_home": 16946,
                 "patients_hotel": 2202
             },
             {
                 "date": "2020-08-26T00:00:00.000Z",
-                "new_hospitalized": 116,
-                "Counthospitalized": 953,
-                "Counthospitalized_without_release": 713,
-                "CountHardStatus": 421,
-                "CountMediumStatus": 192,
-                "CountEasyStatus": 340,
-                "CountBreath": 119,
+                "new_hospitalized": 40,
+                "Counthospitalized": 872,
+                "Counthospitalized_without_release": 694,
+                "CountHardStatus": 402,
+                "CountMediumStatus": 180,
+                "CountEasyStatus": 290,
+                "CountBreath": 115,
                 "CountDeath": 8,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.7308282208588958,
+                "StandardOccupancy": 0.6687116564417178,
                 "num_visits": 5421,
-                "patients_home": 18078,
+                "patients_home": 18096,
                 "patients_hotel": 2248
             },
             {
                 "date": "2020-08-27T00:00:00.000Z",
-                "new_hospitalized": 17,
-                "Counthospitalized": 858,
-                "Counthospitalized_without_release": 858,
-                "CountHardStatus": 428,
-                "CountMediumStatus": 173,
-                "CountEasyStatus": 257,
-                "CountBreath": 124,
-                "CountDeath": 2,
+                "new_hospitalized": 0,
+                "Counthospitalized": 820,
+                "Counthospitalized_without_release": 820,
+                "CountHardStatus": 399,
+                "CountMediumStatus": 168,
+                "CountEasyStatus": 253,
+                "CountBreath": 115,
+                "CountDeath": 0,
                 "total_beds": 1304,
-                "StandardOccupancy": 0.6579754601226994,
+                "StandardOccupancy": 0.6288343558282209,
                 "num_visits": 389,
-                "patients_home": 20287,
+                "patients_home": 20258,
                 "patients_hotel": 0
             }
         ]
@@ -18250,11 +18250,11 @@
         "data": [
             {
                 "name": "hard",
-                "amount": 428
+                "amount": 399
             },
             {
                 "name": "moderate",
-                "amount": 173
+                "amount": 168
             }
         ]
     },
@@ -18287,7 +18287,7 @@
             },
             {
                 "date": "2020-08-27T00:00:00.000Z",
-                "amount": 232
+                "amount": 166
             }
         ]
     }
