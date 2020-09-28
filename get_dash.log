@@ -3828,3 +3828,484 @@ same
 same
 same
 same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+changed
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+changed
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+changed
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+changed
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+changed
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+changed
+same
+same
+same
+same
+same
+same
+same
+changed
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+changed
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+changed
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+Traceback (most recent call last):
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/urllib3/connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/urllib3/connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/urllib3/connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "/home/danb/miniconda3/lib/python3.8/http/client.py", line 1332, in getresponse
+    response.begin()
+  File "/home/danb/miniconda3/lib/python3.8/http/client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "/home/danb/miniconda3/lib/python3.8/http/client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/home/danb/miniconda3/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/urllib3/contrib/pyopenssl.py", line 318, in recv_into
+    raise SocketError(str(e))
+OSError: (104, 'ECONNRESET')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/urllib3/connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/urllib3/util/retry.py", line 400, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/urllib3/packages/six.py", line 734, in reraise
+    raise value.with_traceback(tb)
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/urllib3/connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/urllib3/connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/urllib3/connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "/home/danb/miniconda3/lib/python3.8/http/client.py", line 1332, in getresponse
+    response.begin()
+  File "/home/danb/miniconda3/lib/python3.8/http/client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "/home/danb/miniconda3/lib/python3.8/http/client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/home/danb/miniconda3/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/urllib3/contrib/pyopenssl.py", line 318, in recv_into
+    raise SocketError(str(e))
+urllib3.exceptions.ProtocolError: ('Connection aborted.', OSError("(104, 'ECONNRESET')"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "getDashboard.py", line 24, in <module>
+    r = session.options(url=url, headers=header)
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/requests/sessions.py", line 554, in options
+    return self.request('OPTIONS', url, **kwargs)
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/danb/miniconda3/lib/python3.8/site-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', OSError("(104, 'ECONNRESET')"))
+same
+same
+changed
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+same
+changed
+same
+same
