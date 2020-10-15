@@ -99,7 +99,7 @@ latest_json = json.load(open(latest_path, 'r', encoding='utf-8'))
 
 if latest_json[0]['data']['lastUpdate'] != data[0]['data']['lastUpdate']:
     os.makedirs(data_path, exist_ok=True)
-    print('changed')
+    print(datetime.strftime(now, '%Y-%m-%d'), datetime.strftime(now, '%H%M%S'),'- changed')
     with open(latest_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
     with open(os.path.join(data_path, 'data.json'), 'w', encoding='utf-8') as f:
