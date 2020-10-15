@@ -124,7 +124,7 @@ if latest_json[0]['data']['lastUpdate'] != data[0]['data']['lastUpdate']:
             temp.to_csv(os.path.join(data_path, queryName + ".csv"), index=False)
             tables[queryName] = temp
 else:
-    print('same')
+    print(datetime.strftime(now, '%Y-%m-%d'), datetime.strftime(now, '%H%M%S'),'- same')
 # data_path = os.path.join(os.getcwd(), "Resources", "Datasets", "IsraelData")
 # for k, table in tables.items():
 #     table.to_csv(os.path.join(data_path, k + ".csv"), index=False)
