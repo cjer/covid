@@ -75,13 +75,20 @@ with requests.session() as session:
                            {"id":"16","queryName":"doublingRate","single":False,"parameters":{}},
                            {"id":"17","queryName":"patientsPerDate","single":False,"parameters":{}},
                            {"id":"18","queryName":"updatedPatientsOverallStatus","single":False,"parameters":{}},
-                           {"id":"19","queryName":"CalculatedVerified","single":False,"parameters":{}}
+                           {"id":"19","queryName":"CalculatedVerified","single":False,"parameters":{}},
+                           {"id":"20","queryName":"breatheByAgeAndGenderPublic","single":False,
+                            "parameters":{"ageSections":[0,10,20,30,40,50,60,70,80,90]}},
+                           {"id":"21","queryName":"deadByAgeAndGenderPublic","single":False,
+                            "parameters":{"ageSections":[0,10,20,30,40,50,60,70,80,90]}},
+                           {"id":"22","queryName":"severeByAgeAndGenderPublic","single":False,
+                            "parameters":{"ageSections":[0,10,20,30,40,50,60,70,80,90]}},
                            ]}
     # payload = {"requests": [{"id": "0", "queryName": "lastUpdate", "single": True, "parameters": {}}]}
     r2 = session.post(url, json=payload, headers=header)
 
 general = ["updatedPatientsOverallStatus", "infectedByAgeAndGenderPublic", "isolatedDoctorsAndNurses",
-           "contagionDataPerCityPublic", "hospitalStatus"]
+           "contagionDataPerCityPublic", "hospitalStatus", 
+           "breatheByAgeAndGenderPublic",."deadByAgeAndGenderPublic", "severeByAgeAndGenderPublic"]
 
 now = datetime.now()
 data_path = os.path.join(os.getcwd(), "dashboard_data", datetime.strftime(now, '%Y-%m-%d'), datetime.strftime(now, '%H%M%S'))
