@@ -1223,3 +1223,18 @@
 2020-10-21 19:19:43,944 - get_datagov - INFO - finished file download...
 2020-10-21 19:19:43,945 - get_datagov - INFO - writing new latest pickle
 2020-10-21 19:19:43,946 - get_datagov - INFO - get_datagov finished
+2020-10-21 19:31:28,958 - get_datagov - INFO - Requesting covid-19 dataset page from data.gov.il
+2020-10-21 19:31:29,048 - get_datagov - INFO - extracting file metadata and links
+2020-10-21 19:31:29,049 - get_datagov - INFO - found 0.0 files
+2020-10-21 19:34:22,581 - get_datagov - INFO - Requesting covid-19 dataset page from data.gov.il
+2020-10-21 19:34:22,626 - get_datagov - INFO - extracting file metadata and links
+2020-10-21 19:34:22,627 - get_datagov - INFO - found 0.0 files
+2020-10-21 19:40:51,693 - get_datagov - INFO - Requesting covid-19 dataset page from data.gov.il
+2020-10-21 19:40:51,753 - get_datagov - INFO - extracting file metadata and links
+2020-10-21 19:40:51,758 - get_datagov - INFO - found 0.0 files
+2020-10-21 19:41:53,652 - get_datagov - INFO - Requesting covid-19 dataset page from data.gov.il
+2020-10-21 19:41:53,703 - get_datagov - INFO - extracting file metadata and links
+2020-10-21 19:41:53,705 - get_datagov - INFO - found 0.0 files
+2020-10-21 19:43:01,356 - get_datagov - INFO - Requesting covid-19 dataset page from data.gov.il
+2020-10-21 19:43:01,447 - get_datagov - INFO - extracting file metadata and links
+2020-10-21 19:43:01,449 - get_datagov - INFO - found 0.0 files
