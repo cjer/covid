@@ -95,9 +95,12 @@ def download_files(nlf, latest_nlf_dict=None):
 
 logger.info('Requesting covid-19 dataset page from data.gov.il')
 x = requests.get('https://data.gov.il/dataset/covid-19',
-                headers={'user-agent':'datagov-external-client'})
+                headers={'User-Agent':'datagov-external-client'})
 logger.info('extracting file metadata and links')
 res = re.findall('(?:<a class="heading" href=".*" title="(.*)")|(?:<a href="(/dataset/covid-19/resource/([\w-]+)/download/(.*))")', x.text)
+if len(res)==0:
+    logger.error('bad page, no files found')
+    sys.exit()
 logger.info('found ' + str(len(res)/2) + ' files')
 
 d = datetime.datetime.now().strftime('%Y%m%d%H%M%S')

@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 get_dash.log
+datagov.log
+*.log
