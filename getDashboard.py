@@ -99,7 +99,7 @@ data = r2.json()
 latest_path = os.path.join(os.getcwd(), "dashboard_data", 'latest.json')
 latest_json = json.load(open(latest_path, 'r', encoding='utf-8'))
 
-if True: #latest_json[0]['data']['lastUpdate'] != data[0]['data']['lastUpdate']:
+if latest_json[0]['data']['lastUpdate'] != data[0]['data']['lastUpdate']:
     os.makedirs(data_path, exist_ok=True)
     print(datetime.strftime(now, '%Y-%m-%d'), datetime.strftime(now, '%H:%M:%S'),'- changed')
     with open(latest_path, 'w', encoding='utf-8') as f:
