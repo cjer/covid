@@ -91,7 +91,7 @@ with requests.session() as session:
 
 general = ["updatedPatientsOverallStatus", "infectedByAgeAndGenderPublic", "isolatedDoctorsAndNurses",
            "contagionDataPerCityPublic", "hospitalStatus", 
-           "breatheByAgeAndGenderPublic","deadByAgeAndGenderPublic", "severeByAgeAndGenderPublic"]
+           "breatheByAgeAndGenderPublic","deadByAgeAndGenderPublic", "severeByAgeAndGenderPublic", "spotlightLastupdate"]
 
 now = datetime.now()
 data_path = os.path.join(os.getcwd(), "dashboard_data", datetime.strftime(now, '%Y-%m-%d'), datetime.strftime(now, '%H%M%S'))
