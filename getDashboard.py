@@ -113,8 +113,6 @@ if latest_json[0]['data']['lastUpdate'] != data[0]['data']['lastUpdate']:
         if queryName == 'lastUpdate':
             lastUpdate = data[i]['data']['lastUpdate']
         elif queryName in general:
-            print(queryName)
-            print(data[i]['data'])
             if queryName == 'isolatedDoctorsAndNurses':
                 temp = pd.DataFrame(data[i]['data'], index=[0])
             else:
