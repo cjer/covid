@@ -76,7 +76,8 @@ def download_files(nlf, latest_nlf_dict=None):
                 af.write(dr.content)
                 remove_path = os.path.join(latest_dir, latest_nlf_dict[s.resource]['output_file_name'])
                 logger.info('removing prior latest file from ' + remove_path)
-                os.remove(remove_path)
+                if os.path.exists(remove_path):
+                    os.remove(remove_path)
 
             nlf_dict[s.resource] = {
                 'title': s.title,
