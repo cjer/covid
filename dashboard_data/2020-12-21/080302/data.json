@@ -2,7 +2,7 @@
     {
         "id": "0",
         "data": {
-            "lastUpdate": "2020-12-21T08:21:57.310Z"
+            "lastUpdate": "2020-12-21T04:52:38.930Z"
         }
     },
     {
@@ -1550,7 +1550,7 @@
             },
             {
                 "date": "2020-12-16T00:00:00.000Z",
-                "amount": 2850,
+                "amount": 2851,
                 "recovered": 1640
             },
             {
@@ -1560,23 +1560,23 @@
             },
             {
                 "date": "2020-12-18T00:00:00.000Z",
-                "amount": 2837,
+                "amount": 2835,
                 "recovered": 1588
             },
             {
                 "date": "2020-12-19T00:00:00.000Z",
-                "amount": 1883,
+                "amount": 1880,
                 "recovered": 1105
             },
             {
                 "date": "2020-12-20T00:00:00.000Z",
-                "amount": 2846,
-                "recovered": 2448
+                "amount": 2821,
+                "recovered": 2445
             },
             {
                 "date": "2020-12-21T00:00:00.000Z",
-                "amount": 730,
-                "recovered": 320
+                "amount": 261,
+                "recovered": 0
             }
         ]
     },
@@ -1601,12 +1601,12 @@
         "id": "3",
         "data": [
             {
-                "date": "2020-12-20T09:02:56.049Z",
-                "amount": 24751
+                "date": "2020-12-20T06:02:55.359Z",
+                "amount": 24731
             },
             {
-                "date": "2020-12-21T09:02:56.049Z",
-                "amount": 408
+                "date": "2020-12-21T06:02:55.359Z",
+                "amount": 261
             }
         ]
     },
@@ -1615,11 +1615,11 @@
         "data": [
             {
                 "name": "home",
-                "amount": 24328
+                "amount": 24154
             },
             {
                 "name": "hospital",
-                "amount": 831
+                "amount": 838
             }
         ]
     },
@@ -10265,11 +10265,11 @@
             },
             {
                 "date": "2020-12-20T00:00:00.000Z",
-                "amount": 2448
+                "amount": 2445
             },
             {
                 "date": "2020-12-21T00:00:00.000Z",
-                "amount": 320
+                "amount": 0
             }
         ]
     },
@@ -12549,12 +12549,12 @@
                 "amount": 84124,
                 "amountVirusDiagnosis": 82472,
                 "amountMagen": 12891,
-                "positiveAmount": 2850
+                "positiveAmount": 2851
             },
             {
                 "date": "2020-12-17T00:00:00.000Z",
                 "amount": 80662,
-                "amountVirusDiagnosis": 79116,
+                "amountVirusDiagnosis": 79115,
                 "amountMagen": 11745,
                 "positiveAmount": 2842
             },
@@ -12563,28 +12563,28 @@
                 "amount": 76761,
                 "amountVirusDiagnosis": 75410,
                 "amountMagen": 8572,
-                "positiveAmount": 2837
+                "positiveAmount": 2835
             },
             {
                 "date": "2020-12-19T00:00:00.000Z",
                 "amount": 62129,
                 "amountVirusDiagnosis": 60961,
                 "amountMagen": 7112,
-                "positiveAmount": 1883
+                "positiveAmount": 1880
             },
             {
                 "date": "2020-12-20T00:00:00.000Z",
-                "amount": 70989,
-                "amountVirusDiagnosis": 69649,
-                "amountMagen": 3388,
-                "positiveAmount": 2846
+                "amount": 70575,
+                "amountVirusDiagnosis": 69244,
+                "amountMagen": 3111,
+                "positiveAmount": 2821
             },
             {
                 "date": "2020-12-21T00:00:00.000Z",
-                "amount": 17417,
-                "amountVirusDiagnosis": 17095,
-                "amountMagen": 1729,
-                "positiveAmount": 730
+                "amount": 6332,
+                "amountVirusDiagnosis": 6222,
+                "amountMagen": 380,
+                "positiveAmount": 261
             }
         ]
     },
@@ -14133,7 +14133,7 @@
             },
             {
                 "date": "2020-12-16T00:00:00.000Z",
-                "amount": 2850,
+                "amount": 2851,
                 "recovered": 1640
             },
             {
@@ -14143,23 +14143,23 @@
             },
             {
                 "date": "2020-12-18T00:00:00.000Z",
-                "amount": 2837,
+                "amount": 2835,
                 "recovered": 1588
             },
             {
                 "date": "2020-12-19T00:00:00.000Z",
-                "amount": 1883,
+                "amount": 1880,
                 "recovered": 1105
             },
             {
                 "date": "2020-12-20T00:00:00.000Z",
-                "amount": 2846,
-                "recovered": 2448
+                "amount": 2821,
+                "recovered": 2445
             },
             {
                 "date": "2020-12-21T00:00:00.000Z",
-                "amount": 730,
-                "recovered": 320
+                "amount": 261,
+                "recovered": 0
             }
         ]
     },
@@ -20073,53 +20073,53 @@
         "data": [
             {
                 "section": 0,
-                "male": 20214,
-                "female": 19314
+                "male": 20181,
+                "female": 19285
             },
             {
                 "section": 10,
-                "male": 43464,
-                "female": 32832
+                "male": 43417,
+                "female": 32774
             },
             {
                 "section": 20,
-                "male": 37967,
-                "female": 35894
+                "male": 37931,
+                "female": 35842
             },
             {
                 "section": 30,
-                "male": 26032,
-                "female": 26495
+                "male": 25998,
+                "female": 26458
             },
             {
                 "section": 40,
-                "male": 22936,
-                "female": 24736
+                "male": 22910,
+                "female": 24697
             },
             {
                 "section": 50,
-                "male": 17893,
-                "female": 18783
+                "male": 17872,
+                "female": 18757
             },
             {
                 "section": 60,
-                "male": 13106,
-                "female": 11815
+                "male": 13089,
+                "female": 11799
             },
             {
                 "section": 70,
-                "male": 6567,
-                "female": 6019
+                "male": 6561,
+                "female": 6009
             },
             {
                 "section": 80,
-                "male": 2744,
-                "female": 3528
+                "male": 2741,
+                "female": 3524
             },
             {
                 "section": 90,
-                "male": 660,
-                "female": 1498
+                "male": 659,
+                "female": 1496
             }
         ]
     },
@@ -22406,12 +22406,12 @@
                 "amount": 84124,
                 "amountVirusDiagnosis": 82472,
                 "amountMagen": 12891,
-                "positiveAmount": 2850
+                "positiveAmount": 2851
             },
             {
                 "date": "2020-12-17T00:00:00.000Z",
                 "amount": 80662,
-                "amountVirusDiagnosis": 79116,
+                "amountVirusDiagnosis": 79115,
                 "amountMagen": 11745,
                 "positiveAmount": 2842
             },
@@ -22420,28 +22420,28 @@
                 "amount": 76761,
                 "amountVirusDiagnosis": 75410,
                 "amountMagen": 8572,
-                "positiveAmount": 2837
+                "positiveAmount": 2835
             },
             {
                 "date": "2020-12-19T00:00:00.000Z",
                 "amount": 62129,
                 "amountVirusDiagnosis": 60961,
                 "amountMagen": 7112,
-                "positiveAmount": 1883
+                "positiveAmount": 1880
             },
             {
                 "date": "2020-12-20T00:00:00.000Z",
-                "amount": 70989,
-                "amountVirusDiagnosis": 69649,
-                "amountMagen": 3388,
-                "positiveAmount": 2846
+                "amount": 70575,
+                "amountVirusDiagnosis": 69244,
+                "amountMagen": 3111,
+                "positiveAmount": 2821
             },
             {
                 "date": "2020-12-21T00:00:00.000Z",
-                "amount": 17417,
-                "amountVirusDiagnosis": 17095,
-                "amountMagen": 1729,
-                "positiveAmount": 730
+                "amount": 6332,
+                "amountVirusDiagnosis": 6222,
+                "amountMagen": 380,
+                "positiveAmount": 261
             }
         ]
     },
@@ -22450,650 +22450,650 @@
         "data": [
             {
                 "city": "ירושלים",
-                "sickCount": 54434,
-                "actualSick": 4531,
-                "verifiedLast7Days": 3173,
-                "testLast7Days": 49187,
-                "patientDiffPopulationForTenThousands": 49
+                "sickCount": 54311,
+                "actualSick": 4484,
+                "verifiedLast7Days": 3050,
+                "testLast7Days": 47484,
+                "patientDiffPopulationForTenThousands": 48
             },
             {
                 "city": "חיפה",
-                "sickCount": 7383,
-                "actualSick": 809,
-                "verifiedLast7Days": 531,
-                "testLast7Days": 18352,
-                "patientDiffPopulationForTenThousands": 30
+                "sickCount": 7373,
+                "actualSick": 805,
+                "verifiedLast7Days": 521,
+                "testLast7Days": 17832,
+                "patientDiffPopulationForTenThousands": 29
             },
             {
                 "city": "תל אביב - יפו",
-                "sickCount": 12416,
-                "actualSick": 805,
-                "verifiedLast7Days": 526,
-                "testLast7Days": 28952,
-                "patientDiffPopulationForTenThousands": 18
+                "sickCount": 12406,
+                "actualSick": 798,
+                "verifiedLast7Days": 516,
+                "testLast7Days": 28648,
+                "patientDiffPopulationForTenThousands": 17
             },
             {
                 "city": "בני ברק",
-                "sickCount": 26654,
-                "actualSick": 644,
-                "verifiedLast7Days": 486,
-                "testLast7Days": 6089,
-                "patientDiffPopulationForTenThousands": 32
+                "sickCount": 26613,
+                "actualSick": 611,
+                "verifiedLast7Days": 445,
+                "testLast7Days": 5812,
+                "patientDiffPopulationForTenThousands": 30
             },
             {
                 "city": "פתח תקווה",
-                "sickCount": 9051,
-                "actualSick": 568,
-                "verifiedLast7Days": 365,
-                "testLast7Days": 16208,
+                "sickCount": 9043,
+                "actualSick": 566,
+                "verifiedLast7Days": 357,
+                "testLast7Days": 16002,
                 "patientDiffPopulationForTenThousands": 23
             },
             {
                 "city": "נצרת",
-                "sickCount": 3928,
-                "actualSick": 502,
-                "verifiedLast7Days": 279,
-                "testLast7Days": 3064,
-                "patientDiffPopulationForTenThousands": 64
+                "sickCount": 3922,
+                "actualSick": 507,
+                "verifiedLast7Days": 273,
+                "testLast7Days": 3034,
+                "patientDiffPopulationForTenThousands": 65
             },
             {
                 "city": "אשדוד",
-                "sickCount": 13513,
-                "actualSick": 476,
-                "verifiedLast7Days": 365,
-                "testLast7Days": 10910,
+                "sickCount": 13510,
+                "actualSick": 479,
+                "verifiedLast7Days": 362,
+                "testLast7Days": 10651,
                 "patientDiffPopulationForTenThousands": 21
             },
             {
                 "city": "טמרה",
-                "sickCount": 1913,
-                "actualSick": 408,
-                "verifiedLast7Days": 259,
-                "testLast7Days": 3179,
-                "patientDiffPopulationForTenThousands": 119
+                "sickCount": 1907,
+                "actualSick": 405,
+                "verifiedLast7Days": 253,
+                "testLast7Days": 3130,
+                "patientDiffPopulationForTenThousands": 118
             },
             {
                 "city": "באר שבע",
-                "sickCount": 6760,
-                "actualSick": 401,
-                "verifiedLast7Days": 258,
-                "testLast7Days": 12798,
+                "sickCount": 6744,
+                "actualSick": 392,
+                "verifiedLast7Days": 242,
+                "testLast7Days": 12089,
                 "patientDiffPopulationForTenThousands": 20
             },
             {
                 "city": "נתניה",
-                "sickCount": 7932,
-                "actualSick": 386,
-                "verifiedLast7Days": 258,
-                "testLast7Days": 9325,
+                "sickCount": 7929,
+                "actualSick": 390,
+                "verifiedLast7Days": 255,
+                "testLast7Days": 9198,
                 "patientDiffPopulationForTenThousands": 18
             },
             {
                 "city": "חולון",
-                "sickCount": 6641,
-                "actualSick": 364,
-                "verifiedLast7Days": 237,
-                "testLast7Days": 9450,
-                "patientDiffPopulationForTenThousands": 19
+                "sickCount": 6639,
+                "actualSick": 366,
+                "verifiedLast7Days": 235,
+                "testLast7Days": 9393,
+                "patientDiffPopulationForTenThousands": 20
             },
             {
                 "city": "ראשון לציון",
-                "sickCount": 6334,
-                "actualSick": 357,
-                "verifiedLast7Days": 235,
-                "testLast7Days": 12649,
+                "sickCount": 6332,
+                "actualSick": 359,
+                "verifiedLast7Days": 233,
+                "testLast7Days": 12531,
                 "patientDiffPopulationForTenThousands": 15
             },
             {
                 "city": "סח'נין",
-                "sickCount": 2464,
-                "actualSick": 331,
-                "verifiedLast7Days": 204,
-                "testLast7Days": 2340,
-                "patientDiffPopulationForTenThousands": 101
+                "sickCount": 2461,
+                "actualSick": 341,
+                "verifiedLast7Days": 201,
+                "testLast7Days": 2327,
+                "patientDiffPopulationForTenThousands": 104
             },
             {
                 "city": "שפרעם",
-                "sickCount": 2073,
-                "actualSick": 289,
-                "verifiedLast7Days": 143,
-                "testLast7Days": 2304,
-                "patientDiffPopulationForTenThousands": 70
-            },
-            {
-                "city": "אשקלון",
-                "sickCount": 4808,
-                "actualSick": 246,
-                "verifiedLast7Days": 167,
-                "testLast7Days": 7558,
-                "patientDiffPopulationForTenThousands": 17
+                "sickCount": 2064,
+                "actualSick": 283,
+                "verifiedLast7Days": 134,
+                "testLast7Days": 2226,
+                "patientDiffPopulationForTenThousands": 69
             },
             {
                 "city": "בית שמש",
-                "sickCount": 8315,
-                "actualSick": 246,
-                "verifiedLast7Days": 186,
-                "testLast7Days": 4419,
-                "patientDiffPopulationForTenThousands": 19
+                "sickCount": 8314,
+                "actualSick": 250,
+                "verifiedLast7Days": 185,
+                "testLast7Days": 4350,
+                "patientDiffPopulationForTenThousands": 20
+            },
+            {
+                "city": "אשקלון",
+                "sickCount": 4800,
+                "actualSick": 242,
+                "verifiedLast7Days": 159,
+                "testLast7Days": 7280,
+                "patientDiffPopulationForTenThousands": 17
             },
             {
                 "city": "אום אל-פחם",
-                "sickCount": 3545,
-                "actualSick": 220,
-                "verifiedLast7Days": 150,
-                "testLast7Days": 1861,
+                "sickCount": 3543,
+                "actualSick": 219,
+                "verifiedLast7Days": 148,
+                "testLast7Days": 1822,
                 "patientDiffPopulationForTenThousands": 39
             },
             {
                 "city": "דאלית אל-כרמל",
                 "sickCount": 1011,
-                "actualSick": 209,
+                "actualSick": 217,
                 "verifiedLast7Days": 174,
-                "testLast7Days": 1439,
-                "patientDiffPopulationForTenThousands": 121
+                "testLast7Days": 1431,
+                "patientDiffPopulationForTenThousands": 126
             },
             {
                 "city": "רמת גן",
-                "sickCount": 3398,
-                "actualSick": 204,
-                "verifiedLast7Days": 121,
-                "testLast7Days": 8558,
+                "sickCount": 3397,
+                "actualSick": 206,
+                "verifiedLast7Days": 120,
+                "testLast7Days": 8498,
                 "patientDiffPopulationForTenThousands": 14
             },
             {
                 "city": "מג'דל שמס",
-                "sickCount": 1128,
-                "actualSick": 203,
-                "verifiedLast7Days": 117,
-                "testLast7Days": 864,
-                "patientDiffPopulationForTenThousands": 181
+                "sickCount": 1125,
+                "actualSick": 204,
+                "verifiedLast7Days": 114,
+                "testLast7Days": 843,
+                "patientDiffPopulationForTenThousands": 182
             },
             {
                 "city": "בת ים",
-                "sickCount": 4350,
-                "actualSick": 198,
-                "verifiedLast7Days": 121,
-                "testLast7Days": 6149,
+                "sickCount": 4349,
+                "actualSick": 200,
+                "verifiedLast7Days": 120,
+                "testLast7Days": 6117,
                 "patientDiffPopulationForTenThousands": 15
             },
             {
                 "city": "רחובות",
-                "sickCount": 5103,
-                "actualSick": 190,
-                "verifiedLast7Days": 142,
-                "testLast7Days": 7717,
+                "sickCount": 5100,
+                "actualSick": 195,
+                "verifiedLast7Days": 139,
+                "testLast7Days": 7629,
                 "patientDiffPopulationForTenThousands": 14
             },
             {
                 "city": "לוד",
                 "sickCount": 3550,
-                "actualSick": 179,
+                "actualSick": 181,
                 "verifiedLast7Days": 89,
-                "testLast7Days": 3283,
-                "patientDiffPopulationForTenThousands": 23
+                "testLast7Days": 3257,
+                "patientDiffPopulationForTenThousands": 24
             },
             {
                 "city": "רמלה",
                 "sickCount": 3849,
-                "actualSick": 176,
+                "actualSick": 178,
                 "verifiedLast7Days": 120,
-                "testLast7Days": 3324,
-                "patientDiffPopulationForTenThousands": 23
+                "testLast7Days": 3287,
+                "patientDiffPopulationForTenThousands": 24
             },
             {
                 "city": "קרית גת",
-                "sickCount": 2602,
-                "actualSick": 176,
-                "verifiedLast7Days": 122,
-                "testLast7Days": 3368,
-                "patientDiffPopulationForTenThousands": 31
+                "sickCount": 2600,
+                "actualSick": 175,
+                "verifiedLast7Days": 120,
+                "testLast7Days": 3314,
+                "patientDiffPopulationForTenThousands": 30
             },
             {
                 "city": "חדרה",
-                "sickCount": 3366,
-                "actualSick": 172,
-                "verifiedLast7Days": 135,
-                "testLast7Days": 4877,
+                "sickCount": 3362,
+                "actualSick": 169,
+                "verifiedLast7Days": 131,
+                "testLast7Days": 4688,
                 "patientDiffPopulationForTenThousands": 18
             },
             {
                 "city": "מודיעין-מכבים-רעות",
-                "sickCount": 2234,
-                "actualSick": 169,
-                "verifiedLast7Days": 144,
-                "testLast7Days": 7727,
+                "sickCount": 2230,
+                "actualSick": 166,
+                "verifiedLast7Days": 140,
+                "testLast7Days": 7606,
                 "patientDiffPopulationForTenThousands": 19
             },
             {
-                "city": "יפיע",
-                "sickCount": 1037,
-                "actualSick": 164,
-                "verifiedLast7Days": 87,
-                "testLast7Days": 715,
-                "patientDiffPopulationForTenThousands": 85
-            },
-            {
                 "city": "מודיעין עילית",
-                "sickCount": 11253,
-                "actualSick": 162,
-                "verifiedLast7Days": 126,
-                "testLast7Days": 1914,
+                "sickCount": 11251,
+                "actualSick": 164,
+                "verifiedLast7Days": 124,
+                "testLast7Days": 1810,
                 "patientDiffPopulationForTenThousands": 21
             },
             {
+                "city": "יפיע",
+                "sickCount": 1032,
+                "actualSick": 161,
+                "verifiedLast7Days": 82,
+                "testLast7Days": 701,
+                "patientDiffPopulationForTenThousands": 83
+            },
+            {
                 "city": "רעננה",
-                "sickCount": 1988,
+                "sickCount": 1987,
                 "actualSick": 160,
-                "verifiedLast7Days": 97,
-                "testLast7Days": 5962,
+                "verifiedLast7Days": 96,
+                "testLast7Days": 5924,
                 "patientDiffPopulationForTenThousands": 21
             },
             {
                 "city": "עספיא",
-                "sickCount": 658,
-                "actualSick": 157,
-                "verifiedLast7Days": 101,
-                "testLast7Days": 1082,
-                "patientDiffPopulationForTenThousands": 128
+                "sickCount": 654,
+                "actualSick": 155,
+                "verifiedLast7Days": 97,
+                "testLast7Days": 1058,
+                "patientDiffPopulationForTenThousands": 126
             },
             {
                 "city": "כפר סבא",
-                "sickCount": 1965,
-                "actualSick": 157,
-                "verifiedLast7Days": 87,
-                "testLast7Days": 6689,
+                "sickCount": 1962,
+                "actualSick": 155,
+                "verifiedLast7Days": 84,
+                "testLast7Days": 6626,
                 "patientDiffPopulationForTenThousands": 16
             },
             {
                 "city": "נהריה",
-                "sickCount": 1556,
-                "actualSick": 153,
-                "verifiedLast7Days": 115,
-                "testLast7Days": 4033,
-                "patientDiffPopulationForTenThousands": 26
+                "sickCount": 1554,
+                "actualSick": 151,
+                "verifiedLast7Days": 113,
+                "testLast7Days": 3944,
+                "patientDiffPopulationForTenThousands": 25
             },
             {
                 "city": "כפר כנא",
-                "sickCount": 1057,
-                "actualSick": 148,
-                "verifiedLast7Days": 69,
-                "testLast7Days": 860,
+                "sickCount": 1054,
+                "actualSick": 147,
+                "verifiedLast7Days": 66,
+                "testLast7Days": 839,
                 "patientDiffPopulationForTenThousands": 65
             },
             {
                 "city": "עראבה",
-                "sickCount": 1095,
-                "actualSick": 141,
-                "verifiedLast7Days": 112,
-                "testLast7Days": 1309,
-                "patientDiffPopulationForTenThousands": 54
-            },
-            {
-                "city": "ביתר עילית",
-                "sickCount": 6185,
-                "actualSick": 139,
-                "verifiedLast7Days": 128,
-                "testLast7Days": 1068,
-                "patientDiffPopulationForTenThousands": 23
+                "sickCount": 1092,
+                "actualSick": 145,
+                "verifiedLast7Days": 109,
+                "testLast7Days": 1301,
+                "patientDiffPopulationForTenThousands": 55
             },
             {
                 "city": "טייבה",
                 "sickCount": 2511,
-                "actualSick": 138,
+                "actualSick": 140,
                 "verifiedLast7Days": 95,
-                "testLast7Days": 1501,
-                "patientDiffPopulationForTenThousands": 31
+                "testLast7Days": 1494,
+                "patientDiffPopulationForTenThousands": 32
             },
             {
-                "city": "קרית אתא",
-                "sickCount": 1673,
-                "actualSick": 138,
-                "verifiedLast7Days": 110,
-                "testLast7Days": 3529,
-                "patientDiffPopulationForTenThousands": 24
-            },
-            {
-                "city": "מעלה אדומים",
-                "sickCount": 1339,
+                "city": "הרצליה",
+                "sickCount": 2041,
                 "actualSick": 134,
-                "verifiedLast7Days": 101,
-                "testLast7Days": 3367,
-                "patientDiffPopulationForTenThousands": 36
+                "verifiedLast7Days": 90,
+                "testLast7Days": 5773,
+                "patientDiffPopulationForTenThousands": 14
             },
             {
                 "city": "קלנסווה",
                 "sickCount": 1945,
                 "actualSick": 133,
                 "verifiedLast7Days": 64,
-                "testLast7Days": 1018,
+                "testLast7Days": 1005,
                 "patientDiffPopulationForTenThousands": 58
             },
             {
-                "city": "כאבול",
-                "sickCount": 538,
+                "city": "קרית אתא",
+                "sickCount": 1667,
                 "actualSick": 133,
-                "verifiedLast7Days": 101,
-                "testLast7Days": 995,
-                "patientDiffPopulationForTenThousands": 108
+                "verifiedLast7Days": 104,
+                "testLast7Days": 3361,
+                "patientDiffPopulationForTenThousands": 23
+            },
+            {
+                "city": "ביתר עילית",
+                "sickCount": 6178,
+                "actualSick": 132,
+                "verifiedLast7Days": 121,
+                "testLast7Days": 1041,
+                "patientDiffPopulationForTenThousands": 21
+            },
+            {
+                "city": "כאבול",
+                "sickCount": 537,
+                "actualSick": 132,
+                "verifiedLast7Days": 100,
+                "testLast7Days": 984,
+                "patientDiffPopulationForTenThousands": 107
+            },
+            {
+                "city": "מעלה אדומים",
+                "sickCount": 1336,
+                "actualSick": 131,
+                "verifiedLast7Days": 98,
+                "testLast7Days": 3309,
+                "patientDiffPopulationForTenThousands": 35
+            },
+            {
+                "city": "מג'ד אל-כרום",
+                "sickCount": 1319,
+                "actualSick": 130,
+                "verifiedLast7Days": 63,
+                "testLast7Days": 760,
+                "patientDiffPopulationForTenThousands": 84
             },
             {
                 "city": "ראש העין",
-                "sickCount": 2308,
-                "actualSick": 133,
-                "verifiedLast7Days": 98,
-                "testLast7Days": 4518,
-                "patientDiffPopulationForTenThousands": 22
-            },
-            {
-                "city": "הרצליה",
-                "sickCount": 2041,
-                "actualSick": 132,
-                "verifiedLast7Days": 90,
-                "testLast7Days": 5826,
-                "patientDiffPopulationForTenThousands": 14
-            },
-            {
-                "city": "אלעד",
-                "sickCount": 5784,
-                "actualSick": 129,
-                "verifiedLast7Days": 97,
-                "testLast7Days": 1359,
-                "patientDiffPopulationForTenThousands": 27
-            },
-            {
-                "city": "עכו",
-                "sickCount": 1774,
+                "sickCount": 2302,
                 "actualSick": 127,
-                "verifiedLast7Days": 91,
-                "testLast7Days": 3106,
-                "patientDiffPopulationForTenThousands": 25
+                "verifiedLast7Days": 92,
+                "testLast7Days": 4371,
+                "patientDiffPopulationForTenThousands": 21
             },
             {
                 "city": "קרית ביאליק",
                 "sickCount": 1064,
                 "actualSick": 126,
                 "verifiedLast7Days": 79,
-                "testLast7Days": 2956,
+                "testLast7Days": 2894,
                 "patientDiffPopulationForTenThousands": 32
-            },
-            {
-                "city": "מג'ד אל-כרום",
-                "sickCount": 1319,
-                "actualSick": 125,
-                "verifiedLast7Days": 63,
-                "testLast7Days": 764,
-                "patientDiffPopulationForTenThousands": 81
             },
             {
                 "city": "באקה אל-גרביה",
                 "sickCount": 1655,
                 "actualSick": 125,
                 "verifiedLast7Days": 72,
-                "testLast7Days": 1267,
+                "testLast7Days": 1246,
                 "patientDiffPopulationForTenThousands": 42
             },
             {
+                "city": "עכו",
+                "sickCount": 1771,
+                "actualSick": 124,
+                "verifiedLast7Days": 88,
+                "testLast7Days": 3040,
+                "patientDiffPopulationForTenThousands": 24
+            },
+            {
                 "city": "רהט",
-                "sickCount": 2273,
-                "actualSick": 121,
-                "verifiedLast7Days": 79,
-                "testLast7Days": 1515,
+                "sickCount": 2271,
+                "actualSick": 119,
+                "verifiedLast7Days": 77,
+                "testLast7Days": 1482,
                 "patientDiffPopulationForTenThousands": 18
             },
             {
                 "city": "קרית מוצקין",
-                "sickCount": 869,
-                "actualSick": 120,
-                "verifiedLast7Days": 79,
-                "testLast7Days": 2962,
+                "sickCount": 866,
+                "actualSick": 117,
+                "verifiedLast7Days": 76,
+                "testLast7Days": 2881,
                 "patientDiffPopulationForTenThousands": 27
             },
             {
                 "city": "מגאר",
-                "sickCount": 753,
-                "actualSick": 119,
-                "verifiedLast7Days": 93,
-                "testLast7Days": 1054,
-                "patientDiffPopulationForTenThousands": 52
+                "sickCount": 749,
+                "actualSick": 115,
+                "verifiedLast7Days": 89,
+                "testLast7Days": 1038,
+                "patientDiffPopulationForTenThousands": 51
             },
             {
                 "city": "קרית ים",
-                "sickCount": 973,
-                "actualSick": 117,
-                "verifiedLast7Days": 68,
-                "testLast7Days": 2420,
-                "patientDiffPopulationForTenThousands": 30
+                "sickCount": 971,
+                "actualSick": 115,
+                "verifiedLast7Days": 66,
+                "testLast7Days": 2382,
+                "patientDiffPopulationForTenThousands": 29
             },
             {
                 "city": "נוף הגליל",
                 "sickCount": 1066,
-                "actualSick": 112,
+                "actualSick": 114,
                 "verifiedLast7Days": 76,
-                "testLast7Days": 2364,
-                "patientDiffPopulationForTenThousands": 25
+                "testLast7Days": 2237,
+                "patientDiffPopulationForTenThousands": 26
+            },
+            {
+                "city": "אלעד",
+                "sickCount": 5767,
+                "actualSick": 113,
+                "verifiedLast7Days": 80,
+                "testLast7Days": 1294,
+                "patientDiffPopulationForTenThousands": 24
             },
             {
                 "city": "כרמיאל",
                 "sickCount": 1103,
                 "actualSick": 111,
                 "verifiedLast7Days": 81,
-                "testLast7Days": 2629,
+                "testLast7Days": 2620,
                 "patientDiffPopulationForTenThousands": 24
             },
             {
                 "city": "טורעאן",
-                "sickCount": 569,
-                "actualSick": 111,
-                "verifiedLast7Days": 71,
-                "testLast7Days": 810,
-                "patientDiffPopulationForTenThousands": 76
+                "sickCount": 567,
+                "actualSick": 110,
+                "verifiedLast7Days": 69,
+                "testLast7Days": 808,
+                "patientDiffPopulationForTenThousands": 75
             },
             {
                 "city": "בועיינה-נוג'ידאת",
                 "sickCount": 402,
-                "actualSick": 108,
+                "actualSick": 109,
                 "verifiedLast7Days": 63,
-                "testLast7Days": 990,
-                "patientDiffPopulationForTenThousands": 107
-            },
-            {
-                "city": "עפולה",
-                "sickCount": 1609,
-                "actualSick": 106,
-                "verifiedLast7Days": 52,
-                "testLast7Days": 2866,
-                "patientDiffPopulationForTenThousands": 20
+                "testLast7Days": 988,
+                "patientDiffPopulationForTenThousands": 108
             },
             {
                 "city": "אעבלין",
                 "sickCount": 608,
-                "actualSick": 106,
+                "actualSick": 107,
                 "verifiedLast7Days": 60,
-                "testLast7Days": 909,
-                "patientDiffPopulationForTenThousands": 80
+                "testLast7Days": 896,
+                "patientDiffPopulationForTenThousands": 81
+            },
+            {
+                "city": "עפולה",
+                "sickCount": 1608,
+                "actualSick": 107,
+                "verifiedLast7Days": 51,
+                "testLast7Days": 2795,
+                "patientDiffPopulationForTenThousands": 20
             },
             {
                 "city": "כפר קאסם",
                 "sickCount": 2078,
                 "actualSick": 102,
                 "verifiedLast7Days": 66,
-                "testLast7Days": 751,
+                "testLast7Days": 738,
                 "patientDiffPopulationForTenThousands": 42
-            },
-            {
-                "city": "מעלה עירון",
-                "sickCount": 1073,
-                "actualSick": 100,
-                "verifiedLast7Days": 61,
-                "testLast7Days": 519,
-                "patientDiffPopulationForTenThousands": 66
             },
             {
                 "city": "כפר מנדא",
                 "sickCount": 1068,
-                "actualSick": 97,
+                "actualSick": 99,
                 "verifiedLast7Days": 60,
-                "testLast7Days": 433,
-                "patientDiffPopulationForTenThousands": 48
+                "testLast7Days": 419,
+                "patientDiffPopulationForTenThousands": 49
+            },
+            {
+                "city": "מעלה עירון",
+                "sickCount": 1071,
+                "actualSick": 98,
+                "verifiedLast7Days": 59,
+                "testLast7Days": 500,
+                "patientDiffPopulationForTenThousands": 65
             },
             {
                 "city": "הוד השרון",
                 "sickCount": 1180,
                 "actualSick": 94,
                 "verifiedLast7Days": 75,
-                "testLast7Days": 4361,
+                "testLast7Days": 4297,
                 "patientDiffPopulationForTenThousands": 16
             },
             {
-                "city": "גבעת זאב",
-                "sickCount": 1442,
-                "actualSick": 94,
-                "verifiedLast7Days": 85,
-                "testLast7Days": 1455,
-                "patientDiffPopulationForTenThousands": 49
+                "city": "מבשרת ציון",
+                "sickCount": 690,
+                "actualSick": 93,
+                "verifiedLast7Days": 58,
+                "testLast7Days": 2518,
+                "patientDiffPopulationForTenThousands": 40
             },
             {
                 "city": "אכסאל",
                 "sickCount": 816,
                 "actualSick": 91,
                 "verifiedLast7Days": 66,
-                "testLast7Days": 657,
+                "testLast7Days": 647,
                 "patientDiffPopulationForTenThousands": 61
             },
             {
-                "city": "מבשרת ציון",
-                "sickCount": 692,
-                "actualSick": 90,
-                "verifiedLast7Days": 60,
-                "testLast7Days": 2535,
-                "patientDiffPopulationForTenThousands": 39
-            },
-            {
-                "city": "ג'דיידה-מכר",
-                "sickCount": 1011,
-                "actualSick": 86,
-                "verifiedLast7Days": 45,
-                "testLast7Days": 930,
-                "patientDiffPopulationForTenThousands": 41
-            },
-            {
-                "city": "צפת",
-                "sickCount": 1285,
-                "actualSick": 86,
-                "verifiedLast7Days": 58,
-                "testLast7Days": 1352,
-                "patientDiffPopulationForTenThousands": 24
+                "city": "גבעת זאב",
+                "sickCount": 1435,
+                "actualSick": 89,
+                "verifiedLast7Days": 78,
+                "testLast7Days": 1424,
+                "patientDiffPopulationForTenThousands": 47
             },
             {
                 "city": "ריינה",
                 "sickCount": 739,
-                "actualSick": 85,
+                "actualSick": 86,
                 "verifiedLast7Days": 63,
-                "testLast7Days": 599,
+                "testLast7Days": 597,
                 "patientDiffPopulationForTenThousands": 51
+            },
+            {
+                "city": "ג'דיידה-מכר",
+                "sickCount": 1010,
+                "actualSick": 86,
+                "verifiedLast7Days": 44,
+                "testLast7Days": 913,
+                "patientDiffPopulationForTenThousands": 41
             },
             {
                 "city": "דייר אל-אסד",
                 "sickCount": 971,
                 "actualSick": 84,
                 "verifiedLast7Days": 56,
-                "testLast7Days": 774,
+                "testLast7Days": 771,
                 "patientDiffPopulationForTenThousands": 67
+            },
+            {
+                "city": "צפת",
+                "sickCount": 1281,
+                "actualSick": 83,
+                "verifiedLast7Days": 54,
+                "testLast7Days": 1287,
+                "patientDiffPopulationForTenThousands": 23
             },
             {
                 "city": "ערערה",
                 "sickCount": 1150,
                 "actualSick": 82,
                 "verifiedLast7Days": 60,
-                "testLast7Days": 784,
+                "testLast7Days": 762,
                 "patientDiffPopulationForTenThousands": 41
-            },
-            {
-                "city": "מעלות-תרשיחא",
-                "sickCount": 590,
-                "actualSick": 79,
-                "verifiedLast7Days": 49,
-                "testLast7Days": 1884,
-                "patientDiffPopulationForTenThousands": 35
             },
             {
                 "city": "נחף",
                 "sickCount": 551,
-                "actualSick": 79,
+                "actualSick": 81,
                 "verifiedLast7Days": 65,
-                "testLast7Days": 539,
-                "patientDiffPopulationForTenThousands": 59
+                "testLast7Days": 533,
+                "patientDiffPopulationForTenThousands": 60
+            },
+            {
+                "city": "מעלות-תרשיחא",
+                "sickCount": 590,
+                "actualSick": 80,
+                "verifiedLast7Days": 49,
+                "testLast7Days": 1870,
+                "patientDiffPopulationForTenThousands": 35
             },
             {
                 "city": "יבנה",
                 "sickCount": 1852,
-                "actualSick": 78,
+                "actualSick": 79,
                 "verifiedLast7Days": 49,
-                "testLast7Days": 3052,
+                "testLast7Days": 3044,
                 "patientDiffPopulationForTenThousands": 17
             },
             {
                 "city": "אור יהודה",
-                "sickCount": 2040,
-                "actualSick": 78,
-                "verifiedLast7Days": 52,
-                "testLast7Days": 1773,
+                "sickCount": 2037,
+                "actualSick": 76,
+                "verifiedLast7Days": 49,
+                "testLast7Days": 1734,
                 "patientDiffPopulationForTenThousands": 22
             },
             {
                 "city": "דייר חנא",
                 "sickCount": 531,
-                "actualSick": 72,
+                "actualSick": 73,
                 "verifiedLast7Days": 50,
-                "testLast7Days": 747,
-                "patientDiffPopulationForTenThousands": 68
+                "testLast7Days": 743,
+                "patientDiffPopulationForTenThousands": 69
             },
             {
                 "city": "קרית שמונה",
-                "sickCount": 704,
+                "sickCount": 703,
                 "actualSick": 71,
-                "verifiedLast7Days": 57,
-                "testLast7Days": 1848,
+                "verifiedLast7Days": 56,
+                "testLast7Days": 1814,
                 "patientDiffPopulationForTenThousands": 32
             },
             {
-                "city": "עין מאהל",
-                "sickCount": 777,
+                "city": "משהד",
+                "sickCount": 282,
                 "actualSick": 70,
-                "verifiedLast7Days": 51,
-                "testLast7Days": 398,
-                "patientDiffPopulationForTenThousands": 52
+                "verifiedLast7Days": 36,
+                "testLast7Days": 357,
+                "patientDiffPopulationForTenThousands": 80
             },
             {
                 "city": "יאנוח-ג'ת",
                 "sickCount": 462,
                 "actualSick": 68,
                 "verifiedLast7Days": 30,
-                "testLast7Days": 684,
+                "testLast7Days": 680,
                 "patientDiffPopulationForTenThousands": 104
+            },
+            {
+                "city": "עין מאהל",
+                "sickCount": 773,
+                "actualSick": 67,
+                "verifiedLast7Days": 47,
+                "testLast7Days": 383,
+                "patientDiffPopulationForTenThousands": 49
             },
             {
                 "city": "שדרות",
                 "sickCount": 1126,
                 "actualSick": 67,
                 "verifiedLast7Days": 49,
-                "testLast7Days": 1692,
+                "testLast7Days": 1675,
                 "patientDiffPopulationForTenThousands": 25
-            },
-            {
-                "city": "משהד",
-                "sickCount": 282,
-                "actualSick": 66,
-                "verifiedLast7Days": 36,
-                "testLast7Days": 359,
-                "patientDiffPopulationForTenThousands": 75
             },
             {
                 "city": "רמת השרון",
                 "sickCount": 958,
                 "actualSick": 66,
                 "verifiedLast7Days": 37,
-                "testLast7Days": 3162,
+                "testLast7Days": 3151,
                 "patientDiffPopulationForTenThousands": 15
             },
             {
@@ -23101,7 +23101,7 @@
                 "sickCount": 352,
                 "actualSick": 66,
                 "verifiedLast7Days": 37,
-                "testLast7Days": 536,
+                "testLast7Days": 528,
                 "patientDiffPopulationForTenThousands": 83
             },
             {
@@ -23109,384 +23109,384 @@
                 "sickCount": 1814,
                 "actualSick": 65,
                 "verifiedLast7Days": 43,
-                "testLast7Days": 1016,
+                "testLast7Days": 1009,
                 "patientDiffPopulationForTenThousands": 24
             },
             {
                 "city": "כוכב יעקב",
-                "sickCount": 557,
+                "sickCount": 556,
                 "actualSick": 63,
-                "verifiedLast7Days": 48,
-                "testLast7Days": 930,
+                "verifiedLast7Days": 47,
+                "testLast7Days": 927,
                 "patientDiffPopulationForTenThousands": 70
-            },
-            {
-                "city": "אופקים",
-                "sickCount": 1735,
-                "actualSick": 62,
-                "verifiedLast7Days": 38,
-                "testLast7Days": 1699,
-                "patientDiffPopulationForTenThousands": 19
-            },
-            {
-                "city": "כסרא-סמיע",
-                "sickCount": 483,
-                "actualSick": 59,
-                "verifiedLast7Days": 43,
-                "testLast7Days": 967,
-                "patientDiffPopulationForTenThousands": 68
-            },
-            {
-                "city": "פסוטה",
-                "sickCount": 132,
-                "actualSick": 59,
-                "verifiedLast7Days": 31,
-                "testLast7Days": 618,
-                "patientDiffPopulationForTenThousands": 175
             },
             {
                 "city": "כפר קרע",
                 "sickCount": 1137,
-                "actualSick": 59,
+                "actualSick": 60,
                 "verifiedLast7Days": 37,
-                "testLast7Days": 705,
+                "testLast7Days": 684,
                 "patientDiffPopulationForTenThousands": 31
+            },
+            {
+                "city": "כסרא-סמיע",
+                "sickCount": 483,
+                "actualSick": 60,
+                "verifiedLast7Days": 43,
+                "testLast7Days": 965,
+                "patientDiffPopulationForTenThousands": 69
+            },
+            {
+                "city": "ירכא",
+                "sickCount": 1223,
+                "actualSick": 60,
+                "verifiedLast7Days": 36,
+                "testLast7Days": 796,
+                "patientDiffPopulationForTenThousands": 38
+            },
+            {
+                "city": "אופקים",
+                "sickCount": 1733,
+                "actualSick": 60,
+                "verifiedLast7Days": 36,
+                "testLast7Days": 1643,
+                "patientDiffPopulationForTenThousands": 19
+            },
+            {
+                "city": "פסוטה",
+                "sickCount": 132,
+                "actualSick": 60,
+                "verifiedLast7Days": 31,
+                "testLast7Days": 617,
+                "patientDiffPopulationForTenThousands": 178
             },
             {
                 "city": "דבוריה",
                 "sickCount": 670,
                 "actualSick": 59,
                 "verifiedLast7Days": 26,
-                "testLast7Days": 534,
+                "testLast7Days": 527,
                 "patientDiffPopulationForTenThousands": 56
             },
             {
-                "city": "ירכא",
-                "sickCount": 1223,
-                "actualSick": 58,
-                "verifiedLast7Days": 36,
-                "testLast7Days": 797,
-                "patientDiffPopulationForTenThousands": 37
+                "city": "סאג'ור",
+                "sickCount": 226,
+                "actualSick": 56,
+                "verifiedLast7Days": 39,
+                "testLast7Days": 534,
+                "patientDiffPopulationForTenThousands": 136
             },
             {
                 "city": "פקיעין (בוקייעה)",
                 "sickCount": 383,
-                "actualSick": 54,
+                "actualSick": 55,
                 "verifiedLast7Days": 46,
                 "testLast7Days": 545,
-                "patientDiffPopulationForTenThousands": 91
+                "patientDiffPopulationForTenThousands": 93
             },
             {
                 "city": "גבעתיים",
                 "sickCount": 983,
                 "actualSick": 54,
                 "verifiedLast7Days": 34,
-                "testLast7Days": 3113,
+                "testLast7Days": 3094,
                 "patientDiffPopulationForTenThousands": 10
             },
             {
-                "city": "פרדס חנה-כרכור",
-                "sickCount": 1087,
-                "actualSick": 52,
-                "verifiedLast7Days": 40,
-                "testLast7Days": 2173,
-                "patientDiffPopulationForTenThousands": 13
+                "city": "מסעדה",
+                "sickCount": 296,
+                "actualSick": 53,
+                "verifiedLast7Days": 31,
+                "testLast7Days": 205,
+                "patientDiffPopulationForTenThousands": 130
             },
             {
                 "city": "דימונה",
-                "sickCount": 1013,
-                "actualSick": 51,
-                "verifiedLast7Days": 36,
-                "testLast7Days": 4167,
-                "patientDiffPopulationForTenThousands": 14
+                "sickCount": 1011,
+                "actualSick": 52,
+                "verifiedLast7Days": 34,
+                "testLast7Days": 3991,
+                "patientDiffPopulationForTenThousands": 15
             },
             {
-                "city": "מסעדה",
-                "sickCount": 298,
-                "actualSick": 51,
-                "verifiedLast7Days": 33,
-                "testLast7Days": 207,
-                "patientDiffPopulationForTenThousands": 125
-            },
-            {
-                "city": "סאג'ור",
-                "sickCount": 226,
+                "city": "פרדס חנה-כרכור",
+                "sickCount": 1086,
                 "actualSick": 51,
                 "verifiedLast7Days": 39,
-                "testLast7Days": 536,
-                "patientDiffPopulationForTenThousands": 124
-            },
-            {
-                "city": "טבריה",
-                "sickCount": 1941,
-                "actualSick": 50,
-                "verifiedLast7Days": 42,
-                "testLast7Days": 1656,
-                "patientDiffPopulationForTenThousands": 11
+                "testLast7Days": 2107,
+                "patientDiffPopulationForTenThousands": 12
             },
             {
                 "city": "קרית מלאכי",
                 "sickCount": 1644,
                 "actualSick": 49,
                 "verifiedLast7Days": 32,
-                "testLast7Days": 1174,
+                "testLast7Days": 1165,
                 "patientDiffPopulationForTenThousands": 20
+            },
+            {
+                "city": "אבו סנאן",
+                "sickCount": 671,
+                "actualSick": 49,
+                "verifiedLast7Days": 36,
+                "testLast7Days": 616,
+                "patientDiffPopulationForTenThousands": 37
             },
             {
                 "city": "חורפיש",
                 "sickCount": 436,
                 "actualSick": 48,
                 "verifiedLast7Days": 40,
-                "testLast7Days": 646,
+                "testLast7Days": 642,
                 "patientDiffPopulationForTenThousands": 75
             },
             {
-                "city": "אבו סנאן",
-                "sickCount": 671,
-                "actualSick": 48,
-                "verifiedLast7Days": 36,
-                "testLast7Days": 620,
-                "patientDiffPopulationForTenThousands": 36
-            },
-            {
                 "city": "בית ג'ן",
-                "sickCount": 875,
+                "sickCount": 874,
                 "actualSick": 47,
-                "verifiedLast7Days": 27,
-                "testLast7Days": 701,
+                "verifiedLast7Days": 26,
+                "testLast7Days": 686,
                 "patientDiffPopulationForTenThousands": 39
             },
             {
                 "city": "קרית טבעון",
-                "sickCount": 271,
-                "actualSick": 47,
-                "verifiedLast7Days": 21,
-                "testLast7Days": 1167,
-                "patientDiffPopulationForTenThousands": 30
+                "sickCount": 270,
+                "actualSick": 46,
+                "verifiedLast7Days": 20,
+                "testLast7Days": 1149,
+                "patientDiffPopulationForTenThousands": 29
             },
             {
                 "city": "בסמ\"ה",
                 "sickCount": 476,
                 "actualSick": 46,
                 "verifiedLast7Days": 35,
-                "testLast7Days": 374,
+                "testLast7Days": 365,
                 "patientDiffPopulationForTenThousands": 43
             },
             {
-                "city": "יקנעם עילית",
-                "sickCount": 452,
-                "actualSick": 46,
-                "verifiedLast7Days": 34,
-                "testLast7Days": 1243,
-                "patientDiffPopulationForTenThousands": 20
-            },
-            {
-                "city": "נתיבות",
-                "sickCount": 2951,
+                "city": "טבריה",
+                "sickCount": 1937,
                 "actualSick": 46,
                 "verifiedLast7Days": 38,
-                "testLast7Days": 1307,
-                "patientDiffPopulationForTenThousands": 12
+                "testLast7Days": 1596,
+                "patientDiffPopulationForTenThousands": 10
+            },
+            {
+                "city": "יקנעם עילית",
+                "sickCount": 451,
+                "actualSick": 45,
+                "verifiedLast7Days": 33,
+                "testLast7Days": 1218,
+                "patientDiffPopulationForTenThousands": 19
+            },
+            {
+                "city": "ג'ת",
+                "sickCount": 744,
+                "actualSick": 44,
+                "verifiedLast7Days": 27,
+                "testLast7Days": 724,
+                "patientDiffPopulationForTenThousands": 36
             },
             {
                 "city": "נס ציונה",
                 "sickCount": 1132,
                 "actualSick": 44,
                 "verifiedLast7Days": 26,
-                "testLast7Days": 2998,
+                "testLast7Days": 2929,
                 "patientDiffPopulationForTenThousands": 10
             },
             {
-                "city": "ג'ת",
-                "sickCount": 744,
-                "actualSick": 43,
-                "verifiedLast7Days": 27,
-                "testLast7Days": 739,
-                "patientDiffPopulationForTenThousands": 35
+                "city": "בוקעאתא",
+                "sickCount": 834,
+                "actualSick": 44,
+                "verifiedLast7Days": 25,
+                "testLast7Days": 196,
+                "patientDiffPopulationForTenThousands": 66
             },
             {
-                "city": "פוריידיס",
-                "sickCount": 794,
-                "actualSick": 42,
-                "verifiedLast7Days": 32,
-                "testLast7Days": 621,
-                "patientDiffPopulationForTenThousands": 32
+                "city": "נתיבות",
+                "sickCount": 2948,
+                "actualSick": 43,
+                "verifiedLast7Days": 35,
+                "testLast7Days": 1248,
+                "patientDiffPopulationForTenThousands": 11
             },
             {
                 "city": "כפר יונה",
                 "sickCount": 613,
-                "actualSick": 42,
+                "actualSick": 43,
                 "verifiedLast7Days": 30,
-                "testLast7Days": 1350,
-                "patientDiffPopulationForTenThousands": 18
+                "testLast7Days": 1343,
+                "patientDiffPopulationForTenThousands": 19
             },
             {
                 "city": "ראמה",
-                "sickCount": 347,
+                "sickCount": 346,
                 "actualSick": 42,
-                "verifiedLast7Days": 25,
-                "testLast7Days": 609,
+                "verifiedLast7Days": 24,
+                "testLast7Days": 590,
                 "patientDiffPopulationForTenThousands": 50
             },
             {
-                "city": "חריש",
-                "sickCount": 507,
-                "actualSick": 41,
-                "verifiedLast7Days": 30,
-                "testLast7Days": 854,
-                "patientDiffPopulationForTenThousands": 28
+                "city": "גבעת שמואל",
+                "sickCount": 730,
+                "actualSick": 42,
+                "verifiedLast7Days": 23,
+                "testLast7Days": 4066,
+                "patientDiffPopulationForTenThousands": 17
             },
             {
                 "city": "יהוד",
                 "sickCount": 931,
                 "actualSick": 41,
                 "verifiedLast7Days": 34,
-                "testLast7Days": 1635,
+                "testLast7Days": 1616,
                 "patientDiffPopulationForTenThousands": 14
             },
             {
-                "city": "טירת כרמל",
-                "sickCount": 496,
-                "actualSick": 40,
-                "verifiedLast7Days": 27,
-                "testLast7Days": 969,
-                "patientDiffPopulationForTenThousands": 17
+                "city": "פוריידיס",
+                "sickCount": 793,
+                "actualSick": 41,
+                "verifiedLast7Days": 31,
+                "testLast7Days": 611,
+                "patientDiffPopulationForTenThousands": 31
             },
             {
-                "city": "גבעת שמואל",
-                "sickCount": 730,
+                "city": "ג'לג'וליה",
+                "sickCount": 583,
                 "actualSick": 40,
-                "verifiedLast7Days": 23,
-                "testLast7Days": 4080,
-                "patientDiffPopulationForTenThousands": 16
+                "verifiedLast7Days": 16,
+                "testLast7Days": 249,
+                "patientDiffPopulationForTenThousands": 39
             },
             {
                 "city": "שוהם",
                 "sickCount": 531,
                 "actualSick": 40,
                 "verifiedLast7Days": 30,
-                "testLast7Days": 2058,
+                "testLast7Days": 2048,
                 "patientDiffPopulationForTenThousands": 20
             },
             {
-                "city": "אריאל",
-                "sickCount": 410,
+                "city": "טירת כרמל",
+                "sickCount": 495,
                 "actualSick": 39,
-                "verifiedLast7Days": 29,
-                "testLast7Days": 1156,
-                "patientDiffPopulationForTenThousands": 21
+                "verifiedLast7Days": 26,
+                "testLast7Days": 928,
+                "patientDiffPopulationForTenThousands": 17
+            },
+            {
+                "city": "קרית אונו",
+                "sickCount": 745,
+                "actualSick": 39,
+                "verifiedLast7Days": 24,
+                "testLast7Days": 2178,
+                "patientDiffPopulationForTenThousands": 10
             },
             {
                 "city": "ערערה-בנגב",
                 "sickCount": 485,
                 "actualSick": 39,
                 "verifiedLast7Days": 32,
-                "testLast7Days": 321,
+                "testLast7Days": 296,
                 "patientDiffPopulationForTenThousands": 22
             },
             {
-                "city": "בוקעאתא",
-                "sickCount": 835,
+                "city": "בענה",
+                "sickCount": 648,
                 "actualSick": 39,
-                "verifiedLast7Days": 26,
-                "testLast7Days": 198,
-                "patientDiffPopulationForTenThousands": 59
-            },
-            {
-                "city": "קרית אונו",
-                "sickCount": 746,
-                "actualSick": 39,
-                "verifiedLast7Days": 25,
-                "testLast7Days": 2201,
-                "patientDiffPopulationForTenThousands": 10
-            },
-            {
-                "city": "כאוכב אבו אל-היג'א",
-                "sickCount": 173,
-                "actualSick": 38,
-                "verifiedLast7Days": 30,
-                "testLast7Days": 209,
-                "patientDiffPopulationForTenThousands": 98
+                "verifiedLast7Days": 23,
+                "testLast7Days": 345,
+                "patientDiffPopulationForTenThousands": 46
             },
             {
                 "city": "גדרה",
                 "sickCount": 781,
                 "actualSick": 38,
                 "verifiedLast7Days": 29,
-                "testLast7Days": 2342,
+                "testLast7Days": 2330,
                 "patientDiffPopulationForTenThousands": 15
             },
             {
-                "city": "בענה",
-                "sickCount": 648,
+                "city": "כאוכב אבו אל-היג'א",
+                "sickCount": 173,
                 "actualSick": 38,
-                "verifiedLast7Days": 23,
-                "testLast7Days": 346,
-                "patientDiffPopulationForTenThousands": 45
+                "verifiedLast7Days": 30,
+                "testLast7Days": 205,
+                "patientDiffPopulationForTenThousands": 98
             },
             {
-                "city": "ג'לג'וליה",
-                "sickCount": 583,
+                "city": "חריש",
+                "sickCount": 504,
                 "actualSick": 38,
-                "verifiedLast7Days": 16,
-                "testLast7Days": 255,
-                "patientDiffPopulationForTenThousands": 37
+                "verifiedLast7Days": 27,
+                "testLast7Days": 841,
+                "patientDiffPopulationForTenThousands": 26
+            },
+            {
+                "city": "ג'ולס",
+                "sickCount": 426,
+                "actualSick": 37,
+                "verifiedLast7Days": 24,
+                "testLast7Days": 329,
+                "patientDiffPopulationForTenThousands": 59
+            },
+            {
+                "city": "אריאל",
+                "sickCount": 408,
+                "actualSick": 37,
+                "verifiedLast7Days": 27,
+                "testLast7Days": 1138,
+                "patientDiffPopulationForTenThousands": 20
             },
             {
                 "city": "זרזיר",
-                "sickCount": 188,
-                "actualSick": 37,
-                "verifiedLast7Days": 20,
-                "testLast7Days": 199,
-                "patientDiffPopulationForTenThousands": 43
-            },
-            {
-                "city": "זכרון יעקב",
-                "sickCount": 569,
+                "sickCount": 187,
                 "actualSick": 36,
-                "verifiedLast7Days": 26,
-                "testLast7Days": 1313,
-                "patientDiffPopulationForTenThousands": 16
+                "verifiedLast7Days": 19,
+                "testLast7Days": 194,
+                "patientDiffPopulationForTenThousands": 42
             },
             {
                 "city": "כפר יאסיף",
                 "sickCount": 394,
                 "actualSick": 36,
                 "verifiedLast7Days": 22,
-                "testLast7Days": 675,
+                "testLast7Days": 672,
                 "patientDiffPopulationForTenThousands": 34
             },
             {
                 "city": "ערד",
-                "sickCount": 1030,
-                "actualSick": 36,
-                "verifiedLast7Days": 28,
-                "testLast7Days": 2698,
+                "sickCount": 1029,
+                "actualSick": 35,
+                "verifiedLast7Days": 27,
+                "testLast7Days": 2647,
                 "patientDiffPopulationForTenThousands": 13
             },
             {
                 "city": "קרית יערים",
-                "sickCount": 456,
-                "actualSick": 35,
-                "verifiedLast7Days": 35,
-                "testLast7Days": 458,
-                "patientDiffPopulationForTenThousands": 56
+                "sickCount": 455,
+                "actualSick": 34,
+                "verifiedLast7Days": 34,
+                "testLast7Days": 433,
+                "patientDiffPopulationForTenThousands": 54
             },
             {
-                "city": "ג'ולס",
-                "sickCount": 426,
-                "actualSick": 35,
+                "city": "זכרון יעקב",
+                "sickCount": 567,
+                "actualSick": 34,
                 "verifiedLast7Days": 24,
-                "testLast7Days": 330,
-                "patientDiffPopulationForTenThousands": 56
+                "testLast7Days": 1262,
+                "patientDiffPopulationForTenThousands": 15
             },
             {
-                "city": "קרני שומרון",
-                "sickCount": 237,
-                "actualSick": 35,
-                "verifiedLast7Days": 24,
-                "testLast7Days": 854,
-                "patientDiffPopulationForTenThousands": 42
+                "city": "רבבה",
+                "sickCount": 169,
+                "actualSick": 34,
+                "verifiedLast7Days": 31,
+                "testLast7Days": 452,
+                "patientDiffPopulationForTenThousands": 124
             },
             {
                 "city": "זמר",
@@ -23497,108 +23497,100 @@
                 "patientDiffPopulationForTenThousands": 48
             },
             {
-                "city": "רבבה",
-                "sickCount": 169,
-                "actualSick": 34,
-                "verifiedLast7Days": 31,
-                "testLast7Days": 463,
-                "patientDiffPopulationForTenThousands": 124
-            },
-            {
-                "city": "בית שאן",
-                "sickCount": 790,
-                "actualSick": 34,
-                "verifiedLast7Days": 21,
-                "testLast7Days": 715,
-                "patientDiffPopulationForTenThousands": 18
-            },
-            {
-                "city": "מגדל העמק",
-                "sickCount": 817,
-                "actualSick": 32,
-                "verifiedLast7Days": 24,
-                "testLast7Days": 1258,
-                "patientDiffPopulationForTenThousands": 12
-            },
-            {
-                "city": "נשר",
-                "sickCount": 438,
-                "actualSick": 32,
-                "verifiedLast7Days": 17,
-                "testLast7Days": 1291,
-                "patientDiffPopulationForTenThousands": 14
+                "city": "קרני שומרון",
+                "sickCount": 235,
+                "actualSick": 33,
+                "verifiedLast7Days": 22,
+                "testLast7Days": 847,
+                "patientDiffPopulationForTenThousands": 39
             },
             {
                 "city": "שעב",
                 "sickCount": 391,
-                "actualSick": 31,
+                "actualSick": 33,
                 "verifiedLast7Days": 19,
                 "testLast7Days": 223,
-                "patientDiffPopulationForTenThousands": 42
+                "patientDiffPopulationForTenThousands": 45
             },
             {
-                "city": "תל שבע",
-                "sickCount": 169,
+                "city": "בית שאן",
+                "sickCount": 788,
+                "actualSick": 32,
+                "verifiedLast7Days": 19,
+                "testLast7Days": 665,
+                "patientDiffPopulationForTenThousands": 17
+            },
+            {
+                "city": "מגדל העמק",
+                "sickCount": 816,
+                "actualSick": 31,
+                "verifiedLast7Days": 23,
+                "testLast7Days": 1198,
+                "patientDiffPopulationForTenThousands": 12
+            },
+            {
+                "city": "נשר",
+                "sickCount": 436,
                 "actualSick": 30,
-                "verifiedLast7Days": 16,
-                "testLast7Days": 447,
-                "patientDiffPopulationForTenThousands": 15
+                "verifiedLast7Days": 15,
+                "testLast7Days": 1256,
+                "patientDiffPopulationForTenThousands": 14
             },
             {
                 "city": "באר יעקב",
                 "sickCount": 1064,
                 "actualSick": 29,
                 "verifiedLast7Days": 23,
-                "testLast7Days": 1724,
+                "testLast7Days": 1710,
                 "patientDiffPopulationForTenThousands": 11
             },
             {
-                "city": "רכסים",
-                "sickCount": 1467,
-                "actualSick": 29,
-                "verifiedLast7Days": 26,
-                "testLast7Days": 436,
-                "patientDiffPopulationForTenThousands": 23
-            },
-            {
                 "city": "אפרת",
-                "sickCount": 352,
+                "sickCount": 351,
                 "actualSick": 29,
-                "verifiedLast7Days": 23,
-                "testLast7Days": 1389,
+                "verifiedLast7Days": 22,
+                "testLast7Days": 1350,
                 "patientDiffPopulationForTenThousands": 25
             },
             {
-                "city": "אזור",
-                "sickCount": 500,
-                "actualSick": 28,
-                "verifiedLast7Days": 24,
-                "testLast7Days": 663,
-                "patientDiffPopulationForTenThousands": 23
+                "city": "סלמה",
+                "sickCount": 157,
+                "actualSick": 29,
+                "verifiedLast7Days": 22,
+                "testLast7Days": 194,
+                "patientDiffPopulationForTenThousands": 83
             },
             {
                 "city": "כסיפה",
                 "sickCount": 409,
                 "actualSick": 28,
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 442,
+                "testLast7Days": 432,
                 "patientDiffPopulationForTenThousands": 16
             },
             {
-                "city": "סלמה",
-                "sickCount": 157,
+                "city": "אזור",
+                "sickCount": 500,
                 "actualSick": 28,
-                "verifiedLast7Days": 22,
-                "testLast7Days": 195,
-                "patientDiffPopulationForTenThousands": 80
+                "verifiedLast7Days": 24,
+                "testLast7Days": 660,
+                "patientDiffPopulationForTenThousands": 23
             },
             {
                 "city": "ברכה",
                 "sickCount": 76,
-                "actualSick": 27,
+                "actualSick": 28,
                 "verifiedLast7Days": " 11-14 ",
                 "testLast7Days": 1263,
-                "patientDiffPopulationForTenThousands": 100
+                "patientDiffPopulationForTenThousands": 103
+            },
+            {
+                "city": "תל שבע",
+                "sickCount": 166,
+                "actualSick": 27,
+                "verifiedLast7Days": " 11-14 ",
+                "testLast7Days": 425,
+                "patientDiffPopulationForTenThousands": 13
             },
             {
                 "city": "מעיליא",
@@ -23609,19 +23601,11 @@
                 "patientDiffPopulationForTenThousands": 85
             },
             {
-                "city": "לקיה",
-                "sickCount": 378,
-                "actualSick": 26,
-                "verifiedLast7Days": " 11-14 ",
-                "testLast7Days": 289,
-                "patientDiffPopulationForTenThousands": 17
-            },
-            {
                 "city": "גן יבנה",
                 "sickCount": 804,
                 "actualSick": 26,
                 "verifiedLast7Days": " 11-14 ",
-                "testLast7Days": 1381,
+                "testLast7Days": 1367,
                 "patientDiffPopulationForTenThousands": 12
             },
             {
@@ -23629,7 +23613,7 @@
                 "sickCount": 250,
                 "actualSick": 26,
                 "verifiedLast7Days": 18,
-                "testLast7Days": 182,
+                "testLast7Days": 181,
                 "patientDiffPopulationForTenThousands": 74
             },
             {
@@ -23637,55 +23621,63 @@
                 "sickCount": 103,
                 "actualSick": 26,
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 99,
+                "testLast7Days": 96,
                 "patientDiffPopulationForTenThousands": 88
             },
             {
-                "city": "מזכרת בתיה",
-                "sickCount": 358,
-                "actualSick": 26,
-                "verifiedLast7Days": 22,
-                "testLast7Days": 1186,
-                "patientDiffPopulationForTenThousands": 17
-            },
-            {
                 "city": "בסמת טבעון",
-                "sickCount": 153,
-                "actualSick": 26,
+                "sickCount": 152,
+                "actualSick": 25,
                 "verifiedLast7Days": " 11-14 ",
-                "testLast7Days": 281,
-                "patientDiffPopulationForTenThousands": 33
+                "testLast7Days": 274,
+                "patientDiffPopulationForTenThousands": 32
             },
             {
                 "city": "תל מונד",
                 "sickCount": 259,
                 "actualSick": 25,
                 "verifiedLast7Days": 20,
-                "testLast7Days": 771,
+                "testLast7Days": 741,
                 "patientDiffPopulationForTenThousands": 20
             },
             {
-                "city": "חורה",
-                "sickCount": 483,
-                "actualSick": 25,
-                "verifiedLast7Days": " 11-14 ",
-                "testLast7Days": 268,
-                "patientDiffPopulationForTenThousands": 14
+                "city": "כעביה-טבאש-חג'אג'רה",
+                "sickCount": 163,
+                "actualSick": 24,
+                "verifiedLast7Days": "  6-10  ",
+                "testLast7Days": 187,
+                "patientDiffPopulationForTenThousands": 41
             },
             {
-                "city": "ביר אל-מכסור",
-                "sickCount": 152,
+                "city": "חורה",
+                "sickCount": 482,
                 "actualSick": 24,
-                "verifiedLast7Days": 16,
-                "testLast7Days": 331,
-                "patientDiffPopulationForTenThousands": 24
+                "verifiedLast7Days": " 11-14 ",
+                "testLast7Days": 257,
+                "patientDiffPopulationForTenThousands": 14
             },
             {
                 "city": "ג'סר א-זרקא",
                 "sickCount": 546,
-                "actualSick": 23,
+                "actualSick": 24,
                 "verifiedLast7Days": 19,
-                "testLast7Days": 666,
+                "testLast7Days": 643,
+                "patientDiffPopulationForTenThousands": 16
+            },
+            {
+                "city": "ביר אל-מכסור",
+                "sickCount": 150,
+                "actualSick": 23,
+                "verifiedLast7Days": " 11-14 ",
+                "testLast7Days": 319,
+                "patientDiffPopulationForTenThousands": 23
+            },
+            {
+                "city": "לקיה",
+                "sickCount": 375,
+                "actualSick": 23,
+                "verifiedLast7Days": " 11-14 ",
+                "testLast7Days": 264,
                 "patientDiffPopulationForTenThousands": 15
             },
             {
@@ -23693,72 +23685,80 @@
                 "sickCount": 733,
                 "actualSick": 23,
                 "verifiedLast7Days": 15,
-                "testLast7Days": 709,
+                "testLast7Days": 677,
                 "patientDiffPopulationForTenThousands": 12
             },
             {
-                "city": "כפר חב\"ד",
-                "sickCount": 601,
+                "city": "מזכרת בתיה",
+                "sickCount": 354,
                 "actualSick": 22,
-                "verifiedLast7Days": 15,
-                "testLast7Days": 501,
-                "patientDiffPopulationForTenThousands": 32
+                "verifiedLast7Days": 18,
+                "testLast7Days": 1176,
+                "patientDiffPopulationForTenThousands": 15
             },
             {
-                "city": "כעביה-טבאש-חג'אג'רה",
-                "sickCount": 163,
-                "actualSick": 21,
-                "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 189,
-                "patientDiffPopulationForTenThousands": 36
-            },
-            {
-                "city": "שלומי",
-                "sickCount": 220,
-                "actualSick": 21,
-                "verifiedLast7Days": 15,
-                "testLast7Days": 482,
-                "patientDiffPopulationForTenThousands": 32
+                "city": "רכסים",
+                "sickCount": 1460,
+                "actualSick": 22,
+                "verifiedLast7Days": 19,
+                "testLast7Days": 384,
+                "patientDiffPopulationForTenThousands": 18
             },
             {
                 "city": "בנימינה-גבעת עדה",
                 "sickCount": 243,
                 "actualSick": 21,
                 "verifiedLast7Days": " 11-14 ",
-                "testLast7Days": 1201,
+                "testLast7Days": 1189,
                 "patientDiffPopulationForTenThousands": 15
             },
             {
-                "city": "כפר ורדים",
-                "sickCount": 92,
-                "actualSick": 20,
+                "city": "כפר חב\"ד",
+                "sickCount": 600,
+                "actualSick": 21,
+                "verifiedLast7Days": " 11-14 ",
+                "testLast7Days": 490,
+                "patientDiffPopulationForTenThousands": 31
+            },
+            {
+                "city": "שלומי",
+                "sickCount": 220,
+                "actualSick": 21,
                 "verifiedLast7Days": 15,
-                "testLast7Days": 486,
-                "patientDiffPopulationForTenThousands": 36
+                "testLast7Days": 469,
+                "patientDiffPopulationForTenThousands": 32
             },
             {
-                "city": "קדימה-צורן",
-                "sickCount": 365,
-                "actualSick": 19,
-                "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 891,
-                "patientDiffPopulationForTenThousands": 9
+                "city": "צור הדסה",
+                "sickCount": 197,
+                "actualSick": 20,
+                "verifiedLast7Days": " 11-14 ",
+                "testLast7Days": 908,
+                "patientDiffPopulationForTenThousands": 21
             },
             {
-                "city": "אילת",
-                "sickCount": 1010,
+                "city": "כפר ורדים",
+                "sickCount": 91,
                 "actualSick": 19,
-                "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 11531,
-                "patientDiffPopulationForTenThousands": 3
+                "verifiedLast7Days": " 11-14 ",
+                "testLast7Days": 481,
+                "patientDiffPopulationForTenThousands": 34
             },
             {
                 "city": "גני תקווה",
                 "sickCount": 481,
                 "actualSick": 19,
                 "verifiedLast7Days": 16,
-                "testLast7Days": 1321,
+                "testLast7Days": 1317,
                 "patientDiffPopulationForTenThousands": 10
+            },
+            {
+                "city": "אילת",
+                "sickCount": 1010,
+                "actualSick": 19,
+                "verifiedLast7Days": "  6-10  ",
+                "testLast7Days": 11406,
+                "patientDiffPopulationForTenThousands": 3
             },
             {
                 "city": "כפר מצר",
@@ -23769,27 +23769,27 @@
                 "patientDiffPopulationForTenThousands": 69
             },
             {
-                "city": "צור הדסה",
-                "sickCount": 197,
-                "actualSick": 18,
-                "verifiedLast7Days": " 11-14 ",
-                "testLast7Days": 912,
-                "patientDiffPopulationForTenThousands": 19
-            },
-            {
                 "city": "עיילבון",
                 "sickCount": 224,
                 "actualSick": 18,
                 "verifiedLast7Days": " 11-14 ",
-                "testLast7Days": 349,
+                "testLast7Days": 343,
                 "patientDiffPopulationForTenThousands": 32
+            },
+            {
+                "city": "קדימה-צורן",
+                "sickCount": 364,
+                "actualSick": 18,
+                "verifiedLast7Days": "  6-10  ",
+                "testLast7Days": 873,
+                "patientDiffPopulationForTenThousands": 9
             },
             {
                 "city": "גבע בנימין",
                 "sickCount": 214,
                 "actualSick": 18,
                 "verifiedLast7Days": " 11-14 ",
-                "testLast7Days": 354,
+                "testLast7Days": 347,
                 "patientDiffPopulationForTenThousands": 33
             },
             {
@@ -23797,47 +23797,55 @@
                 "sickCount": 84,
                 "actualSick": 17,
                 "verifiedLast7Days": 15,
-                "testLast7Days": 173,
+                "testLast7Days": 158,
                 "patientDiffPopulationForTenThousands": 16
-            },
-            {
-                "city": "מיתר",
-                "sickCount": 173,
-                "actualSick": 17,
-                "verifiedLast7Days": " 11-14 ",
-                "testLast7Days": 803,
-                "patientDiffPopulationForTenThousands": 17
-            },
-            {
-                "city": "חצור הגלילית",
-                "sickCount": 477,
-                "actualSick": 17,
-                "verifiedLast7Days": " 11-14 ",
-                "testLast7Days": 361,
-                "patientDiffPopulationForTenThousands": 17
             },
             {
                 "city": "טובא-זנגריה",
                 "sickCount": 121,
                 "actualSick": 17,
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 258,
+                "testLast7Days": 257,
                 "patientDiffPopulationForTenThousands": 25
+            },
+            {
+                "city": "מיתר",
+                "sickCount": 173,
+                "actualSick": 17,
+                "verifiedLast7Days": " 11-14 ",
+                "testLast7Days": 784,
+                "patientDiffPopulationForTenThousands": 17
             },
             {
                 "city": "טלמון",
                 "sickCount": 111,
                 "actualSick": 16,
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 561,
+                "testLast7Days": 555,
                 "patientDiffPopulationForTenThousands": 33
+            },
+            {
+                "city": "צופים",
+                "sickCount": 71,
+                "actualSick": 16,
+                "verifiedLast7Days": "  6-10  ",
+                "testLast7Days": 233,
+                "patientDiffPopulationForTenThousands": 68
+            },
+            {
+                "city": "חצור הגלילית",
+                "sickCount": 476,
+                "actualSick": 16,
+                "verifiedLast7Days": " 11-14 ",
+                "testLast7Days": 355,
+                "patientDiffPopulationForTenThousands": 16
             },
             {
                 "city": "צור יצחק",
                 "sickCount": 100,
                 "actualSick": 15,
                 "verifiedLast7Days": " 11-14 ",
-                "testLast7Days": 450,
+                "testLast7Days": 444,
                 "patientDiffPopulationForTenThousands": 24
             },
             {
@@ -23845,7 +23853,7 @@
                 "sickCount": 82,
                 "actualSick": 15,
                 "verifiedLast7Days": " 11-14 ",
-                "testLast7Days": 589,
+                "testLast7Days": 579,
                 "patientDiffPopulationForTenThousands": 65
             },
             {
@@ -23853,16 +23861,8 @@
                 "sickCount": 123,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 409,
+                "testLast7Days": 405,
                 "patientDiffPopulationForTenThousands": 16
-            },
-            {
-                "city": "אבן יהודה",
-                "sickCount": 288,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": " 11-14 ",
-                "testLast7Days": 882,
-                "patientDiffPopulationForTenThousands": 10
             },
             {
                 "city": "כפר כמא",
@@ -23874,11 +23874,11 @@
             },
             {
                 "city": "קרית עקרון",
-                "sickCount": 258,
+                "sickCount": 257,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 414,
-                "patientDiffPopulationForTenThousands": 9
+                "testLast7Days": 403,
+                "patientDiffPopulationForTenThousands": 8
             },
             {
                 "city": "אום בטין",
@@ -23893,7 +23893,7 @@
                 "sickCount": 18,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 84,
+                "testLast7Days": 68,
                 "patientDiffPopulationForTenThousands": 2
             },
             {
@@ -23901,7 +23901,7 @@
                 "sickCount": 51,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 245,
+                "testLast7Days": 244,
                 "patientDiffPopulationForTenThousands": 4
             },
             {
@@ -23909,7 +23909,7 @@
                 "sickCount": 72,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 187,
+                "testLast7Days": 185,
                 "patientDiffPopulationForTenThousands": 25
             },
             {
@@ -23917,23 +23917,23 @@
                 "sickCount": 101,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 452,
-                "patientDiffPopulationForTenThousands": 9
+                "testLast7Days": 448,
+                "patientDiffPopulationForTenThousands": 12
             },
             {
                 "city": "אלפי מנשה",
-                "sickCount": 156,
+                "sickCount": 155,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 378,
-                "patientDiffPopulationForTenThousands": 17
+                "testLast7Days": 370,
+                "patientDiffPopulationForTenThousands": 15
             },
             {
                 "city": "אלון שבות",
                 "sickCount": 95,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 490,
+                "testLast7Days": 483,
                 "patientDiffPopulationForTenThousands": 31
             },
             {
@@ -23941,16 +23941,16 @@
                 "sickCount": 154,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 526,
+                "testLast7Days": 523,
                 "patientDiffPopulationForTenThousands": 11
             },
             {
                 "city": "אעצם (שבט)",
-                "sickCount": 16,
+                "sickCount": 15,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 55,
-                "patientDiffPopulationForTenThousands": 6
+                "testLast7Days": 52,
+                "patientDiffPopulationForTenThousands": 5
             },
             {
                 "city": "יד בנימין",
@@ -23973,7 +23973,7 @@
                 "sickCount": 59,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 304,
+                "testLast7Days": 301,
                 "patientDiffPopulationForTenThousands": 9
             },
             {
@@ -23981,7 +23981,7 @@
                 "sickCount": 94,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 518,
+                "testLast7Days": 510,
                 "patientDiffPopulationForTenThousands": 53
             },
             {
@@ -23997,7 +23997,7 @@
                 "sickCount": 112,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 198,
+                "testLast7Days": 197,
                 "patientDiffPopulationForTenThousands": 45
             },
             {
@@ -24005,7 +24005,7 @@
                 "sickCount": 154,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 413,
+                "testLast7Days": 411,
                 "patientDiffPopulationForTenThousands": 8
             },
             {
@@ -24013,7 +24013,7 @@
                 "sickCount": 110,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 214,
+                "testLast7Days": 209,
                 "patientDiffPopulationForTenThousands": 14
             },
             {
@@ -24021,7 +24021,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  0  ",
-                "testLast7Days": 14,
+                "testLast7Days": 13,
                 "patientDiffPopulationForTenThousands": 4
             },
             {
@@ -24029,7 +24029,7 @@
                 "sickCount": 122,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 426,
+                "testLast7Days": 407,
                 "patientDiffPopulationForTenThousands": 13
             },
             {
@@ -24037,7 +24037,7 @@
                 "sickCount": 50,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  0  ",
-                "testLast7Days": 139,
+                "testLast7Days": 137,
                 "patientDiffPopulationForTenThousands": 4
             },
             {
@@ -24045,7 +24045,7 @@
                 "sickCount": 162,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 423,
+                "testLast7Days": 420,
                 "patientDiffPopulationForTenThousands": 13
             },
             {
@@ -24069,7 +24069,7 @@
                 "sickCount": 85,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 290,
+                "testLast7Days": 275,
                 "patientDiffPopulationForTenThousands": 9
             },
             {
@@ -24077,7 +24077,7 @@
                 "sickCount": 89,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 420,
+                "testLast7Days": 409,
                 "patientDiffPopulationForTenThousands": 15
             },
             {
@@ -24085,23 +24085,23 @@
                 "sickCount": 42,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  0  ",
-                "testLast7Days": 118,
+                "testLast7Days": 117,
                 "patientDiffPopulationForTenThousands": 10
             },
             {
                 "city": "כפר ברא",
-                "sickCount": 261,
+                "sickCount": 260,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 92,
-                "patientDiffPopulationForTenThousands": 16
+                "testLast7Days": 89,
+                "patientDiffPopulationForTenThousands": 13
             },
             {
                 "city": "ג'ש (גוש חלב)",
                 "sickCount": 79,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 148,
+                "testLast7Days": 147,
                 "patientDiffPopulationForTenThousands": 19
             },
             {
@@ -24109,23 +24109,23 @@
                 "sickCount": 95,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 448,
+                "testLast7Days": 433,
                 "patientDiffPopulationForTenThousands": 27
             },
             {
                 "city": "קצרין",
-                "sickCount": 100,
+                "sickCount": 97,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 445,
-                "patientDiffPopulationForTenThousands": 12
+                "testLast7Days": 438,
+                "patientDiffPopulationForTenThousands": 8
             },
             {
                 "city": "מוקייבלה",
                 "sickCount": 212,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 83,
+                "testLast7Days": 80,
                 "patientDiffPopulationForTenThousands": 12
             },
             {
@@ -24138,11 +24138,11 @@
             },
             {
                 "city": "מזרעה",
-                "sickCount": 129,
+                "sickCount": 128,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 208,
-                "patientDiffPopulationForTenThousands": 33
+                "testLast7Days": 166,
+                "patientDiffPopulationForTenThousands": 30
             },
             {
                 "city": "מייסר",
@@ -24154,11 +24154,11 @@
             },
             {
                 "city": "ניצן",
-                "sickCount": 107,
+                "sickCount": 106,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 148,
-                "patientDiffPopulationForTenThousands": 17
+                "testLast7Days": 143,
+                "patientDiffPopulationForTenThousands": 13
             },
             {
                 "city": "בית אריה",
@@ -24173,7 +24173,7 @@
                 "sickCount": 134,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 293,
+                "testLast7Days": 292,
                 "patientDiffPopulationForTenThousands": 8
             },
             {
@@ -24181,7 +24181,7 @@
                 "sickCount": 61,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 386,
+                "testLast7Days": 365,
                 "patientDiffPopulationForTenThousands": 43
             },
             {
@@ -24189,7 +24189,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  0  ",
-                "testLast7Days": 24,
+                "testLast7Days": 19,
                 "patientDiffPopulationForTenThousands": 3
             },
             {
@@ -24197,7 +24197,7 @@
                 "sickCount": 255,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 66,
+                "testLast7Days": 65,
                 "patientDiffPopulationForTenThousands": 17
             },
             {
@@ -24213,47 +24213,47 @@
                 "sickCount": 71,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": " 11-14 ",
-                "testLast7Days": 425,
-                "patientDiffPopulationForTenThousands": 57
+                "testLast7Days": 417,
+                "patientDiffPopulationForTenThousands": 61
             },
             {
                 "city": "עץ אפרים",
                 "sickCount": 81,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 188,
+                "testLast7Days": 184,
                 "patientDiffPopulationForTenThousands": 33
             },
             {
                 "city": "אבטין",
-                "sickCount": 85,
+                "sickCount": 83,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 102,
-                "patientDiffPopulationForTenThousands": 43
+                "testLast7Days": 93,
+                "patientDiffPopulationForTenThousands": 35
             },
             {
                 "city": "תקוע",
-                "sickCount": 62,
+                "sickCount": 61,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 316,
-                "patientDiffPopulationForTenThousands": 7
+                "testLast7Days": 312,
+                "patientDiffPopulationForTenThousands": 5
             },
             {
                 "city": "אלעזר",
                 "sickCount": 53,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 252,
-                "patientDiffPopulationForTenThousands": 24
+                "testLast7Days": 246,
+                "patientDiffPopulationForTenThousands": 28
             },
             {
                 "city": "קודייראת א-צאנע(שבט)",
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 9,
+                "testLast7Days": 8,
                 "patientDiffPopulationForTenThousands": 7
             },
             {
@@ -24261,23 +24261,15 @@
                 "sickCount": 92,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 384,
+                "testLast7Days": 382,
                 "patientDiffPopulationForTenThousands": 24
-            },
-            {
-                "city": "צופים",
-                "sickCount": 71,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 233,
-                "patientDiffPopulationForTenThousands": 59
             },
             {
                 "city": "עומר",
                 "sickCount": 196,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 516,
+                "testLast7Days": 493,
                 "patientDiffPopulationForTenThousands": 13
             },
             {
@@ -24285,7 +24277,7 @@
                 "sickCount": 101,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 465,
+                "testLast7Days": 453,
                 "patientDiffPopulationForTenThousands": 13
             },
             {
@@ -24293,23 +24285,31 @@
                 "sickCount": 195,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 305,
+                "testLast7Days": 303,
                 "patientDiffPopulationForTenThousands": 20
             },
             {
-                "city": "נופית",
-                "sickCount": 50,
+                "city": "בית אל",
+                "sickCount": 146,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 375,
-                "patientDiffPopulationForTenThousands": 39
+                "testLast7Days": 966,
+                "patientDiffPopulationForTenThousands": 19
+            },
+            {
+                "city": "נופית",
+                "sickCount": 49,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "  6-10  ",
+                "testLast7Days": 354,
+                "patientDiffPopulationForTenThousands": 35
             },
             {
                 "city": "לפיד",
                 "sickCount": 59,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 174,
+                "testLast7Days": 173,
                 "patientDiffPopulationForTenThousands": 9
             },
             {
@@ -24317,39 +24317,39 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 25,
+                "testLast7Days": 24,
                 "patientDiffPopulationForTenThousands": 8
-            },
-            {
-                "city": "בית אל",
-                "sickCount": 146,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 976,
-                "patientDiffPopulationForTenThousands": 19
             },
             {
                 "city": "עפרה",
                 "sickCount": 79,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 316,
+                "testLast7Days": 313,
                 "patientDiffPopulationForTenThousands": 23
             },
             {
                 "city": "תפרח",
-                "sickCount": 319,
+                "sickCount": 317,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 254,
-                "patientDiffPopulationForTenThousands": 60
+                "testLast7Days": 243,
+                "patientDiffPopulationForTenThousands": 51
+            },
+            {
+                "city": "אורנית",
+                "sickCount": 184,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "  1-5  ",
+                "testLast7Days": 728,
+                "patientDiffPopulationForTenThousands": 12
             },
             {
                 "city": "יקיר",
                 "sickCount": 110,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 190,
+                "testLast7Days": 185,
                 "patientDiffPopulationForTenThousands": 13
             },
             {
@@ -24357,23 +24357,15 @@
                 "sickCount": 48,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 194,
+                "testLast7Days": 191,
                 "patientDiffPopulationForTenThousands": 48
-            },
-            {
-                "city": "אורנית",
-                "sickCount": 184,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 735,
-                "patientDiffPopulationForTenThousands": 12
             },
             {
                 "city": "גן נר",
                 "sickCount": 48,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 150,
+                "testLast7Days": 144,
                 "patientDiffPopulationForTenThousands": 30
             },
             {
@@ -24381,16 +24373,16 @@
                 "sickCount": 240,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 463,
+                "testLast7Days": 461,
                 "patientDiffPopulationForTenThousands": 13
             },
             {
                 "city": "קרית ארבע",
-                "sickCount": 195,
+                "sickCount": 193,
                 "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 536,
-                "patientDiffPopulationForTenThousands": 14
+                "verifiedLast7Days": "  1-5  ",
+                "testLast7Days": 526,
+                "patientDiffPopulationForTenThousands": 11
             },
             {
                 "city": "עילוט",
@@ -24405,7 +24397,7 @@
                 "sickCount": 90,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 56,
+                "testLast7Days": 55,
                 "patientDiffPopulationForTenThousands": 58
             },
             {
@@ -24413,7 +24405,7 @@
                 "sickCount": 75,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 194,
+                "testLast7Days": 192,
                 "patientDiffPopulationForTenThousands": 9
             },
             {
@@ -24421,7 +24413,7 @@
                 "sickCount": 63,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 170,
+                "testLast7Days": 164,
                 "patientDiffPopulationForTenThousands": 34
             },
             {
@@ -24429,7 +24421,7 @@
                 "sickCount": 125,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 211,
+                "testLast7Days": 208,
                 "patientDiffPopulationForTenThousands": 4
             },
             {
@@ -24437,39 +24429,39 @@
                 "sickCount": 156,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 79,
+                "testLast7Days": 76,
                 "patientDiffPopulationForTenThousands": 25
-            },
-            {
-                "city": "הר אדר",
-                "sickCount": 74,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 448,
-                "patientDiffPopulationForTenThousands": 17
-            },
-            {
-                "city": "ירוחם",
-                "sickCount": 363,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 777,
-                "patientDiffPopulationForTenThousands": 6
             },
             {
                 "city": "גני מודיעין",
                 "sickCount": 134,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 85,
+                "testLast7Days": 83,
                 "patientDiffPopulationForTenThousands": 18
+            },
+            {
+                "city": "הר אדר",
+                "sickCount": 74,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "  6-10  ",
+                "testLast7Days": 444,
+                "patientDiffPopulationForTenThousands": 20
+            },
+            {
+                "city": "ירוחם",
+                "sickCount": 363,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "  1-5  ",
+                "testLast7Days": 756,
+                "patientDiffPopulationForTenThousands": 6
             },
             {
                 "city": "שבלי - אום אל-גנם",
                 "sickCount": 285,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 190,
+                "testLast7Days": 189,
                 "patientDiffPopulationForTenThousands": 6
             },
             {
@@ -24477,15 +24469,23 @@
                 "sickCount": 151,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 352,
+                "testLast7Days": 345,
                 "patientDiffPopulationForTenThousands": 13
+            },
+            {
+                "city": "גבעת אבני",
+                "sickCount": 51,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "  1-5  ",
+                "testLast7Days": 117,
+                "patientDiffPopulationForTenThousands": 10
             },
             {
                 "city": "קיסריה",
                 "sickCount": 107,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 412,
+                "testLast7Days": 400,
                 "patientDiffPopulationForTenThousands": 18
             },
             {
@@ -24493,40 +24493,32 @@
                 "sickCount": 75,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 153,
+                "testLast7Days": 149,
                 "patientDiffPopulationForTenThousands": 39
-            },
-            {
-                "city": "גבעת אבני",
-                "sickCount": 51,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 121,
-                "patientDiffPopulationForTenThousands": 10
-            },
-            {
-                "city": "להבים",
-                "sickCount": 160,
-                "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 462,
-                "patientDiffPopulationForTenThousands": 21
             },
             {
                 "city": "אליכין",
                 "sickCount": 93,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 337,
+                "testLast7Days": 332,
                 "patientDiffPopulationForTenThousands": 15
             },
             {
-                "city": "יבנאל",
-                "sickCount": 183,
+                "city": "להבים",
+                "sickCount": 160,
                 "actualSick": " קטן מ-15 ",
-                "verifiedLast7Days": "  6-10  ",
-                "testLast7Days": 81,
-                "patientDiffPopulationForTenThousands": 17
+                "verifiedLast7Days": "  1-5  ",
+                "testLast7Days": 441,
+                "patientDiffPopulationForTenThousands": 21
+            },
+            {
+                "city": "יבנאל",
+                "sickCount": 182,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": "  1-5  ",
+                "testLast7Days": 78,
+                "patientDiffPopulationForTenThousands": 14
             },
             {
                 "city": "גבעת ברנר",
@@ -24538,10 +24530,18 @@
             },
             {
                 "city": "מצפה רמון",
-                "sickCount": 77,
+                "sickCount": 76,
                 "actualSick": " קטן מ-15 ",
                 "verifiedLast7Days": "  1-5  ",
-                "testLast7Days": 338,
+                "testLast7Days": 331,
+                "patientDiffPopulationForTenThousands": 8
+            },
+            {
+                "city": "אבן יהודה",
+                "sickCount": 288,
+                "actualSick": " קטן מ-15 ",
+                "verifiedLast7Days": " 11-14 ",
+                "testLast7Days": 862,
                 "patientDiffPopulationForTenThousands": 10
             },
             {
@@ -24557,7 +24557,7 @@
                 "sickCount": 51,
                 "actualSick": 0,
                 "verifiedLast7Days": "  0  ",
-                "testLast7Days": 176,
+                "testLast7Days": 174,
                 "patientDiffPopulationForTenThousands": 0
             },
             {
@@ -24573,7 +24573,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": 0,
                 "verifiedLast7Days": "  0  ",
-                "testLast7Days": 22,
+                "testLast7Days": 21,
                 "patientDiffPopulationForTenThousands": 0
             },
             {
@@ -24581,7 +24581,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": 0,
                 "verifiedLast7Days": "  0  ",
-                "testLast7Days": 42,
+                "testLast7Days": 38,
                 "patientDiffPopulationForTenThousands": 0
             },
             {
@@ -24597,7 +24597,7 @@
                 "sickCount": 16,
                 "actualSick": 0,
                 "verifiedLast7Days": "  0  ",
-                "testLast7Days": 57,
+                "testLast7Days": 52,
                 "patientDiffPopulationForTenThousands": 0
             },
             {
@@ -24605,7 +24605,7 @@
                 "sickCount": " קטן מ-15 ",
                 "actualSick": 0,
                 "verifiedLast7Days": "  0  ",
-                "testLast7Days": 75,
+                "testLast7Days": 74,
                 "patientDiffPopulationForTenThousands": 0
             },
             {
@@ -24613,7 +24613,7 @@
                 "sickCount": 45,
                 "actualSick": 0,
                 "verifiedLast7Days": "  0  ",
-                "testLast7Days": 155,
+                "testLast7Days": 150,
                 "patientDiffPopulationForTenThousands": 0
             }
         ]
@@ -24624,121 +24624,121 @@
             {
                 "name": "שיבא",
                 "coronaOccupancy": null,
-                "normalOccupancy": 99.3670883178711,
+                "normalOccupancy": 93.417724609375,
                 "isolatedTeam": 53
             },
             {
                 "name": "יוספטל",
                 "coronaOccupancy": null,
-                "normalOccupancy": 58.46154022216797,
+                "normalOccupancy": 53.84615325927734,
                 "isolatedTeam": 0
             },
             {
                 "name": "שמיר",
                 "coronaOccupancy": null,
-                "normalOccupancy": 69.8092041015625,
+                "normalOccupancy": 60.71829223632813,
                 "isolatedTeam": 30
             },
             {
                 "name": "וולפסון",
                 "coronaOccupancy": null,
-                "normalOccupancy": 73.06002807617188,
+                "normalOccupancy": 65.73938751220703,
                 "isolatedTeam": 19
             },
             {
                 "name": "זיו צפת",
                 "coronaOccupancy": null,
-                "normalOccupancy": 75.21614074707031,
+                "normalOccupancy": 72.04611206054688,
                 "isolatedTeam": 58
             },
             {
                 "name": "הלל יפה",
                 "coronaOccupancy": null,
-                "normalOccupancy": 88.34951782226562,
+                "normalOccupancy": 83.30097198486328,
                 "isolatedTeam": 20
             },
             {
                 "name": "נהריה",
                 "coronaOccupancy": null,
-                "normalOccupancy": 76.48686218261719,
+                "normalOccupancy": 74.27385711669922,
                 "isolatedTeam": 52
             },
             {
                 "name": "ברזילי",
                 "coronaOccupancy": null,
-                "normalOccupancy": 85,
+                "normalOccupancy": 77.33333587646484,
                 "isolatedTeam": 42
             },
             {
                 "name": "פוריה",
                 "coronaOccupancy": null,
-                "normalOccupancy": 61.97183227539063,
+                "normalOccupancy": 58.87323760986328,
                 "isolatedTeam": 25
             },
             {
                 "name": "סוראסקי",
                 "coronaOccupancy": null,
-                "normalOccupancy": 113.0657577514648,
+                "normalOccupancy": 96.2425308227539,
                 "isolatedTeam": 62
             },
             {
                 "name": "בני ציון",
                 "coronaOccupancy": null,
-                "normalOccupancy": 79.90762329101562,
+                "normalOccupancy": 78.06004333496094,
                 "isolatedTeam": 53
             },
             {
                 "name": "רבין ק. בילינסון",
                 "coronaOccupancy": null,
-                "normalOccupancy": 92.93413543701172,
+                "normalOccupancy": 84.79042053222656,
                 "isolatedTeam": 73
             },
             {
                 "name": "סורוקה",
                 "coronaOccupancy": null,
-                "normalOccupancy": 70.54734802246094,
+                "normalOccupancy": 68.46220397949219,
                 "isolatedTeam": 81
             },
             {
                 "name": "מאיר",
                 "coronaOccupancy": null,
-                "normalOccupancy": 78.53470611572266,
+                "normalOccupancy": 80.84832763671875,
                 "isolatedTeam": 48
             },
             {
                 "name": "קפלן",
                 "coronaOccupancy": null,
-                "normalOccupancy": 89.89169311523438,
+                "normalOccupancy": 93.8628158569336,
                 "isolatedTeam": 17
             },
             {
                 "name": "רמב\"ם",
                 "coronaOccupancy": null,
-                "normalOccupancy": 97.1134033203125,
+                "normalOccupancy": 90.9278335571289,
                 "isolatedTeam": 122
             },
             {
                 "name": "הכרמל",
                 "coronaOccupancy": null,
-                "normalOccupancy": 73.41513061523438,
+                "normalOccupancy": 68.71165466308594,
                 "isolatedTeam": 81
             },
             {
                 "name": "השרון ק. גולדה",
                 "coronaOccupancy": null,
-                "normalOccupancy": 70.12448120117188,
+                "normalOccupancy": 56.84647369384766,
                 "isolatedTeam": 19
             },
             {
                 "name": "הדסה עין כרם",
                 "coronaOccupancy": null,
-                "normalOccupancy": 110.8465576171875,
+                "normalOccupancy": 103.9682540893555,
                 "isolatedTeam": 133
             },
             {
                 "name": "הסקוטי",
                 "coronaOccupancy": null,
-                "normalOccupancy": 104.5112762451172,
+                "normalOccupancy": 90.2255630493164,
                 "isolatedTeam": 14
             },
             {
@@ -24768,7 +24768,7 @@
             {
                 "name": "לניאדו",
                 "coronaOccupancy": null,
-                "normalOccupancy": 79.94429016113281,
+                "normalOccupancy": 84.40111541748047,
                 "isolatedTeam": 15
             },
             {
@@ -24780,7 +24780,7 @@
             {
                 "name": "מעייני הישועה",
                 "coronaOccupancy": null,
-                "normalOccupancy": 96.51898956298828,
+                "normalOccupancy": 87.02531433105469,
                 "isolatedTeam": 15
             },
             {
@@ -24798,13 +24798,13 @@
             {
                 "name": "סנט וינסנט",
                 "coronaOccupancy": null,
-                "normalOccupancy": 47.01492691040039,
+                "normalOccupancy": 50,
                 "isolatedTeam": 8
             },
             {
                 "name": "המרכזי בעמק",
                 "coronaOccupancy": null,
-                "normalOccupancy": 76.03448486328125,
+                "normalOccupancy": 75.51724243164062,
                 "isolatedTeam": 87
             }
         ]
@@ -26354,28 +26354,28 @@
             },
             {
                 "date": "2020-12-16T00:00:00.000Z",
-                "dailyDoublingRate": 7.069547118352126,
-                "numberOfDoublingDays": 10.1473182655785
+                "dailyDoublingRate": 7.076724323548422,
+                "numberOfDoublingDays": 10.13737048994523
             },
             {
                 "date": "2020-12-17T00:00:00.000Z",
-                "dailyDoublingRate": 5.603968360370004,
-                "numberOfDoublingDays": 12.71228741996896
+                "dailyDoublingRate": 5.6035927340974725,
+                "numberOfDoublingDays": 12.71311674881696
             },
             {
                 "date": "2020-12-18T00:00:00.000Z",
-                "dailyDoublingRate": 6.366637044560108,
-                "numberOfDoublingDays": 11.23018777190658
+                "dailyDoublingRate": 6.353538559187566,
+                "numberOfDoublingDays": 11.25263994451841
             },
             {
                 "date": "2020-12-19T00:00:00.000Z",
-                "dailyDoublingRate": 3.508981321238891,
-                "numberOfDoublingDays": 20.09809733750127
+                "dailyDoublingRate": 3.4912867032704584,
+                "numberOfDoublingDays": 20.19822242625973
             },
             {
                 "date": "2020-12-20T00:00:00.000Z",
-                "dailyDoublingRate": 6.44566157394062,
-                "numberOfDoublingDays": 11.09666685205064
+                "dailyDoublingRate": 6.302981373623218,
+                "numberOfDoublingDays": 11.34017518237038
             }
         ]
     },
@@ -32314,7 +32314,7 @@
             },
             {
                 "date": "2020-12-16T00:00:00.000Z",
-                "amount": 2431
+                "amount": 2432
             },
             {
                 "date": "2020-12-17T00:00:00.000Z",
@@ -32322,15 +32322,15 @@
             },
             {
                 "date": "2020-12-18T00:00:00.000Z",
-                "amount": 2490
+                "amount": 2488
             },
             {
                 "date": "2020-12-19T00:00:00.000Z",
-                "amount": 1601
+                "amount": 1599
             },
             {
                 "date": "2020-12-20T00:00:00.000Z",
-                "amount": 2341
+                "amount": 2326
             }
         ]
     },
@@ -32359,28 +32359,28 @@
             },
             {
                 "section": 40,
-                "male": 5,
+                "male": 6,
                 "female": 1
             },
             {
                 "section": 50,
-                "male": 13,
-                "female": 1
+                "male": 14,
+                "female": 2
             },
             {
                 "section": 60,
-                "male": 22,
+                "male": 25,
                 "female": 11
             },
             {
                 "section": 70,
-                "male": 22,
-                "female": 15
+                "male": 19,
+                "female": 12
             },
             {
                 "section": 80,
-                "male": 8,
-                "female": 6
+                "male": 9,
+                "female": 9
             },
             {
                 "section": 90,
@@ -32404,7 +32404,7 @@
             },
             {
                 "section": 20,
-                "male": 3,
+                "male": 2,
                 "female": 6
             },
             {
@@ -32415,31 +32415,31 @@
             {
                 "section": 40,
                 "male": 23,
-                "female": 15
+                "female": 14
             },
             {
                 "section": 50,
                 "male": 105,
-                "female": 58
+                "female": 57
             },
             {
                 "section": 60,
-                "male": 288,
+                "male": 286,
                 "female": 119
             },
             {
                 "section": 70,
-                "male": 526,
+                "male": 525,
                 "female": 257
             },
             {
                 "section": 80,
                 "male": 572,
-                "female": 484
+                "female": 483
             },
             {
                 "section": 90,
-                "male": 253,
+                "male": 252,
                 "female": 376
             }
         ]
@@ -32449,13 +32449,13 @@
         "data": [
             {
                 "section": 0,
-                "male": 0,
+                "male": 1,
                 "female": 0
             },
             {
                 "section": 10,
                 "male": 2,
-                "female": 1
+                "female": 0
             },
             {
                 "section": 20,
@@ -32469,32 +32469,32 @@
             },
             {
                 "section": 40,
-                "male": 17,
+                "male": 18,
                 "female": 8
             },
             {
                 "section": 50,
                 "male": 42,
-                "female": 17
+                "female": 16
             },
             {
                 "section": 60,
-                "male": 92,
+                "male": 90,
                 "female": 42
             },
             {
                 "section": 70,
-                "male": 71,
-                "female": 51
+                "male": 69,
+                "female": 45
             },
             {
                 "section": 80,
-                "male": 44,
+                "male": 43,
                 "female": 36
             },
             {
                 "section": 90,
-                "male": 10,
+                "male": 9,
                 "female": 15
             }
         ]
@@ -34934,28 +34934,28 @@
             },
             {
                 "date": "2020-12-16T00:00:00.000Z",
-                "dailyDoublingRate": 7.069547118352126,
-                "numberOfDoublingDays": 10.1473182655785
+                "dailyDoublingRate": 7.076724323548422,
+                "numberOfDoublingDays": 10.13737048994523
             },
             {
                 "date": "2020-12-17T00:00:00.000Z",
-                "dailyDoublingRate": 5.603968360370004,
-                "numberOfDoublingDays": 12.71228741996896
+                "dailyDoublingRate": 5.6035927340974725,
+                "numberOfDoublingDays": 12.71311674881696
             },
             {
                 "date": "2020-12-18T00:00:00.000Z",
-                "dailyDoublingRate": 6.366637044560108,
-                "numberOfDoublingDays": 11.23018777190658
+                "dailyDoublingRate": 6.353538559187566,
+                "numberOfDoublingDays": 11.25263994451841
             },
             {
                 "date": "2020-12-19T00:00:00.000Z",
-                "dailyDoublingRate": 3.508981321238891,
-                "numberOfDoublingDays": 20.09809733750127
+                "dailyDoublingRate": 3.4912867032704584,
+                "numberOfDoublingDays": 20.19822242625973
             },
             {
                 "date": "2020-12-20T00:00:00.000Z",
-                "dailyDoublingRate": 6.44566157394062,
-                "numberOfDoublingDays": 11.09666685205064
+                "dailyDoublingRate": 6.302981373623218,
+                "numberOfDoublingDays": 11.34017518237038
             }
         ]
     }
