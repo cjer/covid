@@ -68,7 +68,7 @@ with requests.session() as session:
                            {"id":"10","queryName":"patientsPerDate","single":False,"parameters":{}},
                            {"id":"11","queryName":"infectedByAgeAndGenderPublic","single":False,
                             "parameters":{"ageSections":[0,10,20,30,40,50,60,70,80,90]}},
-                           {"id":"12","queryName":"isolatedDoctorsAndNurses","single":True,"parameters":{}},
+                           {"id":"12","queryName":"isolatedVerifiedDoctorsAndNurses","single":False,"parameters":{}},
                            {"id":"13","queryName":"testResultsPerDate","single":False,"parameters":{}},
                            {"id":"14","queryName":"contagionDataPerCityPublic","single":False,"parameters":{}},
                            {"id":"15","queryName":"hospitalStatus","single":False,"parameters":{}},
