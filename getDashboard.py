@@ -84,6 +84,13 @@ with requests.session() as session:
                             "parameters":{"ageSections":[0,10,20,30,40,50,60,70,80,90]}},
                            {"id":"23", "queryName":"patientsStatus", "single": False, "parameters": {}},
                            {"id":"24", "queryName":"doublingRate", "single": False, "parameters": {}},
+                           {"id": "25", "queryName": "vaccinated", "single": False, "parameters": {}},
+                           {"id": "26", "queryName": "vaccinated", "single": False, "parameters": {"days": 0}},
+                           {"id": "27", "queryName": "HospitalBedStatusSegmentation", "single": False, "parameters": {}},
+                           {"id": "28", "queryName": "vaccinationsPerAge", "single": False, "parameters": {}},
+                           {"id": "29", "queryName": "cumSeriusAndBreath", "single": False, "parameters": {}},
+                           {"id": "30", "queryName": "averageInfectedPerWeek", "single": False, "parameters": {}},
+
                            # {"id":"25", "queryName":"spotlightLastupdate", "single": False, "parameters": {}}
                            ]}
     # payload = {"requests": [{"id": "0", "queryName": "lastUpdate", "single": True, "parameters": {}}]}
