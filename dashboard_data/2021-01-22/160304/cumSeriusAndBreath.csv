@@ -1,0 +1,2 @@
+Day_Date,new_hospitalized,Counthospitalized,Counthospitalized_without_release,CountHardStatus,CountMediumStatus,CountEasyStatus,CountBreath,CountDeath,total_beds,StandardOccupancy,num_visits,patients_home,patients_hotel,CountBreathCum,CountDeathCum,CountCriticalStatus,CountSeriousCriticalCum,serious_critical_new,lastUpdate
+2021-01-22T00:00:00.000Z,36,1822,1822,1182,287,353,316,10,2020,0.901980198019802,2499,76479,1641,2658,4266,399,14545,71,2021-01-22T13:28:10.110Z
